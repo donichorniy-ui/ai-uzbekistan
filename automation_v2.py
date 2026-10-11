@@ -1,50 +1,117 @@
 import os
 import requests
 import json
+import feedparser
 import google.generativeai as genai
-import urllib.parse
+from datetime import datetime
 
+# --- НАСТРОЙКИ ---
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO_NAME = os.getenv("REPO_NAME")
 
+# Актуальная модель Google Gemini
+MODEL_NAME = "gemini-3.8-flash"
+
+# Источники новостей (RSS)
+RSS_FEEDS = [
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    "https://blog.google/technology/ai/rss/"
+]
+
+# Инициализация Gemini
 genai.configure(api_key=GEMINI_API_KEY)
+model = genai.GenerativeModel(MODEL_NAME)
 
-def get_best_model():
+def get_ai_adaptation(text):
+    """Переводит новость и адаптирует её для Узбекистана на двух языках"""
+    prompt = f"""
+    You are an expert AI journalist for the Uzbekistan market. 
+    Analyze the following AI news text and provide a response in STRICT JSON format.
+    
+    News text: {text}
+    
+    The JSON must have these fields:
+    - title_ru: Catchy title in Russian
+    - title_uz: Catchy title in Uzbek
+    - summary_ru: Short summary (2-3 sentences) in Russian
+    - summary_uz: Short summary (2-3 sentences) in Uzbek
+    - benefit_ru: Why is this useful for people in Uzbekistan? (1 sentence) in Russian
+    - benefit_uz: Why is this useful for people in Uzbekistan? (1 sentence) in Uzbek
+    - image_prompt: A high-quality, cinematic English prompt for an AI image generator (like Midjourney) that represents this news. Keep it under 20 words.
+    
+    Return ONLY the JSON.
+    """
+    
     try:
-        available = [m.name for m in genai.list_models()]
-        for m_name in ['models/gemini-1.5-flash', 'models/gemini-1.5-pro', 'models/gemini-pro']:
-            if m_name in available:
-                return genai.GenerativeModel(m_name)
-        return genai.GenerativeModel(available[0])
-    except:
+        response = model.generate_content(prompt)
+        # Очистка от возможных markdown-тегов ```json ... ```
+        clean_json = response.text.replace('```json', '').replace('```', '').strip()
+        return json.loads(clean_json)
+    except Exception as e:
+        print(f"Error adapting content: {e}")
         return None
 
-def fetch_news():
-    return [
-        {"title": "Ollama 0.3 released", "url": "https://ollama.com/blog/ollama-0.3", "content": "Ollama 0.3 adds support for more models."},
-        {"title": "AI in Uzbekistan", "url": "https://example.com/uz", "content": "New LLM for Uzbek language developed."},
-    ]
+def post_to_telegram(content, image_url, original_url):
+    """Отправляет пост с картинкой в Телеграм канал"""
+    caption = (
+        f"<b>{content['title_ru']}</b>\n\n"
+        f"{content['summary_ru']}\n\n"
+        f"🇺🇿 <b>Почему это важно:</b> {content['benefit_ru']}\n\n"
+        f"------------------\n\n"
+        f"<b>{content['title_uz']}</b>\n\n"
+        f"{content['summary_uz']}\n\n"
+        f"🇺🇿 <b>Nima uchun bu muhim:</b> {content['benefit_uz']}\n\n"
+        f"🔗 <a href='{original_url}'>Читать оригинал / Aslini o'qish</a>"
+    )
+    
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
+    payload = {
+        "chat_id": TELEGRAM_CHANNEL_ID,
+        "photo": image_url,
+        "caption": caption,
+        "parse_mode": "HTML"
+    }
+    
+    try:
+        res = requests.post(url, json=payload)
+        return res.json()
+    except Exception as e:
+        print(f"Error posting to Telegram: {e}")
+        return None
 
 def main():
-    print("Starting AI News Curator v2... ")
-    model = get_best_model()
-    if not model:
-        print("No model found"); return
+    print("Starting AI News Curator v2... 🚀")
     
-    for item in fetch_news():
-        try:
-            prompt = f"Translate to RU and UZ for Uzbekistan: {item['title']} {item['content']}. Return JSON: {{\"title_ru\":\"\",\"title_uz\":\"\",\"summary_ru\":\"\",\"summary_uz\":\"\",\"benefit_ru\":\"\",\"benefit_uz\":\"\",\"image_prompt\":\"\"}}"
-            res = model.generate_content(prompt)
-            data = json.loads(res.text.replace('```json', '').replace('```', '').strip())
-            p_enc = urllib.parse.quote(data.get('image_prompt', 'AI Uzbekistan'))
-            img_url = f"https://image.pollinations.ai/prompt/{p_enc}?width=1024&height=1024&nologo=true"
-            msg = f"🌟 <b>{data['title_ru']}</b>\n\n{data['summary_ru']}\n\n🇺🇿 <b>{data['title_uz']}</b>\n\n{data['summary_uz']}\n\n💡 {data['benefit_ru']}\n\n🔗 <a href='{item['url']}'>Read more</a>"
-            requests.post(f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto", 
-                          json={"chat_id": TELEGRAM_CHANNEL_ID, "photo": img_url, "caption": msg, "parse_mode": "HTML"})
-            print(f"✅ Posted: {item['title']}")
-        except Exception as e:
-            print(f"Error: {e}")
+    for feed_url in RSS_FEEDS:
+        print(f"Checking feed: {feed_url}")
+        feed = feedparser.parse(feed_url)
+        
+        for entry in feed.entries[:3]: # Берем первые 3 новости из каждого источника
+            print(f"Processing: {entry.title}")
+            
+            # 1. Адаптация контента через Gemini
+            adaptation = get_ai_adaptation(entry.summary if 'summary' in entry else entry.title)
+            
+            if adaptation:
+                # 2. Генерация ссылки на картинку через Pollinations.ai
+                image_prompt = adaptation['image_prompt'].replace(" ", "%20")
+                image_url = f"https://image.pollinations.ai/prompt/{image_prompt}?width=1024&height=1024&nologo=true"
+                
+                # 3. Постинг в Телеграм
+                result = post_to_telegram(adaptation, image_url, entry.link)
+                
+                if result and result.get("ok"):
+                    print(f"Successfully posted: {entry.title}")
+                else:
+                    print(f"Failed to post: {entry.title}")
+            else:
+                print(f"Could not adapt news: {entry.title}")
+
+    print("Automation finished! ✅")
 
 if __name__ == "__main__":
     main()
