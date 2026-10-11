@@ -24,6 +24,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel(MODEL_NAME)
 
 def get_ai_adaptation(text):
+    # ОБНОВЛЕННЫЙ ПРОМПТ: СТРОГИЕ ЛИМИТЫ ПО ДЛИНЕ
     prompt = f"""
     You are an expert AI journalist for the Uzbekistan market. 
     Analyze the following AI news text and provide a response in STRICT JSON format.
@@ -31,14 +32,15 @@ def get_ai_adaptation(text):
     News text: {text}
     
     The JSON must have these fields:
-    - title_ru: Catchy title in Russian
-    - title_uz: Catchy title in Uzbek
-    - summary_ru: Short summary (2-3 sentences) in Russian
-    - summary_uz: Short summary (2-3 sentences) in Uzbek
-    - benefit_ru: Why is this useful for people in Uzbekistan? (1 sentence) in Russian
-    - benefit_uz: Why is this useful for people in Uzbekistan? (1 sentence) in Uzbek
-    - image_prompt: A high-quality, cinematic English prompt for an AI image generator that represents this news. Keep it under 20 words.
+    - title_ru: Catchy title (max 10 words) in Russian
+    - title_uz: Catchy title (max 10 words) in Uzbek
+    - summary_ru: Very short summary (max 2 short sentences) in Russian
+    - summary_uz: Very short summary (max 2 short sentences) in Uzbek
+    - benefit_ru: Why this is useful for Uzbekistan (max 1 short sentence) in Russian
+    - benefit_uz: Why this is useful for Uzbekistan (max 1 short sentence) in Uzbek
+    - image_prompt: High-quality cinematic English prompt for AI image generator (max 15 words).
     
+    IMPORTANT: Keep all texts very concise to fit in a Telegram caption.
     Return ONLY the JSON.
     """
     try:
@@ -83,7 +85,8 @@ def main():
         print(f"Checking feed: {feed_url}")
         feed = feedparser.parse(feed_url)
         
-        for entry in feed.entries[:3]:
+        # ОГРАНИЧЕНИЕ: Берем только 1 новость из каждого источника для экономии квоты
+        for entry in feed.entries[:1]: 
             print(f"Processing: {entry.title}")
             adaptation = get_ai_adaptation(entry.summary if 'summary' in entry else entry.title)
             
@@ -96,7 +99,6 @@ def main():
                 if result and result.get("ok"):
                     print(f"Successfully posted: {entry.title}")
                 else:
-                    # ВОТ ТУТ МЫ ТЕПЕРЬ ВИДИМ ОШИБКУ
                     error_msg = result.get("description", "Unknown error") if result else "No response"
                     print(f"FAILED to post: {entry.title} | ERROR: {error_msg}")
             else:
