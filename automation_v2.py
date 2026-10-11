@@ -12,22 +12,18 @@ TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO_NAME = os.getenv("REPO_NAME")
 
-# Актуальная модель Google Gemini
 MODEL_NAME = "gemini-3.8-flash"
 
-# Источники новостей (RSS)
 RSS_FEEDS = [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
     "https://blog.google/technology/ai/rss/"
 ]
 
-# Инициализация Gemini
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel(MODEL_NAME)
 
 def get_ai_adaptation(text):
-    """Переводит новость и адаптирует её для Узбекистана на двух языках"""
     prompt = f"""
     You are an expert AI journalist for the Uzbekistan market. 
     Analyze the following AI news text and provide a response in STRICT JSON format.
@@ -41,14 +37,12 @@ def get_ai_adaptation(text):
     - summary_uz: Short summary (2-3 sentences) in Uzbek
     - benefit_ru: Why is this useful for people in Uzbekistan? (1 sentence) in Russian
     - benefit_uz: Why is this useful for people in Uzbekistan? (1 sentence) in Uzbek
-    - image_prompt: A high-quality, cinematic English prompt for an AI image generator (like Midjourney) that represents this news. Keep it under 20 words.
+    - image_prompt: A high-quality, cinematic English prompt for an AI image generator that represents this news. Keep it under 20 words.
     
     Return ONLY the JSON.
     """
-    
     try:
         response = model.generate_content(prompt)
-        # Очистка от возможных markdown-тегов ```json ... ```
         clean_json = response.text.replace('```json', '').replace('```', '').strip()
         return json.loads(clean_json)
     except Exception as e:
@@ -56,7 +50,6 @@ def get_ai_adaptation(text):
         return None
 
 def post_to_telegram(content, image_url, original_url):
-    """Отправляет пост с картинкой в Телеграм канал"""
     caption = (
         f"<b>{content['title_ru']}</b>\n\n"
         f"{content['summary_ru']}\n\n"
@@ -80,7 +73,7 @@ def post_to_telegram(content, image_url, original_url):
         res = requests.post(url, json=payload)
         return res.json()
     except Exception as e:
-        print(f"Error posting to Telegram: {e}")
+        print(f"Request Error: {e}")
         return None
 
 def main():
@@ -90,24 +83,22 @@ def main():
         print(f"Checking feed: {feed_url}")
         feed = feedparser.parse(feed_url)
         
-        for entry in feed.entries[:3]: # Берем первые 3 новости из каждого источника
+        for entry in feed.entries[:3]:
             print(f"Processing: {entry.title}")
-            
-            # 1. Адаптация контента через Gemini
             adaptation = get_ai_adaptation(entry.summary if 'summary' in entry else entry.title)
             
             if adaptation:
-                # 2. Генерация ссылки на картинку через Pollinations.ai
                 image_prompt = adaptation['image_prompt'].replace(" ", "%20")
                 image_url = f"https://image.pollinations.ai/prompt/{image_prompt}?width=1024&height=1024&nologo=true"
                 
-                # 3. Постинг в Телеграм
                 result = post_to_telegram(adaptation, image_url, entry.link)
                 
                 if result and result.get("ok"):
                     print(f"Successfully posted: {entry.title}")
                 else:
-                    print(f"Failed to post: {entry.title}")
+                    # ВОТ ТУТ МЫ ТЕПЕРЬ ВИДИМ ОШИБКУ
+                    error_msg = result.get("description", "Unknown error") if result else "No response"
+                    print(f"FAILED to post: {entry.title} | ERROR: {error_msg}")
             else:
                 print(f"Could not adapt news: {entry.title}")
 
