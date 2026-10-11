@@ -1,0 +1,11 @@
+[
+    {
+        "title_ru": "Как запустить локальный ИИ через Ollama",
+        "title_uz": "Ollama orqali lokal AI ni qanday ishga tushirish mumkin",
+        "summary_ru": "Полная инструкция по установке Ollama на ваш компьютер, чтобы использовать нейросети без интернета и бесплатно.",
+        "summary_uz": "Kompyuteringizga Ollama o'rnatish bo'yicha to'liq qo'llanma, shunda siz neyron tarmoqlardan internetsiz va bepul foydalanishingiz mumkin.",
+        "benefit_ru": "Вы больше не зависите от подписок ChatGPT или Claude. Всё работает на вашем железе.",
+        "benefit_uz": "Siz endi ChatGPT yoki Claude obunalariga bog'lanib qolmaysiz. Hammasi sizning qurilmangizda ishlaydi.",
+        "url": "https://ollama.com"
+    }
+]
