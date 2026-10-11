@@ -1,9 +1,10 @@
+# GitHub Action Workflow for AI News Automation (v2)
 name: AI News Automation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Автоматический запуск каждые 6 часов
+  workflow_dispatch: # Позволяет запускать робота вручную кнопкой
 
 jobs:
   build:
@@ -27,4 +28,4 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO_NAME: ${{ github.repository }}
-        run: python automation.py
+        run: python automation_v2.py
