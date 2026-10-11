@@ -3,95 +3,44 @@ import requests
 import json
 import google.generativeai as genai
 
-# Настройки из секретов GitHub
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 
 genai.configure(api_key=GEMINI_API_KEY)
-
-# Список моделей для перебора (от самых новых к старым)
 MODEL_LIST = ['gemini-1.5-flash', 'gemini-1.5-pro', 'gemini-pro']
 
-def get_working_model():
-    for model_name in MODEL_LIST:
+def get_model():
+    for m in MODEL_LIST:
         try:
-            print(f"Trying model: {model_name}...")
-            model = genai.GenerativeModel(model_name)
-            model.generate_content("Hi") 
-            print(f"✅ Model {model_name} is working!")
+            model = genai.GenerativeModel(m)
+            model.generate_content("Hi")
             return model
-        except Exception as e:
-            print(f"❌ Model {model_name} not available: {e}")
+        except: continue
     return None
 
-def fetch_ai_news():
+def fetch_news():
     return [
-        {"title": "Ollama 0.3 released", "url": "https://ollama.com/blog/ollama-0.3", "content": "Ollama 0.3 adds support for more models and improved performance."},
-        {"title": "New AI research on Uzbek language", "url": "https://example.com/uzbek-ai", "content": "Researchers have developed a new LLM optimized for Uzbek syntax."},
-        {"title": "Free AI Tools for 2026", "url": "https://example.com/free-tools", "content": "A list of the best free AI tools for productivity and coding in 2026."},
+        {"title": "Ollama 0.3 released", "url": "https://ollama.com/blog/ollama-0.3", "content": "Ollama 0.3 adds support for more models."},
+        {"title": "AI in Uzbekistan", "url": "https://example.com/uz", "content": "New LLM for Uzbek language developed."},
     ]
 
-def process_content(model, news_item):
-    prompt = f"""
-    You are an expert AI curator for Uzbekistan.
-    Translate and adapt the following news item into Russian and Uzbek.
-    Original Title: {news_item['title']}
-    Original Content: {news_item['content']}
-    URL: {news_item['url']}
-    Requirements:
-    1. Create a catchy title in RU and UZ.
-    2. Write a summary (2-3 sentences) in RU and UZ.
-    3. Add a section 'Why this is useful for Uzbekistan' in RU and UZ.
-    4. Format the output as strict JSON.
-    JSON Format:
-    {{
-        "title_ru": "...",
-        "title_uz": "...",
-        "summary_ru": "...",
-        "summary_uz": "...",
-        "benefit_ru": "...",
-        "benefit_uz": "..."
-    }}
-    """
-    response = model.generate_content(prompt)
-    text = response.text.replace('```json', '').replace('```', '').strip()
-    return json.loads(text)
-
-def post_to_telegram(content):
-    message = (
-        f"🌟 <b>{content['title_ru']}</b>\n\n{content['summary_ru']}\n\n"
-        f"🇺🇿 <b>{content['title_uz']}</b>\n\n{content['summary_uz']}\n\n"
-        f"💡 <b>Почему это важно:</b>\n{content['benefit_ru']}\n\n"
-        f"🇺🇿 <b>Nima uchun muhim:</b>\n{content['benefit_uz']}\n\n"
-        f"🔗 <a href='{content['url']}'>Читать оригинал / Aslini o'qish</a>"
-    )
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    payload = {"chat_id": TELEGRAM_CHANNEL_ID, "text": message, "parse_mode": "HTML"}
-    response = requests.post(url, json=payload)
-    if response.status_code == 200:
-        print(f"✅ SUCCESS: News '{content['title_ru']}' posted to channel!")
-    else:
-        print(f"❌ ERROR: Telegram responded with {response.status_code}: {response.text}")
-
 def main():
-    print("Starting AI News Curator... ")
-    working_model = get_//working_model = get_working_model()
-    if not working_model:
-        print("❌ CRITICAL ERROR: No working Gemini models found.")
-        return
-    try:
-        raw_news = fetch_ai_news()
-        for item in raw_news:
-            print(f"Processing: {item['title']}")
-            try:
-                adapted = process_content(working_model, item)
-                adapted['url'] = item['url']
-                post_to_telegram(adapted)
-            except Exception as e:
-                print(f"Error processing {item['title']}: {e}")
-    except Exception as e:
-        print(f"Critical System Error: {e}")
+    print("Running...")
+    model = get_model()
+    if not model:
+        print("No model found"); return
+    
+    for item in fetch_news():
+        try:
+            prompt = f"Translate to RU and UZ for Uzbekistan: {item['title']} {item['content']}. Return JSON: {{\"title_ru\":\"\",\"title_uz\":\"\",\"summary_ru\":\"\",\"summary_uz\":\"\",\"benefit_ru\":\"\",\"benefit_uz\":\"\"}}"
+            res = model.generate_content(prompt)
+            data = json.loads(res.text.replace('```json', '').replace('```', '').strip())
+            msg = f"🌟 <b>{data['title_ru']}</b>\n\n{data['summary_ru']}\n\n🇺🇿 <b>{data['title_uz']}</b>\n\n{data['summary_uz']}\n\n💡 {data['benefit_ru']}\n\n🔗 <a href='{item['url']}'>Read more</a>"
+            requests.post(f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage", 
+                          json={"chat_id": TELEGRAM_CHANNEL_ID, "text": msg, "parse_mode": "HTML"})
+            print(f"Posted: {item['title']}")
+        except Exception as e: print(f"Error: {e}")
 
 if __name__ == "__main__":
     main()
