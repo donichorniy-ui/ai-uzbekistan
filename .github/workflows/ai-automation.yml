@@ -1,10 +1,10 @@
-# GitHub Action Workflow for AI News Automation (v2)
+# GitHub Action Workflow for AI News Automation
 name: AI News Automation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Автоматический запуск каждые 6 часов
-  workflow_dispatch: # Позволяет запускать робота вручную кнопкой
+    - cron: '0 */6 * * *' # Run every 6 hours
+  workflow_dispatch: # Allow manual run
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests google-generativeai
+        run: pip install requests google-generativeai feedparser
 
       - name: Run Automation
         env:
