@@ -6,82 +6,100 @@ app = FastAPI()
 
 # Настройки
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-VIP_CHANNEL_ID = os.getenv("VIP_CHANNEL_ID") # Ссылка или ID вашего закрытого канала
+VIP_CHANNEL_ID = os.getenv("VIP_CHANNEL_ID")  # ID закрытого канала, например -1001234567890
+
+
+def tg(method, payload):
+    """Вызов Telegram Bot API. Возвращает JSON-ответ (или пустой dict при сбое сети)."""
+    url = f"https://api.telegram.org/bot{BOT_TOKEN}/{method}"
+    try:
+        return requests.post(url, json=payload, timeout=10).json()
+    except Exception as e:
+        print(f"Telegram error in {method}: {str(e).replace(str(BOT_TOKEN), '***')}")
+        return {}
+
 
 @app.get("/")
 async def root():
     return {"status": "Payment Bot is running"}
 
+
+@app.head("/")
+async def root_head():
+    return Response(status_code=200)
+
+
 @app.post("/webhook")
 async def telegram_webhook(request: Request):
     data = await request.json()
-    
-    # 1. Обработка обычных сообщений (Команда /start)
-    if "message" in data:
-        chat_id = data["message"]["chat"]["id"]
-        text = data["message"].get("text", "")
 
-        if text == "/start":
-            welcome_text = (
-                "Привет! Добро пожаловать в AI Uzbekistan. 🇺🇿\n\n"
-                "В нашем основном канале мы делимся бесплатными новостями.\n"
-                "Но если вы хотите получить доступ к <b>VIP-клубу</b> с секретными инструкциями, "
-                "платными нейросетями и закрытыми гайдами — подписывайтесь!\n\n"
-                "Стоимость доступа: <b>50 Telegram Stars 🌟</b>"
-            )
-            # Отправляем кнопку для оплаты
-            send_invoice(chat_id)
-            send_message(chat_id, welcome_text)
-
-    # 2. Обработка запроса на оплату (Pre-Checkout)
-    if "pre_checkout_query" in data:
-        chat_id = data["pre_checkout_query"]["id"]
-        # Подтверждаем, что мы готовы принять оплату
-        url = f"https://api.telegram.org/bot{BOT_TOKEN}/answerPreCheckoutQuery"
-        requests.post(url, json={"pre_checkout_query_id": chat_id, "ok": True})
-
-    # 3. Обработка успешной оплаты (Successful Payment)
-    if "message" in data and "successful_payment" in data["message"]:
-        chat_id = data["message"]["chat"]["id"]
-        
-        # Генерируем одноразовую ссылку в закрытый канал
-        invite_link = create_invite_link(chat_id)
-        
-        success_text = (
-            "🎉 <b>Оплата прошла успешно!</b>\n\n"
-            "Добро пожаловать в наш VIP-клуб. Вот ваша персональная ссылка для вступления:\n\n"
-            f"{invite_link}\n\n"
-            "До встречи в закрытом сообществе! 🚀"
+    # 1. Команда /start
+    message = data.get("message")
+    if message and message.get("text") == "/start":
+        chat_id = message["chat"]["id"]
+        welcome_text = (
+            "Привет! Добро пожаловать в AI Uzbekistan. 🇺🇿\n\n"
+            "В нашем основном канале мы делимся бесплатными новостями.\n"
+            "Но если вы хотите получить доступ к <b>VIP-клубу</b> с секретными инструкциями, "
+            "платными нейросетями и закрытыми гайдами — подписывайтесь!\n\n"
+            "Стоимость доступа: <b>50 Telegram Stars 🌟</b>"
         )
+        send_message(chat_id, welcome_text)
+        send_invoice(chat_id)
+
+    # 2. Подтверждение оплаты (нужно ответить в течение 10 секунд)
+    pre_checkout = data.get("pre_checkout_query")
+    if pre_checkout:
+        tg("answerPreCheckoutQuery", {"pre_checkout_query_id": pre_checkout["id"], "ok": True})
+
+    # 3. Успешная оплата
+    if message and "successful_payment" in message:
+        chat_id = message["chat"]["id"]
+        user_id = message["from"]["id"]
+        invite_link = create_invite_link(user_id)
+
+        if invite_link:
+            success_text = (
+                "🎉 <b>Оплата прошла успешно!</b>\n\n"
+                "Добро пожаловать в наш VIP-клуб. Вот ваша персональная ссылка для вступления:\n\n"
+                f"{invite_link}\n\n"
+                "Ссылка одноразовая. До встречи в закрытом сообществе! 🚀"
+            )
+        else:
+            success_text = (
+                "🎉 <b>Оплата прошла успешно!</b>\n\n"
+                "Но ссылку создать не удалось. Напишите администратору, он выдаст доступ вручную."
+            )
         send_message(chat_id, success_text)
 
     return Response(status_code=200)
 
+
 def send_message(chat_id, text):
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-    requests.post(url, json={"chat_id": chat_id, "text": text, "parse_mode": "HTML"})
+    tg("sendMessage", {"chat_id": chat_id, "text": text, "parse_mode": "HTML"})
+
 
 def send_invoice(chat_id):
-    """Отправляет счет на оплату в Telegram Stars."""
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendInvoice"
-    payload = {
+    """Отправляет счёт на оплату в Telegram Stars."""
+    tg("sendInvoice", {
         "chat_id": chat_id,
         "title": "Доступ в AI Uzbekistan VIP",
         "description": "Доступ к закрытому каналу с секретными AI-инструкциями и инструментами.",
         "payload": "vip_access_payment",
-        "provider_token": "", # Для Stars поле оставляем пустым
-        "currency": "XTR", # Код валюты для Telegram Stars
-        "prices": [{"label": "VIP Access", "amount": 50}] # Цена: 50 Stars
-    }
-    requests.post(url, json=payload)
+        "provider_token": "",  # Для Stars поле пустое
+        "currency": "XTR",  # Код валюты Telegram Stars
+        "prices": [{"label": "VIP Access", "amount": 50}],
+    })
+
 
 def create_invite_link(user_id):
-    """Создает одноразовую ссылку в закрытый канал."""
-    url = f"https://api.telegram.org/bot{BOT_TOKEN}/createChatInviteLink"
-    payload = {
+    """Создаёт одноразовую ссылку в закрытый канал. Бот должен быть админом канала."""
+    res = tg("createChatInviteLink", {
         "chat_id": VIP_CHANNEL_ID,
-        "member_user_id": user_id,
-        "member_limit": 1
-    }
-    res = requests.post(url, json=payload).json()
-    return res.get("result", {}).get("invite_link", "Ошибка создания ссылки")
+        "member_limit": 1,
+        "name": f"user {user_id}",
+    })
+    if not res.get("ok"):
+        print(f"createChatInviteLink failed: {res.get('description', res)}")
+        return None
+    return res["result"]["invite_link"]
