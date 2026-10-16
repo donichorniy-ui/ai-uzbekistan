@@ -1,31 +1,44 @@
 # GitHub Action Workflow for AI News Automation
+# Положить в .github/workflows/ai-automation.yml
 name: AI News Automation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Run every 6 hours
-  workflow_dispatch: # Allow manual run
+    - cron: '0 */6 * * *' # каждые 6 часов
+  workflow_dispatch: # ручной запуск
+
+# Не допускаем двух одновременных запусков (иначе возможны дубли постов)
+concurrency:
+  group: ai-news
+  cancel-in-progress: false
 
 jobs:
-  build:
+  post:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests google-generativeai feedparser
+        run: pip install requests feedparser
+
+      # Список уже опубликованных новостей (posted.json) хранится в кеше Actions,
+      # поэтому коммитить его в репозиторий не нужно (и Render не пересобирается).
+      - name: Restore posted list
+        uses: actions/cache@v4
+        with:
+          path: posted.json
+          key: posted-${{ github.run_id }}
+          restore-keys: posted-
 
       - name: Run Automation
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO_NAME: ${{ github.repository }}
         run: python -u automation_v2.py
