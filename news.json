@@ -1,11 +1,31 @@
 [
-    {
-        "title_ru": "Как запустить локальный ИИ через Ollama",
-        "title_uz": "Ollama orqali lokal AI ni qanday ishga tushirish mumkin",
-        "summary_ru": "Полная инструкция по установке Ollama на ваш компьютер, чтобы использовать нейросети без интернета и бесплатно.",
-        "summary_uz": "Kompyuteringizga Ollama o'rnatish bo'yicha to'liq qo'llanma, shunda siz neyron tarmoqlardan internetsiz va bepul foydalanishingiz mumkin.",
-        "benefit_ru": "Вы больше не зависите от подписок ChatGPT или Claude. Всё работает на вашем железе.",
-        "benefit_uz": "Siz endi ChatGPT yoki Claude obunalariga bog'lanib qolmaysiz. Hammasi sizning qurilmangizda ishlaydi.",
-        "url": "https://ollama.com"
-    }
+  {
+    "title_ru": "Анонсирован Gemini 4 Argon для сложнейших задач",
+    "title_uz": "Gemini 4 Argon eng murakkab vazifalar uchun taqdim etildi",
+    "summary_ru": "Представлена модель Gemini 4 Argon. Она создана для решения самых сложных проблем и задач.",
+    "summary_uz": "Yangi Gemini 4 Argon modeli e'lon qilindi. U eng murakkab muammolarni hal qilish uchun ishlab chiqilgan.",
+    "benefit_ru": "Новая модель поможет пользователям справляться с наиболее трудными рабочими задачами.",
+    "benefit_uz": "Yangi model foydalanuvchilarga eng qiyin ish vazifalarini yechishda yordam beradi.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Replit прекратил сотрудничество с компанией Anthropic",
+    "title_uz": "Replit kompaniyasi Anthropic bilan hamkorlikni to‘xtatdi",
+    "summary_ru": "Глава Replit сообщил о прекращении работы с Anthropic, назвав среди причин стоимость. Ранее в августе платформа объявила о партнерстве с OpenAI.",
+    "summary_uz": "Replit rahbari xarajatlar va boshqa sabablar tufayli Anthropic bilan ishlash to‘xtatilganini aytdi. Avgustda servis OpenAI bilan hamkorlik boshlagandi.",
+    "benefit_ru": "Разработчикам из Узбекистана важно учитывать смену ИИ-моделей в среде Replit.",
+    "benefit_uz": "O‘zbekistonlik dasturchilar Replit muhitida AI modellari o‘zgarishini inobatga olishlari lozim.",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Как запустить локальный ИИ через Ollama",
+    "title_uz": "Ollama orqali lokal AI ni qanday ishga tushirish mumkin",
+    "summary_ru": "Полная инструкция по установке Ollama на ваш компьютер, чтобы использовать нейросети без интернета и бесплатно.",
+    "summary_uz": "Kompyuteringizga Ollama o'rnatish bo'yicha to'liq qo'llanma, shunda siz neyron tarmoqlardan internetsiz va bepul foydalanishingiz mumkin.",
+    "benefit_ru": "Вы больше не зависите от подписок ChatGPT или Claude. Всё работает на вашем железе.",
+    "benefit_uz": "Siz endi ChatGPT yoki Claude obunalariga bog'lanib qolmaysiz. Hammasi sizning qurilmangizda ishlaydi.",
+    "url": "https://ollama.com"
+  }
 ]
