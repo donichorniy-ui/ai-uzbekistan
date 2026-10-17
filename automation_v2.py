@@ -28,6 +28,9 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHANNEL_ID = os.getenv("TELEGRAM_CHANNEL_ID")
 
+# Необязательный токен Pollinations (если получите на auth.pollinations.ai)
+POLLINATIONS_TOKEN = os.getenv("POLLINATIONS_TOKEN")
+
 # Модель можно сменить без правки кода: переменная GEMINI_MODEL в workflow.
 MODEL_NAME = os.getenv("GEMINI_MODEL") or "gemini-3.8-flash"
 
@@ -36,7 +39,7 @@ MAX_PER_FEED = int(os.getenv("MAX_PER_FEED") or 1)            # с одного 
 
 RSS_FEEDS = [
     "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "https://blog.google/technology/ai/rss/",
 ]
 
@@ -223,9 +226,12 @@ def build_caption(content, url):
 def make_image(prompt):
     """Скачивает картинку у Pollinations. Возвращает bytes или None."""
     url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width=1024&height=1024&nologo=true"
+    headers = {"User-Agent": USER_AGENT}
+    if POLLINATIONS_TOKEN:
+        headers["Authorization"] = f"Bearer {POLLINATIONS_TOKEN}"
     for attempt in range(2):
         try:
-            r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=90)
+            r = requests.get(url, headers=headers, timeout=90)
             is_image = r.headers.get("content-type", "").startswith("image/")
             if r.ok and is_image and 5_000 < len(r.content) < 9_000_000:
                 return r.content
