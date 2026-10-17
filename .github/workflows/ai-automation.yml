@@ -34,6 +34,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}  # <-- Добавлена эта строка
         run: python -u automation_v2.py
 
       - name: Save list of published news
