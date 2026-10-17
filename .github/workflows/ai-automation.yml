@@ -1,20 +1,22 @@
-# GitHub Action Workflow for AI News Automation
-# Положить в .github/workflows/ai-automation.yml
+# Публикация новостей в Telegram-канал по расписанию
 name: AI News Automation
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # каждые 6 часов
-  workflow_dispatch: # ручной запуск
+    - cron: '0 */6 * * *'   # каждые 6 часов
+  workflow_dispatch:         # и вручную: Actions -> Run workflow
 
-# Не допускаем двух одновременных запусков (иначе возможны дубли постов)
+permissions:
+  contents: write            # чтобы сохранить posted.json и news.json
+
 concurrency:
   group: ai-news
   cancel-in-progress: false
 
 jobs:
-  post:
+  post-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -25,20 +27,24 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install requests feedparser
+        run: pip install -r requirements-news.txt
 
-      # Список уже опубликованных новостей (posted.json) хранится в кеше Actions,
-      # поэтому коммитить его в репозиторий не нужно (и Render не пересобирается).
-      - name: Restore posted list
-        uses: actions/cache@v4
-        with:
-          path: posted.json
-          key: posted-${{ github.run_id }}
-          restore-keys: posted-
-
-      - name: Run Automation
+      - name: Run automation
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: python -u automation_v2.py
+
+      - name: Save list of published news
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "ai-news-bot@users.noreply.github.com"
+          for f in posted.json news.json; do [ -f "$f" ] && git add "$f"; done
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+            exit 0
+          fi
+          git commit -m "Update published news [skip render]"
+          git pull --rebase
+          git push
