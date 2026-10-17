@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Google Beam расширяется в новые регионы 🚀",
+    "title_uz": "Google Beam yangi hududlarga kengaymoqda 🚀",
+    "text_ru": "Google Beam расширяется в новые регионы 🚀\n\n📣 Google Beam теперь доступен в новых регионах, у новых партнёров и клиентов.\n\n🔹 Запуск сервиса в новых регионах.\n🔹 Присоединились новые партнёры.\n🔹 Добавлены новые клиенты.\n\n🤝 Следите за новостями и используйте новые возможности.",
+    "text_uz": "Google Beam yangi hududlarga kengaymoqda 🚀\n\n📣 Google Beam yangi mintaqalarga, hamkorlarga va mijozlarga xizmat ko‘rsatadi.\n\n🔹 Yangi hududlarda xizmat boshladi.\n🔹 Yangi hamkorlar platformaga qo‘shildi.\n🔹 Yangi mijozlar ro‘yxatga kiritildi.\n\n🤝 Yangiliklardan xabardor bo‘ling va imkoniyatlardan foydalaning.",
+    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Meta удаляет пункт о скрейпинге новостных сайтов ⚡️",
+    "title_uz": "Meta yangilik saytlarini skreyp qilish matnini olib tashladi ⚡️",
+    "text_ru": "Meta удаляет пункт о скрейпинге новостных сайтов ⚡️\n\n📣 После общественной критики Meta изменила условия, убрав возможность скрейпинга контента для обучения ИИ.\n\n🔹 Meta пересматривает политику сбора данных для ИИ.\n🔹 Ранее условия позволяли скрейпинг новостных сайтов.\n🔹 В обновлённой версии данный пункт удалён.\n\n🤝 Обновление защищает права пользователей и владельцев контента.",
+    "text_uz": "Meta yangilik saytlarini skreyp qilish matnini olib tashladi ⚡️\n\n📣 Meta, jamoatchilik tanqidlari tufayli, shartnomasidagi AI o‘qitish uchun saytlarni skreyp qilish imkoniyatini olib tashladi.\n\n🔹 Meta AI uchun kontent yig‘ish siyosatini qayta ko‘rib chiqmoqda.\n🔹 Avvalgi shartnomada saytlar, jumladan yangiliklar, skreyp qilinishi mumkin edi.\n🔹 Yangilangan shartnomada bu ibora endi ko‘rsatilmaydi.\n\n🤝 Yangilanish foydalanuvchilar va kontent egalarining huquqlarini himoya qiladi.",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Replit прекращает сотрудничество с Anthropic 🚀",
+    "title_uz": "Replit Anthropic bilan hamkorligini tugatdi 🚀",
+    "text_ru": "Replit прекращает сотрудничество с Anthropic 🚀\n\n📣 Генеральный директор Replit, Масад, объявил, что OpenAI заменит Anthropic в качестве основного провайдера моделей. Модель Claude останется доступной пользователям платформы.\n\n🔹 Replit больше не работает с Anthropic.\n🔹 OpenAI стал основным провайдером моделей.\n🔹 Модель Claude продолжит работать на платформе.\n\n🤝 Следите за обновлениями, чтобы быть в курсе будущих изменений.",
+    "text_uz": "Replit Anthropic bilan hamkorligini tugatdi 🚀\n\n📣 Replit bosh direktori, Masad, hafta oxirida OpenAI ni asosiy model provayderi sifatida tanlashni e'lon qildi. Claude modeli platformada hali ham mavjud bo'ladi.\n\n🔹 Replit endi Anthropic bilan ishlamaydi.\n🔹 OpenAI yangi standart model provayderi bo'ldi.\n🔹 Claude modeli foydalanuvchilarga hali ham xizmat qiladi.\n\n🤝 Yangiliklarni kuzatib boring, platformaning kelajagi haqida xabardor bo'ling.",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026-10-17"
+  },
+  {
     "title_ru": "Трейлер The Gifted победил в Future Vision XPRIZE",
     "title_uz": "The Gifted treyleri Future Vision XPRIZE tanlovida g'olib bo'ldi",
     "summary_ru": "Опубликован трейлер The Gifted, одержавший победу в конкурсе Future Vision XPRIZE. Проект демонстрирует авторский взгляд на образ будущего.",
