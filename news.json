@@ -1,5 +1,35 @@
 [
   {
+    "title_ru": "Дайджест обновлений ИИ: главные новости за сентябрь",
+    "title_uz": "Sun'iy intellekt yangiliklari: sentyabr oyi dayjesti",
+    "summary_ru": "Опубликован видеообзор с ключевыми обновлениями в сфере искусственного интеллекта за сентябрь. В ролике собраны последние анонсы и события.",
+    "summary_uz": "Sentyabr oyidagi sun'iy intellekt sohasidagi asosiy yangilanishlar bo'yicha video e'lon qilindi. Unda so'nggi e'lonlar va yangiliklar jamlangan.",
+    "benefit_ru": "Помогает быстро узнать о мировых трендах в сфере ИИ в удобном видеоформате.",
+    "benefit_uz": "Sun'iy intellekt sohasidagi yangiliklarni qulay video formatda tezda bilib olishga yordam beradi.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Сайты начали блокировать доступ для ИИ-агентов",
+    "title_uz": "Saytlar sun'iy intellekt agentlariga eshiklarini yopmoqda",
+    "summary_ru": "Автономные ИИ-агенты обещают бронировать столики и делать онлайн-покупки. Однако многие веб-сайты уже закрывают для них доступ.",
+    "summary_uz": "Avtonom AI agentlari internetda xaridlar va turli vazifalarni bajarishi kerak edi. Ammo saytlar ularga kirishni to‘smoqda.",
+    "benefit_ru": "Возможности будущих умных ассистентов для онлайн-заказов и услуг могут оказаться ограничены.",
+    "benefit_uz": "Kelajakda onlayn xizmatlardan foydalanuvchi aqlli yordamchilarning imkoniyatlari cheklanishi mumkin.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "date": "2026-10-17"
+  },
+  {
+    "title_ru": "Почему у робототехники пока нет своего эффекта ChatGPT",
+    "title_uz": "Nega robototexnikada hali o'z ChatGPT lahzasi yuz bermadi",
+    "summary_ru": "Экс-эксперт Nvidia считает, что робототехника переживает этап Lego. Базовые детали вроде манипуляторов, софта и стандартов безопасности все еще создаются.",
+    "summary_uz": "Nvidia sobiq mutaxassisi robototexnika hozir Lego davrida ekanini aytdi. Asosiy mexanizmlar, dasturlar va xavfsizlik standartlari hali ham ishlab chiqilmoqda.",
+    "benefit_ru": "Понимание реальных сроков развития технологий помогает бизнесу Узбекистана трезво оценивать автоматизацию.",
+    "benefit_uz": "Bu O'zbekiston biznesiga avtomatlashtirish imkoniyatlarini xomxayollarsiz, to'g'ri baholashga yordam beradi.",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "date": "2026-10-17"
+  },
+  {
     "title_ru": "Представлен Playground: создавайте свои игры и играйте в них",
     "title_uz": "Playground taqdim etildi: oʻz oʻyinlaringizni yarating va oʻynang",
     "summary_ru": "Анонсирован Playground — платформа для создания собственных игр и взаимодействия с ними. Сервис позволяет легко разрабатывать и запускать игры.",
