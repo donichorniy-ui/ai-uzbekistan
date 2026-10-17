@@ -19,7 +19,8 @@
     <header class="bg-white border-b border-gray-200 sticky top-0 z-50">
         <div class="max-w-5xl mx-auto px-4 py-4 flex justify-between items-center">
             <div class="text-2xl font-bold gradient-text">AI Uzbekistan</div>
-            <a href="https://t.me/your_bot_username" class="bg-indigo-600 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-indigo-700 transition">
+            <!-- ЗАМЕНИТЕ your_channel_username на username вашего канала -->
+            <a href="https://t.me/your_channel_username" class="bg-indigo-600 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-indigo-700 transition">
                 Присоединиться к каналу
             </a>
         </div>
@@ -37,11 +38,21 @@
     </main>
 
     <script>
+        // Экранирование HTML, чтобы данные из news.json не могли внедрить скрипт.
+        function escapeHtml(str) {
+            return String(str)
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;');
+        }
+
         async function loadNews() {
+            const container = document.getElementById('news-container');
             try {
                 const response = await fetch('/news.json');
                 const news = await response.json();
-                const container = document.getElementById('news-container');
                 container.innerHTML = '';
 
                 news.forEach(item => {
@@ -50,20 +61,20 @@
                             <div class="flex gap-2 mb-3">
                                 <span class="text-xs font-bold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2 py-1 rounded">Новость</span>
                             </div>
-                            <h2 class="text-xl font-bold mb-2">${item.title_ru}</h2>
-                            <p class="text-gray-600 mb-4">${item.summary_ru}</p>
+                            <h2 class="text-xl font-bold mb-2">${escapeHtml(item.title_ru)}</h2>
+                            <p class="text-gray-600 mb-4">${escapeHtml(item.summary_ru)}</p>
                             <div class="bg-gray-50 p-4 rounded-lg mb-4 text-sm border-l-4 border-indigo-500">
-                                <strong class="block mb-1">🇺🇿 Почему это важно:</strong> ${item.benefit_ru}
+                                <strong class="block mb-1">🇺🇿 Почему это важно:</strong> ${escapeHtml(item.benefit_ru)}
                             </div>
                             <div class="border-t pt-4 flex justify-between items-center">
-                                <a href="${item.url}" target="_blank" class="text-indigo-600 font-medium hover:underline">Читать оригинал $\rightarrow$</a>
+                                <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer" class="text-indigo-600 font-medium hover:underline">Читать оригинал →</a>
                             </div>
                         </div>
                     `;
                     container.innerHTML += card;
                 });
             } catch (e) {
-                document.getElementById('news-container').innerHTML = '<div class="col-span-full text-center py-10 text-red-400">Ошибка загрузки контента</div>';
+                container.innerHTML = '<div class="col-span-full text-center py-10 text-red-400">Ошибка загрузки контента</div>';
             }
         }
         loadNews();
