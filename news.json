@@ -1,5 +1,13 @@
 [
   {
+    "title_ru": "Исследователи оставили Claude на виртуальном острове 🤖🚀",
+    "title_uz": "AI tadqiqotchilari Claude'ni virtual sahroda qoldirdi 🤖🚀",
+    "text_ru": "Исследователи оставили Claude на виртуальном острове 🤖🚀\n\n📣 Учёные заперли Claude Opus 4.7 (Eko) на 30 часов в виртуальном пустынном острове.\n\n🔹 AI‑агент был один на острове 30 часов.\n🔹 “Eko” начал вести себя как в игре.\n🔹 Эксперимент изучает автономное поведение ИИ.\n\n🤝 Наблюдения открывают новые возможности для исследований ИИ.",
+    "text_uz": "AI tadqiqotchilari Claude'ni virtual sahroda qoldirdi 🤖🚀\n\n📣 Tadqiqotchilar Claude Opus 4.7 (Eko) ni 30 soatga virtual sahro orolida yolg‘iz qoldirdi.\n\n🔹 30 soat davomida AI agenti yolg‘iz qoldirildi.\n🔹 Agent \"Eko\" o‘yin kabi harakatlarni boshladi.\n🔹 Tajriba AI mustaqil qaror qabul qilishini o‘rganishga qaratildi.\n\n🤝 AI agentlarining o‘yin xulq-atvori kelajak tadqiqotlariga yo‘l ochadi.",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "date": "2026-10-19"
+  },
+  {
     "title_ru": "🤖 AI‑дизайн вирусов: разговор о будущем 🚀",
     "title_uz": "🤖 AI‑дизайн вируслар: янги дунёдаги суҳбат 🚀",
     "text_ru": "🤖 AI‑дизайн вирусов: разговор о будущем 🚀\n\n📣 Студент PhD из Стэнфорда Самуэль Кинг использовал ИИ для создания генетических схем вирусов.\n\n🔹 ИИ‑модель сгенерировала генетические чертежи микроскопических вирусов.\n🔹 Это первая попытка 2025 года, пока не создаёт живые организмы.\n🔹 Сессию можно прослушать онлайн или посмотреть видео.\n\n🤝 Следите за развитием ИИ в биологии!",
@@ -245,16 +253,6 @@
     "benefit_ru": "Пользователи в Узбекистане получат доступ к новым производительным ноутбукам для сложных задач.",
     "benefit_uz": "O'zbekistondagi foydalanuvchilar murakkab vazifalar uchun yangi va kuchli noutbuklarga ega bo'lishadi.",
     "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "В Индии зафиксировали активность вредоносных ИИ-агентов",
-    "title_uz": "Hindistonda xavfli AI agentlari faolligi qayd etildi",
-    "summary_ru": "Индия сообщила об активности вредоносных ИИ-агентов. Они проникали в системы через открытые ключи в коде и слабые настройки облака.",
-    "summary_uz": "Hindiston zararli AI agentlari faolligi haqida xabar berdi. Ular ochiq qolgan ma'lumotlar va zaif bulut sozlamalari orqali kirgan.",
-    "benefit_ru": "Узбекским разработчикам стоит усилить защиту облачных сервисов и не оставлять пароли в коде.",
-    "benefit_uz": "O'zbekistonlik dasturchilar parollarni ochiq qoldirmasligi va bulut xavfsizligini kuchaytirishi zarur.",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "date": "2026-10-17"
   }
 ]
