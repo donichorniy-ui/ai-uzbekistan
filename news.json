@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "🤖 Принятие ИИ в промышленности — пример для остальных",
+    "title_uz": "🤖 Sanoatda AI qabul qilinishi boshqa sohalarga o‘rnak",
+    "text_ru": "🤖 Принятие ИИ в промышленности — пример для остальных\n\n📣 В промышленности ускоряется внедрение ИИ, показывая путь другим отраслям.\n\n🔹 Технологический сектор лидирует в принятии ИИ.\n🔹 Генеративный ИИ меняет разработку программ и управление продуктами.\n🔹 Другие отрасли могут извлечь полезные уроки из этих изменений.\n\n🤝 Давайте совместно развивать стратегии ИИ.",
+    "text_uz": "🤖 Sanoatda AI qabul qilinishi boshqa sohalarga o‘rnak\n\n📣 Sanoatda AI qabul qilinishi tezlashmoqda, bu boshqa sohalarga yo‘l ko‘rsatadi.\n\n🔹 Texnologiya sektori AI qabul qilishda yetakchi bo‘lib turadi.\n🔹 Generativ AI ishlab chiqish va mahsulot boshqaruvini o‘zgartirmoqda.\n🔹 Boshqa sohalar bu tajribadan o‘rganish imkoniyatiga ega.\n\n🤝 AI strategiyalarini birgalikda ishlab chiqaylik.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "date": "2026-10-20"
+  },
+  {
+    "title_ru": "Meta приостановила функцию Muse 🚀",
+    "title_uz": "Meta Muse bo‘lish funksiyasini to‘xtatdi 🚀",
+    "text_ru": "Meta приостановила функцию Muse 🚀\n\n📣 Meta временно отключила возможность делиться чатами Muse. Это решение последовало после обнаружения более 6 800 публичных ссылок исследователями Claroc.\n\n🔹 Обнаружено более 6 800 ссылок на Muse.\n🔹 Ссылки были видны в публичных DNS‑записях.\n🔹 Meta приостановила функцию из‑за риска утечки данных.\n\n🤝 Пользователям следует внимательно следить за безопасностью своих данных.",
+    "text_uz": "Meta Muse bo‘lish funksiyasini to‘xtatdi 🚀\n\n📣 Meta Muse funksiyasini foydalanuvchilar bilan bo‘lishishni vaqtincha to‘xtatdi. Bu qaror, Claroc tadqiqotchilari 6 800+ havolani topganidan keyin qabul qilindi.\n\n🔹 Meta Muse havolalari 6 800+ ta topildi.\n🔹 Havolalar DNS yozuvlarida ochiq ko‘rinadi.\n🔹 Meta bu xavfsizlik muammosiga javoban funksiyani to‘xtatdi.\n\n🤝 Foydalanuvchilar ma'lumot xavfsizligiga e'tibor qaratishlari kerak.",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "date": "2026-10-20"
+  },
+  {
+    "title_ru": "AI‑бизнес SpaceX превзошёл ожидания 🚀🤖",
+    "title_uz": "SpaceX AI biznesi kutilganidan oshdi 🚀🤖",
+    "text_ru": "AI‑бизнес SpaceX превзошёл ожидания 🚀🤖\n\n📣 SpaceX в третьем квартале получила чистую прибыль $4,4 млрд, AI — главный драйвер.\n\n🔹 Технологии AI увеличили доход на 30%.\n🔹 Разработаны AI‑решения для темных космических миссий.\n🔹 Чистая прибыль $4,4 млрд, выше прогноза.\n\n🤝 Следите за новостями, AI меняет космос!",
+    "text_uz": "SpaceX AI biznesi kutilganidan oshdi 🚀🤖\n\n📣 SpaceX 3‑chi chorakda $4.4 milliard sof foyda oldi, AI asosiy drayver.\n\n🔹 AI texnologiyalari daromadni 30% ga oshirdi.\n🔹 Qorong‘u kosmik missiyalar uchun AI yechimlari ishlab chiqildi.\n🔹 Net income $4.4 milliard, kompaniya prognozidan yuqori.\n\n🤝 AI kelajagi uchun SpaceX misol bo‘lib, kuzatib boring!",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "date": "2026-10-20"
+  },
+  {
     "title_ru": "Новая экономика корпоративного ИИ 🚀⚡️",
     "title_uz": "Korxona AI iqtisodiyoti yangi davrga kiradi 🚀⚡️",
     "text_ru": "Новая экономика корпоративного ИИ 🚀⚡️\n\n📣 Компании рассматривают ИИ как основу инфраструктуры. Цель — повысить эффективность использования технологий.\n\n🔹 Интеграция ИИ уже внедрена в нескольких отделах.\n🔹 Для повышения эффективности растут объемы данных.\n🔹 Конкурентоспособность требует инвестиций в ИИ.\n\n🤝 Инвестируйте в ИИ, чтобы обеспечить рост бизнеса!",
@@ -213,34 +237,6 @@
     "text_ru": "Meta удаляет пункт о скрейпинге новостных сайтов ⚡️\n\n📣 После общественной критики Meta изменила условия, убрав возможность скрейпинга контента для обучения ИИ.\n\n🔹 Meta пересматривает политику сбора данных для ИИ.\n🔹 Ранее условия позволяли скрейпинг новостных сайтов.\n🔹 В обновлённой версии данный пункт удалён.\n\n🤝 Обновление защищает права пользователей и владельцев контента.",
     "text_uz": "Meta yangilik saytlarini skreyp qilish matnini olib tashladi ⚡️\n\n📣 Meta, jamoatchilik tanqidlari tufayli, shartnomasidagi AI o‘qitish uchun saytlarni skreyp qilish imkoniyatini olib tashladi.\n\n🔹 Meta AI uchun kontent yig‘ish siyosatini qayta ko‘rib chiqmoqda.\n🔹 Avvalgi shartnomada saytlar, jumladan yangiliklar, skreyp qilinishi mumkin edi.\n🔹 Yangilangan shartnomada bu ibora endi ko‘rsatilmaydi.\n\n🤝 Yangilanish foydalanuvchilar va kontent egalarining huquqlarini himoya qiladi.",
     "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Replit прекращает сотрудничество с Anthropic 🚀",
-    "title_uz": "Replit Anthropic bilan hamkorligini tugatdi 🚀",
-    "text_ru": "Replit прекращает сотрудничество с Anthropic 🚀\n\n📣 Генеральный директор Replit, Масад, объявил, что OpenAI заменит Anthropic в качестве основного провайдера моделей. Модель Claude останется доступной пользователям платформы.\n\n🔹 Replit больше не работает с Anthropic.\n🔹 OpenAI стал основным провайдером моделей.\n🔹 Модель Claude продолжит работать на платформе.\n\n🤝 Следите за обновлениями, чтобы быть в курсе будущих изменений.",
-    "text_uz": "Replit Anthropic bilan hamkorligini tugatdi 🚀\n\n📣 Replit bosh direktori, Masad, hafta oxirida OpenAI ni asosiy model provayderi sifatida tanlashni e'lon qildi. Claude modeli platformada hali ham mavjud bo'ladi.\n\n🔹 Replit endi Anthropic bilan ishlamaydi.\n🔹 OpenAI yangi standart model provayderi bo'ldi.\n🔹 Claude modeli foydalanuvchilarga hali ham xizmat qiladi.\n\n🤝 Yangiliklarni kuzatib boring, platformaning kelajagi haqida xabardor bo'ling.",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Трейлер The Gifted победил в Future Vision XPRIZE",
-    "title_uz": "The Gifted treyleri Future Vision XPRIZE tanlovida g'olib bo'ldi",
-    "summary_ru": "Опубликован трейлер The Gifted, одержавший победу в конкурсе Future Vision XPRIZE. Проект демонстрирует авторский взгляд на образ будущего.",
-    "summary_uz": "Future Vision XPRIZE tanlovida g'olib deb topilgan The Gifted treyleri taqdim etildi. Unda kelajak haqidagi tasavvurlar aks ettirilgan.",
-    "benefit_ru": "Проект знакомит с передовыми мировыми идеями и вдохновляет местных авторов контента.",
-    "benefit_uz": "Ushbu loyiha ilg'or g'oyalar bilan tanishtirib, mahalliy ijodkorlarni yangi tajribalarga ilhomlantiradi.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Meta будет бесплатно обучать свой ИИ на сайтах СМИ",
-    "title_uz": "Meta o‘z AI modelini nashrlar saytlarida bepul o‘qitmoqchi",
-    "summary_ru": "Новые правила Meta от 30 октября позволяют собирать данные с сайтов компаний и медиа для обучения ИИ. Это коснется ресурсов, связанных с ее платформами.",
-    "summary_uz": "Meta’ning 30-oktabrdan boshlanadigan yangi qoidalari uning AI modelini o‘rgatish uchun platformaga bog‘langan saytlardan bepul ma’lumot yig‘ishga yo‘l ochadi.",
-    "benefit_ru": "Сайты узбекистанских медиа и бизнеса в экосистеме Meta могут стать бесплатной базой для ее ИИ.",
-    "benefit_uz": "Meta ekotizimidagi O‘zbekiston OAV va biznes saytlari uning AI modeli uchun bepul manbaga aylanishi mumkin.",
-    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "date": "2026-10-17"
   }
 ]
