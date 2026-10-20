@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Samsung открывает новый полупроводниковый центр 🚀🤖",
+    "title_uz": "Samsung yangi yarimo‘tkazgich markazini ochmoqda 🚀🤖",
+    "text_ru": "Samsung открывает новый полупроводниковый центр 🚀🤖\n\n📣 Samsung в Пхёнгтэке, Южная Корея, строит огромный полупроводниковый центр.\n\n🔹 В Пхёнгтэке уже работают три фабрики круглосуточно.\n🔹 Четвёртая фабрика будет запущена в ближайшее время.\n🔹 Новый комплекс будет производить мощные GPU и чипы памяти.\n\n🤝 Это откроет новые возможности для развития ИИ в регионе.",
+    "text_uz": "Samsung yangi yarimo‘tkazgich markazini ochmoqda 🚀🤖\n\n📣 Samsung Koreyada Pyeongtaekda gigant yarimo‘tkazgich fabrikasini qurmoqda.\n\n🔹 Samsung Pyeongtaekda 3 faol fabrika ishga tushirgan.\n🔹 To‘rtinchi fabrika yaqin orada ishga tushadi.\n🔹 Yangi kompleksda yuqori samarali GPU va xotira chiplari ishlab chiqariladi.\n\n🤝 AI texnologiyalarining kelajagi uchun yangi imkoniyatlar yaratadi.",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "date": "2026-10-20"
+  },
+  {
+    "title_ru": "🚀 В США возрождение ископаемого топлива ⚡️",
+    "title_uz": "🚀 AQShda fosil yoqilg‘i qayta kuchaymoqda ⚡️",
+    "text_ru": "🚀 В США возрождение ископаемого топлива ⚡️\n\n📣 США строят больше инфраструктуры ископаемого топлива, чем за последнее десятилетие; рост возобновляемой энергии замедляется.\n\n🔹 Строительство инфраструктуры ископаемого топлива достигло максимума за десять лет.\n🔹 Рост возобновляемой энергии замедлился, инвестиции сократились.\n🔹 Спрос на электроэнергию растёт быстрее за десятилетие из‑за дата‑центров, заводов и электромобилей.\n\n🤝 Поддержите диверсификацию энергетики для устойчивого будущего.",
+    "text_uz": "🚀 AQShda fosil yoqilg‘i qayta kuchaymoqda ⚡️\n\n📣 Amerika Qo‘shma Shtatlari bir o‘n yildan ko‘proq vaqt ichida eng ko‘p fosil yoqilg‘i infratuzilmasini qurmoqda, yangilanuvchi energiya o‘sishi sekinlashmoqda.\n\n🔹 Fosil yoqilg‘i inshootlari o‘n yildagi eng yuqori darajada qurilmoqda.\n🔹 Qayta tiklanadigan energiya o‘sishi sekinlashib, investitsiyalar kamaymoqda.\n🔹 Elektr energiyasi talabi ma’lumot markazlari, fabrikalar va EVlar tufayli bir o‘n yildan tezroq oshmoqda.\n\n🤝 Energiya kelajagi uchun diversifikatsiyani qo‘llab-quvvatlang.",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "date": "2026-10-20"
+  },
+  {
+    "title_ru": "Мамдани призывает Нью-Йорк к сопротивлению AI 🚀🤖",
+    "title_uz": "Zohran Mamdani AI tahdidiga qarshi chaqiradi 🚀🤖",
+    "text_ru": "Мамдани призывает Нью-Йорк к сопротивлению AI 🚀🤖\n\n📣 Мэр Зохран Мамдани в понедельник вечером призвал жителей Нью-Йорка противостоять нарративу о неизбежном захвате ИИ.\n\n🔹 Мамдани выступил на пресс‑конференции в понедельник вечером.\n🔹 Он отметил, что сценарий «неизбежного захвата ИИ» опасен.\n🔹 Призвал к регулированию, защищающему общество и возвращающему власть людям.\n\n🤝 Давайте вместе формировать будущее ИИ!",
+    "text_uz": "Zohran Mamdani AI tahdidiga qarshi chaqiradi 🚀🤖\n\n📣 Zohran Mamdani dushanba kechasi Nyu-York aholisini AI hukmronligi narrativiga qarshi turishga chaqirdi.\n\n🔹 Mamdani dushanba kechasi press-konferensiyada gapirdi.\n🔹 U AI ning qamrab olishini \"inevitable\" deb aytmaslikni talab qildi.\n🔹 Regulyatsiya talabi: jamoatchilikni himoya qilish va vakolatni qaytarish.\n\n🤝 AI kelajagini birgalikda shakllantiraylik!",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "date": "2026-10-20"
+  },
+  {
     "title_ru": "Исследователи оставили Claude на виртуальном острове 🤖🚀",
     "title_uz": "AI tadqiqotchilari Claude'ni virtual sahroda qoldirdi 🤖🚀",
     "text_ru": "Исследователи оставили Claude на виртуальном острове 🤖🚀\n\n📣 Учёные заперли Claude Opus 4.7 (Eko) на 30 часов в виртуальном пустынном острове.\n\n🔹 AI‑агент был один на острове 30 часов.\n🔹 “Eko” начал вести себя как в игре.\n🔹 Эксперимент изучает автономное поведение ИИ.\n\n🤝 Наблюдения открывают новые возможности для исследований ИИ.",
@@ -223,36 +247,6 @@
     "benefit_ru": "Возможности будущих умных ассистентов для онлайн-заказов и услуг могут оказаться ограничены.",
     "benefit_uz": "Kelajakda onlayn xizmatlardan foydalanuvchi aqlli yordamchilarning imkoniyatlari cheklanishi mumkin.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Почему у робототехники пока нет своего эффекта ChatGPT",
-    "title_uz": "Nega robototexnikada hali o'z ChatGPT lahzasi yuz bermadi",
-    "summary_ru": "Экс-эксперт Nvidia считает, что робототехника переживает этап Lego. Базовые детали вроде манипуляторов, софта и стандартов безопасности все еще создаются.",
-    "summary_uz": "Nvidia sobiq mutaxassisi robototexnika hozir Lego davrida ekanini aytdi. Asosiy mexanizmlar, dasturlar va xavfsizlik standartlari hali ham ishlab chiqilmoqda.",
-    "benefit_ru": "Понимание реальных сроков развития технологий помогает бизнесу Узбекистана трезво оценивать автоматизацию.",
-    "benefit_uz": "Bu O'zbekiston biznesiga avtomatlashtirish imkoniyatlarini xomxayollarsiz, to'g'ri baholashga yordam beradi.",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Представлен Playground: создавайте свои игры и играйте в них",
-    "title_uz": "Playground taqdim etildi: oʻz oʻyinlaringizni yarating va oʻynang",
-    "summary_ru": "Анонсирован Playground — платформа для создания собственных игр и взаимодействия с ними. Сервис позволяет легко разрабатывать и запускать игры.",
-    "summary_uz": "Playground taqdim etildi. Ushbu servis foydalanuvchilarga shaxsiy oʻyinlar yaratish va ularni darhol oʻynash imkoniyatini taqdim etadi.",
-    "benefit_ru": "Энтузиасты из Узбекистана смогут создавать собственные игры без сложных программных инструментов.",
-    "benefit_uz": "Oʻzbekistondagi foydalanuvchilar murakkab vositalarsiz oʻz oʻyinlarini qulay yaratishlari mumkin.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Новые мощные ноутбуки на суперчипе Nvidia RTX Spark",
-    "title_uz": "Nvidia RTX Spark superchipli yangi kuchli noutbuklar",
-    "summary_ru": "Nvidia представила процессор RTX Spark N1X на базе Arm для ноутбуков и ПК. Чип получил множество ядер и призван составить конкуренцию решениям Apple, Intel, AMD и Qualcomm.",
-    "summary_uz": "Nvidia noutbuklar va ixcham kompyuterlar uchun Arm asosidagi RTX Spark N1X protsessorini chiqardi. Ushbu yangi chip Apple, Intel, AMD va Qualcomm bilan raqobatlashadi.",
-    "benefit_ru": "Пользователи в Узбекистане получат доступ к новым производительным ноутбукам для сложных задач.",
-    "benefit_uz": "O'zbekistondagi foydalanuvchilar murakkab vazifalar uchun yangi va kuchli noutbuklarga ega bo'lishadi.",
-    "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
     "date": "2026-10-17"
   }
 ]
