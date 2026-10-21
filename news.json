@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Шокирующее заявление, потрясшее мир ИИ ⚡️",
+    "title_uz": "AI dunyosini silkitgan shok da'vo 🚀",
+    "text_ru": "📣 Исследователь Goodfire Ник Каммарата объявил важную новость о нейронных сетях.\n\n🔹 Был опубликован блог‑пост объёмом 26 000 слов.\n🔹 Заявление вызвало бурные обсуждения и спекуляции в ИИ‑сообществе.\n🔹 Некоторые эксперты относятся к новости с осторожностью.\n\n🤝 Следите за обновлениями, будущее ИИ в ваших руках!",
+    "text_uz": "📣 Goodfire tadqiqotchisi Nick Cammarata neyron tarmoqlar haqida muhim yangilik e'lon qildi.\n\n🔹 26 000 so‘zlik blog posti e'lon qilindi.\n🔹 Da'vo AI hamjamiyatida keng munozaralar va spekulyatsiyalarni boshladi.\n🔹 Ba'zi mutaxassislar bu yangilikni ehtiyotkorlik bilan qabul qilmoqda.\n\n🤝 Yangilikni kuzatib boring, AI kelajagi sizning qo'lingizda!",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "date": "2026-10-21"
+  },
+  {
+    "title_ru": "Google Gemini AI в авто 🚗🤖",
+    "title_uz": "Google Gemini AI avtomobillarga kelmoqda 🚗🤖",
+    "text_ru": "Google Gemini AI в авто 🚗🤖\n\n📣 Google Gemini AI теперь персонализирован в авто.\n\n🔹 Gemini интегрирован в Android Auto и системы Google в автомобилях.\n🔹 Доступ к Gmail, Календарю, Карте, Фото, YouTube и Поиску.\n🔹 Можно спросить о статусе рейса во время поездки.\n\n🤝 Следите за обновлениями, ваш путь станет умнее.",
+    "text_uz": "Google Gemini AI avtomobillarga kelmoqda 🚗🤖\n\n📣 Google Gemini AI shaxsiy intellektni avtomobillarga olib kelmoqda.\n\n🔹 Gemini Android Auto’da ishlaydi, Google‑built tizimlarda mavjud.\n🔹 Gmail, Calendar, Maps, Photos, YouTube va Search ma’lumotlariga kirish imkoniyati.\n🔹 Yo‘l davomida parvoz holatini so‘rash mumkin.\n\n🤝 Yangiliklarni kuzatib boring, kelajak hayotingizni o‘zgartiring.",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "date": "2026-10-21"
+  },
+  {
+    "title_ru": "Генеральный директор Hugging Face критикует документальный фильм Netflix ⚡️",
+    "title_uz": "Hugging Face CEO Netflix hujjatiga e'tibor qoldirmadi 🚀",
+    "text_ru": "Генеральный директор Hugging Face критикует документальный фильм Netflix ⚡️\n\n📣 Предупреждение о документальном фильме Netflix “AI Gone Rogue”.\n\n🔹 Документальный фильм Netflix “AI Gone Rogue” вышел в 2024 году.\n🔹 Со‑основатель Hugging Face Клем Деланге назвал его “полным дутом”.\n🔹 Он предупреждает, что фильм неточен и сенсационен.\n\n🤝 Следите за реальными новостями AI, не верьте сенсациям.",
+    "text_uz": "Hugging Face CEO Netflix hujjatiga e'tibor qoldirmadi 🚀\n\n📣 Netflix “AI Gone Rogue” hujjati haqida ogohlantirish.\n\n🔹 Netflix “AI Gone Rogue” hujjati 2024-yilda chiqdi.\n🔹 Hugging Face hamkorı Clem Delangue uni “doom” deb atadi.\n🔹 U filmning faktik to‘g‘riligi haqida aniqlik kiritadi.\n\n🤝 Haqiqiy AI rivojlanishini kuzatib, xabardor bo‘ling.",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "date": "2026-10-21"
+  },
+  {
     "title_ru": "Интернет для ИИ‑агентов лучше, но людям хуже? 🤖🚀",
     "title_uz": "Internetni AI agentlari uchun yaxshilash, hamma uchun xavf? 🤖🚀",
     "text_ru": "Интернет для ИИ‑агентов лучше, но людям хуже? 🤖🚀\n\n📣 AI‑агентам упрощается доступ к контенту интернета.\n\n🔹 Боты автоматически скрапят веб‑страницы.\n🔹 Улучшенные данные ускоряют AI‑сервисы.\n🔹 Пользователи могут столкнуться с проблемами приватности и скорости.\n\n🤝 Необходимо обеспечить баланс интересов всех участников сети.",
@@ -214,29 +238,5 @@
     "text_uz": "ChatGPT Chrome ichidagi tablarni ko‘ra oladi 🚀\n\n📣 OpenAI Chrome kengaytmasi endi ochiq tablarni ko‘ra oladi.\n\n🔹 Kengaytma o‘rnatilganda, ChatGPT Chrome’da teg belgilash orqali tablarni ko‘radi.\n🔹 Atlas brauzeri olib tashlandi, lekin yangi funksiyalar qo‘shildi.\n🔹 Demo video OpenAI rasmiy sahifasida e’lon qilingan.\n\n🤝 Yangi imkoniyatlardan foydalanib, ish unumdorligini oshiring.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
     "date": "2026-10-18"
-  },
-  {
-    "title_ru": "Meta убрала пункт о скрейпинге и обучении ИИ 📣⚡️",
-    "title_uz": "Meta veb-sayt skreypi va AI o‘qitish tilini olib tashladi 🚀🤖",
-    "text_ru": "Meta убрала пункт о скрейпинге и обучении ИИ 📣⚡️\n\n📣 Meta удалила из условий пункт о скрейпинге и обучении ИИ.\n\n🔹 Meta убрала из условий фразу о скрейпинге и обучении ИИ.\n🔹 Удаление не меняет текущие практики сбора веб‑данных.\n🔹 Представитель Meta подтвердил, что новые условия не влияют на скрейпинг.\n\n🤝 Следите за обновлениями, чтобы быть в курсе изменений в AI.",
-    "text_uz": "Meta veb-sayt skreypi va AI o‘qitish tilini olib tashladi 🚀🤖\n\n📣 Meta o‘z shartnomasidan veb‑skreyp va AI o‘qitish bo‘yicha tilni olib tashladi.\n\n🔹 Meta shartnomasidan “scraping” va AI o‘qitish tilini olib tashladi.\n🔹 Bu o‘zgarish veb‑ma’lumotlarni yig‘ish siyosatiga ta’sir qilmaydi.\n🔹 Meta vakili yangilangan shartlar amaldagi skreyp usulini o‘zgartirmasligini ta’kidladi.\n\n🤝 Yangiliklarni kuzatib boring, AI sohasidagi o‘zgarishlardan xabardor bo‘ling.",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "date": "2026-10-18"
-  },
-  {
-    "title_ru": "Новые эксперты в команде Google AI & Economy 🚀🤖",
-    "title_uz": "Google AI & Iqtisodiy Teamga Yangi Mutaxassislar 🚀🤖",
-    "text_ru": "Новые эксперты в команде Google AI & Economy 🚀🤖\n\n📣 В команду Google AI & Economy присоединились новые эксперты. Они будут исследовать влияние ИИ на экономику.\n\n🔹 В Google AI & Economy добавлены новые эксперты.\n🔹 Программа изучает влияние ИИ на экономическое развитие.\n🔹 Команда будет сотрудничать с международными исследователями и политиками.\n\n🤝 Вместе создаём новые возможности для ИИ и экономики.",
-    "text_uz": "Google AI & Iqtisodiy Teamga Yangi Mutaxassislar 🚀🤖\n\n📣 Google AI & Iqtisodiy Tadqiqot Dasturiga yangi mutaxassislar qo‘shildi. Ular AI ning iqtisodiy ta'sirini o‘rganadi.\n\n🔹 Google AI & Iqtisodiy Tadqiqot Dasturiga yangi mutaxassislar qo‘shildi.\n🔹 Dastur AI texnologiyalarining iqtisodiy rivojlanishga ta’sirini tahlil qiladi.\n🔹 Jamoa global tadqiqotchilar va siyosatchilar bilan hamkorlik qiladi.\n\n🤝 AI va iqtisodiy rivojlanish uchun yangi imkoniyatlar yaratiladi.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "date": "2026-10-17"
-  },
-  {
-    "title_ru": "Sega убирает ремастер Total War: Shogun 2 из продаж 🚀",
-    "title_uz": "Sega Total War: Shogun 2 remasteri sotuvdan olib tashlandi 🚀",
-    "text_ru": "📣 Sega сняла Total War: Shogun 2 – Complete Edition из магазинов из‑за багов и AI‑апскейла.\n\n🔹 Игра — ремастер стратегии 2011 года.\n🔹 Выпущена во вторник, быстро удалена.\n🔹 Пользователи жаловались на баги и AI‑апскейл.\n\n🤝 Следите за обновлениями и альтернативными вариантами.",
-    "text_uz": "📣 Sega Total War: Shogun 2 – Complete Edition buglar va AI upscaling sababli sotuvdan olib tashlandi.\n\n🔹 O'yin 2011-yilgi strategiya o'yinining remasteri.\n🔹 Dushanba kuni chiqarildi, tez orada olib tashlandi.\n🔹 Foydalanuvchilar xatoliklar va AI upscaling haqida shikoyat qilishdi.\n\n🤝 O'yinni yangilash yoki alternativ variantlarni kuzatib boring.",
-    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-    "date": "2026-10-17"
   }
 ]
