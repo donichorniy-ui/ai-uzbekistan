@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Скрытые расходы AI: Что остаётся после инференса 🚀🤖",
+    "title_uz": "AI saqlash xarajatlari: Inference ortidagi sir 🚀🤖",
+    "text_ru": "Скрытые расходы AI: Что остаётся после инференса 🚀🤖\n\n📣 Большинство внимания уделяется GPU и энергии, но затраты на хранение данных игнорируются.\n\n🔹 Ежедневно генерируются миллиарды запросов, изображений и видео.\n🔹 Эти данные сохраняются после работы модели, требуя значительных ресурсов.\n🔹 Хранение может составлять существенную часть бюджета AI‑проектов.\n\n🤝 Оптимизируйте инфраструктуру хранения для устойчивого развития",
+    "text_uz": "AI saqlash xarajatlari: Inference ortidagi sir 🚀🤖\n\n📣 AI texnologiyasining energiya va GPU xarajatlari ko‘p e’tiborda, ammo ma’lumot saqlash xarajatlari ko‘rilmaydi.\n\n🔹 Kunda milliardlab so‘rovlar yaratiladi.\n🔹 Saqlash infratuzilmasi qo‘shimcha energiya talab qiladi.\n🔹 Saqlash uchun qo‘shimcha serverlar va energiya kerak.\n\n🤝 AI infratuzilmasini optimallashtiring, kelajakda barqaror rivojlanish uchun",
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "date": "2026-10-22"
+  },
+  {
+    "title_ru": "Угроза PHP: две уязвимости 🌐⚡️",
+    "title_uz": "PHP xavfsizlik tahdidi: 2 zaiflik 🌐⚡️",
+    "text_ru": "Угроза PHP: две уязвимости 🌐⚡️\n\n📣 В PHP обнаружены две серьёзные уязвимости, ставящие под угрозу миллионы сайтов.\n\n🔹 Около 70 % веб‑сайтов используют PHP.\n🔹 Уязвимости затрагивают WordPress, Wikipedia и другие крупные платформы.\n🔹 Необходимо сразу установить обновления безопасности.\n\n🤝 Проверьте и обновите свои сайты как можно быстрее.",
+    "text_uz": "PHP xavfsizlik tahdidi: 2 zaiflik 🌐⚡️\n\n📣 PHP dasturlash tilida ikki jiddiy zaiflik aniqlangan, millionlab sayt xavf ostida.\n\n🔹 70% veb-saytlar PHP’dan foydalanadi.\n🔹 Zaifliklar WordPress, Wikipedia kabi platformalarda ta'sir ko‘rsatadi.\n🔹 Xavfsizlik yangilanishlari hoziroq o‘rnatilishi kerak.\n\n🤝 Xavfsizlikni mustahkamlash uchun yangilanishlarni tekshiring.",
+    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+    "date": "2026-10-22"
+  },
+  {
+    "title_ru": "Uber подключил 30 000 сотрудников к ChatGPT Work 🚀🤖",
+    "title_uz": "Uber barcha 30 000 xodimini ChatGPT Work’ga qo‘shdi 🚀🤖",
+    "text_ru": "Uber подключил 30 000 сотрудников к ChatGPT Work 🚀🤖\n\n📣 Uber внедрил платформу ChatGPT Work по всей компании. ✅ Сотрудники получат доступ к ИИ‑ассистенту.\n\n🔹 30 000 сотрудников получили доступ.\n🔹 Пилотный проект масштабирован на всю корпорацию.\n🔹 ChatGPT Work повышает эффективность работы.\n\n🤝 Используйте ИИ для повышения продуктивности уже сегодня.",
+    "text_uz": "Uber barcha 30 000 xodimini ChatGPT Work’ga qo‘shdi 🚀🤖\n\n📣 Uber kompaniyasi ChatGPT Work platformasini butun korporatsiyaga joriy qildi. ✅ Xodimlar endi AI yordamida ish jarayonlarini avtomatlashtiradi.\n\n🔹 30 000 xodimga to‘liq kirish.\n🔹 Pilot dasturdan to‘liq kompaniya darajasiga kengaytirildi.\n🔹 ChatGPT Work ish samaradorligini oshirishga qaratilgan.\n\n🤝 AI bilan ish jarayonlarini yangilashga tayyor bo‘ling.",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "date": "2026-10-22"
+  },
+  {
     "title_ru": "Контекстный AI: новые возможности 🚀🤖",
     "title_uz": "Kontekstga asoslangan AI imkoniyatlari 🚀🤖",
     "text_ru": "Контекстный AI: новые возможности 🚀🤖\n\n📣 Корпоративный AI генерирует рекомендации, автоматизирует задачи и ускоряет принятие решений. Но без понимания бизнес‑процессов модели могут принимать неверные решения.\n\n🔹 AI предлагает рекомендации и автоматизацию для повышения эффективности.\n🔹 Недостаток контекстного понимания приводит к ошибочным выводам.\n🔹 Интеграция AI в ежедневные операции — главный вызов.\n\n🤝 Внедряйте контекстно‑ориентированный AI для устойчивого роста!",
@@ -214,29 +238,5 @@
     "text_uz": "Bluesky Attie AI bilan o‘yin va ilovalar yaratadi 🚀🤖\n\n📣 Bluesky Attie AI endi kichik ijtimoiy ilovalar, o‘yinlar va so‘rovnomalar yaratadi.\n\n🔹 Dastlabki chiqarilishi shu yili, hozirgi versiya yangi funksiyalarni qo‘shdi.\n🔹 O‘yinlar, so‘rovnomalar, panel kabi “kichik” ilovalar yaratish mumkin.\n🔹 Yaratilgan ilovalar alohida veb-sayt sifatida boshqalarga taqdim etiladi.\n\n🤝 Yangi imkoniyatlardan foydalanib, o‘z ijtimoiy tajribangizni kengaytiring.",
     "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
     "date": "2026-10-19"
-  },
-  {
-    "title_ru": "Anthropic выделит 5% акций в фонд общественного блага 📣",
-    "title_uz": "Anthropic 5% ulushini jamoat manfaat foniga ajratadi 🚀",
-    "text_ru": "Anthropic выделит 5% акций в фонд общественного блага 📣\n\n📣 Компания Anthropic объявила о выделении 5% своих акций в фонд общественного блага.\n\n🔹 5% акций будут направлены в фонд общественного блага.\n🔹 Фонд усилит социальную ответственность компании.\n🔹 Это поддержит устойчивое развитие технологий ИИ.\n\n🤝 Инициатива укрепит экосистему искусственного интеллекта.",
-    "text_uz": "Anthropic 5% ulushini jamoat manfaat foniga ajratadi 🚀\n\n📣 Anthropic kompaniyasi 5% aktsiyalarini jamoat manfaat foniga ajratishni e'lon qildi.\n\n🔹 5% aktsiyalar jamoat foydasiga yo'naltiriladi.\n🔹 Fond kompaniyaning ijtimoiy mas'uliyatini oshiradi.\n🔹 Bu qaror AI texnologiyalarining barqaror rivojlanishini qo‘llab-quvvatlaydi.\n\n🤝 Bu tashabbus AI ekotizimini yanada mustahkamlaydi.",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "date": "2026-10-19"
-  },
-  {
-    "title_ru": "🤖 Искусственный интеллект ускоряет науку",
-    "title_uz": "🤖 Sun'iy intellekt bilan ilm-fanni tezlashtirish",
-    "text_ru": "🤖 Искусственный интеллект ускоряет науку\n\n✅ Новый AI-проект ускоряет научные исследования и улучшает жизнь. Он уже внедряется в образование и здравоохранение.\n\n🔹 Искусственный интеллект автоматизирует анализ научных данных.\n🔹 В образовании AI обеспечивает персонализированное обучение.\n🔹 В медицине AI упрощает процесс диагностики.\n\n🤝 Давайте вместе развивать науку и здоровье с помощью AI.",
-    "text_uz": "🤖 Sun'iy intellekt bilan ilm-fanni tezlashtirish\n\n✅ Yangi AI platformasi ilmiy tadqiqotlarni tezlashtirish va hayotni yaxshilashga qaratildi. Bu platforma ta'lim va sog'liqni saqlash sohalarida ham qo'llaniladi.\n\n🔹 Sun'iy intellekt ilmiy ma'lumotlarni avtomatik tahlil qiladi.\n🔹 Ta'limda AI o‘quvchilarga individual yondashuvni taqdim etadi.\n🔹 Sog‘liqni saqlashda AI diagnostika jarayonini soddalashtiradi.\n\n🤝 AI bilan kelajakdagi ilm-fan va sog‘liqni birgalikda rivojlantiraylik.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "date": "2026-10-18"
-  },
-  {
-    "title_ru": "В Филадельфии арестовали женщину, блокировавшую робота доставки 🚀🤖",
-    "title_uz": "Филиппеда робот доставкани блоклаган аёл қўйилди 🚀🤖",
-    "text_ru": "В Филадельфии арестовали женщину, блокировавшую робота доставки 🚀🤖\n\n📣 Полиция Филадельфии задержала Каролин Марвин за блокировку робота Uber. Она заявила, что роботы отбирают рабочие места у людей, поэтому протестует.\n\n🔹 Каролин Марвин арестована полицией Филадельфии.\n🔹 Она препятствовала движению автоматического робота доставки Uber.\n🔹 Ей предъявлено обвинение в нарушении общественного порядка.\n\n🤝 Необходимо находить баланс между технологией и занятостью.",
-    "text_uz": "Филиппеда робот доставкани блоклаган аёл қўйилди 🚀🤖\n\n📣 Филиппеда полиция Каролин Марвинни Uber роботига тўсиқ ўрнатганлиги учун қўйди. Унинг айтишича, роботлар инсон ишчиларининг ўрнини эгаллайди, шунинг учун у протест қилади.\n\n🔹 Каролин Марвин Филадельфия полицияси томонидан қўйилди.\n🔹 У Uber'нинг автоматик доставкали роботини йўлдан тўсди.\n🔹 У disorderly conduct (тартибсизлик) айбини олди.\n\n🤝 Роботлар ва инсонлар ўртасидаги мувозанатни сақлаш керак.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-    "date": "2026-10-18"
   }
 ]
