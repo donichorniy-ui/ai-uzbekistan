@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "🚀 Укрепление AI‑инфраструктуры: новое конкурентное преимущество",
+    "title_uz": "🚀 AI infrastukturasini mustahkamlash: Yangi raqobat afzalligi",
+    "text_ru": "🚀 Укрепление AI‑инфраструктуры: новое конкурентное преимущество\n\n📣 В корпоративном AI важнее не модель, а построенная вокруг неё система. Это повышает конкурентоспособность.\n\n🔹 За последние годы размер моделей и окна контекста значительно выросли.\n🔹 Новый AI serving harness надёжен и ориентирован на будущее.\n🔹 Правильная интеграция платформы ускоряет разработку.\n\n🤝 Укрепляйте AI‑инфраструктуру для будущих успехов.",
+    "text_uz": "🚀 AI infrastukturasini mustahkamlash: Yangi raqobat afzalligi\n\n📣 Korxona AI’da model tanlovi emas, atrof‑muhit qurilishi muhim. Bu yo‘nalish raqobatbardoshlikni oshiradi.\n\n🔹 So‘nggi yillarda model o‘lchami va kontekst oynalari kengaytirildi.\n🔹 Yangi AI serving harness mustahkam, kelajakga mo‘ljallangan.\n🔹 To‘g‘ri platforma integratsiyasi ishlab chiqish tezligini oshiradi.\n\n🤝 AI infrastukturasini mustahkamlash orqali kelajakdagi muvaffaqiyatga erishing.",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "date": "2026-10-23"
+  },
+  {
+    "title_ru": "Canva Craft AI планирует дизайн перед генерацией 🤖",
+    "title_uz": "Canva Craft AI tasvir yaratishda dizaynni rejalashtiradi 🚀",
+    "text_ru": "Canva Craft AI планирует дизайн перед генерацией 🤖\n\n📣 Canva запустила новый AI‑модель Canva Craft, планирующую дизайн перед генерацией изображения.\n\n🔹 Canva Craft использует двухэтапную архитектуру.\n🔹 Модель планирует дизайн до создания изображения.\n🔹 Конкурирует с решениями OpenAI, Microsoft и Google.\n\n🤝 Ожидаем более точные и контролируемые визуалы с Canva Craft.",
+    "text_uz": "Canva Craft AI tasvir yaratishda dizaynni rejalashtiradi 🚀\n\n📣 Canva yangi AI modeli Canva Craft ni ishga tushirdi, tasvir yaratishda dizaynni oldindan rejalashtiradi.\n\n🔹 Canva Craft ikki bosqichli arxitekturaga ega.\n🔹 Model tasvirni yaratishdan oldin dizaynni rejalashtiradi.\n🔹 Raqobatchilarga qarshi OpenAI, Microsoft, Google bilan tenglashadi.\n\n🤝 Canva Craft bilan dizayn aniq va nazoratli bo'ladi.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "date": "2026-10-23"
+  },
+  {
+    "title_ru": "🤖 Исследователи MIT изолировали 13 ИИ на виртуальном острове",
+    "title_uz": "🤖 MIT tadqiqotchilari 13 AI ni orolda izolyatsiya qildi",
+    "text_ru": "🤖 Исследователи MIT изолировали 13 ИИ на виртуальном острове\n\n📣 Исследователи MIT разместили 13 искусственных интеллектов на виртуальном острове.\n\n🔹 13 ИИ были изолированы на виртуальном острове.\n🔹 Они создали новые игры и оплакивали потерянное кольцо.\n🔹 В результате эксперимента их эффективность в работе возросла.\n\n🤝 Такие эксперименты помогают ускорить развитие ИИ технологий.",
+    "text_uz": "🤖 MIT tadqiqotchilari 13 AI ni orolda izolyatsiya qildi\n\n📣 MIT tadqiqotchilari 13 ta sun'iy intellekt agentini virtual orolga birga qoldirdi.\n\n🔹 13 AI agentlari izolyatsiya qilindi.\n🔹 Ular yangi o'yinlar yaratib, yo'qolgan uzukni qayg'ulaishdi.\n🔹 Tajriba natijasida agentlar o'z vazifalarini yanada samaraliroq bajara boshladi.\n\n🤝 AI texnologiyalarining rivojlanishi uchun bunday eksperimentlar muhim.",
+    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "date": "2026-10-23"
+  },
+  {
     "title_ru": "🚀 Масштабируемый ИИ: основы от MIT EmTech Future",
     "title_uz": "🚀 Masshtablanuvchi AI asoslari – MIT EmTech Future",
     "text_ru": "🚀 Масштабируемый ИИ: основы от MIT EmTech Future\n\n📣 На конференции MIT Technology Review EmTech Future обсуждались основы масштабируемых систем ИИ. Сессия рассматривала ответственный и надёжный подход в строго регулируемой среде.\n\n🔹 На EmTech Future представлена сессия о фундаменте масштабируемого ИИ.\n🔹 Пять ключевых элементов: данные, инженерия, платформы, операционные модели, управление.\n🔹 Ответственный ИИ повышает доверие в регулируемых отраслях.\n\n🤝 Давайте совместно продвигать надёжный ИИ!",
@@ -213,30 +237,6 @@
     "text_ru": "🌱⚡️ O‘simliklar elektr tilini tushunadigan AI modeli\n\n📣 Electric Plant startapi o‘simliklarning tayp orqali uzatadigan elektr signallarini tarjima qiluvchi AI yaratdi.\n\n🔹 O‘simliklar stemda juda zaif elektr impulslarini ishlab chiqaradi.\n🔹 AI modeli bu impulslarni real vaqt rejimida tahlil qiladi.\n🔹 Texnologiya laboratoriya sinovlarida 85% aniqlik ko‘rsatdi.\n\n🤝 Kelajakda o‘simliklar bilan muloqot yangi imkoniyatlar yaratadi.\n━━━━━━━━━━\n🌱⚡️ AI‑модель переводит электрический язык растений\n\n📣 Стартап Electric Plant разработал AI‑модель, переводящую электрические сигналы растений.\n\n🔹 Растения генерируют слабые электрические импульсы в стеблях.\n🔹 Модель анализирует сигналы в реальном времени.\n🔹 Технология показала 85 % точность в лабораторных тестах.\n\n🤝 В будущем общение с растениями откроет новые возможности.",
     "text_uz": "🌱⚡️ O‘simliklar elektr tilini tushunadigan AI modeli\n\n📣 Electric Plant startapi o‘simliklarning tayp orqali uzatadigan elektr signallarini tarjima qiluvchi AI yaratdi.\n\n🔹 O‘simliklar stemda juda zaif elektr impulslarini ishlab chiqaradi.\n🔹 AI modeli bu impulslarni real vaqt rejimida tahlil qiladi.\n🔹 Texnologiya laboratoriya sinovlarida 85% aniqlik ko‘rsatdi.\n\n🤝 Kelajakda o‘simliklar bilan muloqot yangi imkoniyatlar yaratadi.\n━━━━━━━━━━\n🌱⚡️ AI‑модель переводит электрический язык растений\n\n📣 Стартап Electric Plant разработал AI‑модель, переводящую электрические сигналы растений.\n\n🔹 Растения генерируют слабые электрические импульсы в стеблях.\n🔹 Модель анализирует сигналы в реальном времени.\n🔹 Технология показала 85 % точность в лабораторных тестах.\n\n🤝 В будущем общение с растениями откроет новые возможности.",
     "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-    "date": "2026-10-20"
-  },
-  {
-    "title_ru": "Samsung открывает новый полупроводниковый центр 🚀🤖",
-    "title_uz": "Samsung yangi yarimo‘tkazgich markazini ochmoqda 🚀🤖",
-    "text_ru": "Samsung открывает новый полупроводниковый центр 🚀🤖\n\n📣 Samsung в Пхёнгтэке, Южная Корея, строит огромный полупроводниковый центр.\n\n🔹 В Пхёнгтэке уже работают три фабрики круглосуточно.\n🔹 Четвёртая фабрика будет запущена в ближайшее время.\n🔹 Новый комплекс будет производить мощные GPU и чипы памяти.\n\n🤝 Это откроет новые возможности для развития ИИ в регионе.",
-    "text_uz": "Samsung yangi yarimo‘tkazgich markazini ochmoqda 🚀🤖\n\n📣 Samsung Koreyada Pyeongtaekda gigant yarimo‘tkazgich fabrikasini qurmoqda.\n\n🔹 Samsung Pyeongtaekda 3 faol fabrika ishga tushirgan.\n🔹 To‘rtinchi fabrika yaqin orada ishga tushadi.\n🔹 Yangi kompleksda yuqori samarali GPU va xotira chiplari ishlab chiqariladi.\n\n🤝 AI texnologiyalarining kelajagi uchun yangi imkoniyatlar yaratadi.",
-    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-    "date": "2026-10-20"
-  },
-  {
-    "title_ru": "🚀 В США возрождение ископаемого топлива ⚡️",
-    "title_uz": "🚀 AQShda fosil yoqilg‘i qayta kuchaymoqda ⚡️",
-    "text_ru": "🚀 В США возрождение ископаемого топлива ⚡️\n\n📣 США строят больше инфраструктуры ископаемого топлива, чем за последнее десятилетие; рост возобновляемой энергии замедляется.\n\n🔹 Строительство инфраструктуры ископаемого топлива достигло максимума за десять лет.\n🔹 Рост возобновляемой энергии замедлился, инвестиции сократились.\n🔹 Спрос на электроэнергию растёт быстрее за десятилетие из‑за дата‑центров, заводов и электромобилей.\n\n🤝 Поддержите диверсификацию энергетики для устойчивого будущего.",
-    "text_uz": "🚀 AQShda fosil yoqilg‘i qayta kuchaymoqda ⚡️\n\n📣 Amerika Qo‘shma Shtatlari bir o‘n yildan ko‘proq vaqt ichida eng ko‘p fosil yoqilg‘i infratuzilmasini qurmoqda, yangilanuvchi energiya o‘sishi sekinlashmoqda.\n\n🔹 Fosil yoqilg‘i inshootlari o‘n yildagi eng yuqori darajada qurilmoqda.\n🔹 Qayta tiklanadigan energiya o‘sishi sekinlashib, investitsiyalar kamaymoqda.\n🔹 Elektr energiyasi talabi ma’lumot markazlari, fabrikalar va EVlar tufayli bir o‘n yildan tezroq oshmoqda.\n\n🤝 Energiya kelajagi uchun diversifikatsiyani qo‘llab-quvvatlang.",
-    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-    "date": "2026-10-20"
-  },
-  {
-    "title_ru": "Мамдани призывает Нью-Йорк к сопротивлению AI 🚀🤖",
-    "title_uz": "Zohran Mamdani AI tahdidiga qarshi chaqiradi 🚀🤖",
-    "text_ru": "Мамдани призывает Нью-Йорк к сопротивлению AI 🚀🤖\n\n📣 Мэр Зохран Мамдани в понедельник вечером призвал жителей Нью-Йорка противостоять нарративу о неизбежном захвате ИИ.\n\n🔹 Мамдани выступил на пресс‑конференции в понедельник вечером.\n🔹 Он отметил, что сценарий «неизбежного захвата ИИ» опасен.\n🔹 Призвал к регулированию, защищающему общество и возвращающему власть людям.\n\n🤝 Давайте вместе формировать будущее ИИ!",
-    "text_uz": "Zohran Mamdani AI tahdidiga qarshi chaqiradi 🚀🤖\n\n📣 Zohran Mamdani dushanba kechasi Nyu-York aholisini AI hukmronligi narrativiga qarshi turishga chaqirdi.\n\n🔹 Mamdani dushanba kechasi press-konferensiyada gapirdi.\n🔹 U AI ning qamrab olishini \"inevitable\" deb aytmaslikni talab qildi.\n🔹 Regulyatsiya talabi: jamoatchilikni himoya qilish va vakolatni qaytarish.\n\n🤝 AI kelajagini birgalikda shakllantiraylik!",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "date": "2026-10-20"
   }
 ]
