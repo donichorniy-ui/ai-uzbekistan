@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "OpenAI обучает передовые модели без интернета 🚀⚡️",
+    "title_uz": "OpenAI offline rejimda ilg‘or modellarni o‘qitadi 🚀⚡️",
+    "text_ru": "OpenAI обучает передовые модели без интернета 🚀⚡️\n\n📣 OpenAI обучает свои передовые модели без доступа к интернету. Это сделано для снижения рисков взломов и влияния на внешние системы.\n\n🔹 В офлайн‑среде модели используют проиндексированный и кешированный веб‑контент.\n🔹 Тренировка frontier‑моделей проходит без подключения к сети.\n🔹 Мера введена после серии атак хакеров на AI‑системы.\n\n🤝 Следите за новостями, чтобы узнать о безопасных подходах к развитию ИИ.",
+    "text_uz": "OpenAI offline rejimda ilg‘or modellarni o‘qitadi 🚀⚡️\n\n📣 OpenAI o‘zining ilg‘or AI modellarini internetga ulanmagan holda o‘qitmoqda. Bu, xavfsizlik va tizimga tahdidlarni kamaytirish maqsadida amalga oshirildi.\n\n🔹 Offline test muhitida indekslangan va keshlangan veb‑ma’lumotlar ishlatiladi.\n🔹 Frontier modellarining treningi internetga ulanmagan holda davom etadi.\n🔹 Bu choralar so‘nggi xakerlik hujumlaridan keyin joriy qilindi.\n\n🤝 Xavfsiz AI rivojlanishi uchun offline treningga e’tibor bering.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "date": "2026-10-24"
+  },
+  {
+    "title_ru": "OpenAI прекращает обучение моделей в интернете ⚡️",
+    "title_uz": "OpenAI internetdan model o‘qitishni to‘xtatadi 🚀",
+    "text_ru": "OpenAI прекращает обучение моделей в интернете ⚡️\n\n📣 OpenAI объявила о прекращении обучения ИИ‑моделей на живом интернете.\n\n🔹 OpenAI отключит доступ к интернету для передовых моделей в ближайшие недели.\n🔹 Решение принято из‑за «существенных рисков», связанных с безопасностью.\n🔹 Инженер компании ранее заявил, что предложенное решение не сработает.\n\n🤝 Следите за обновлениями, чтобы быть в курсе новых мер безопасности.",
+    "text_uz": "OpenAI internetdan model o‘qitishni to‘xtatadi 🚀\n\n📣 OpenAI sun'iy intellekt modellarini jonli internetdan o‘qitishni to‘xtatishga qaror qildi.\n\n🔹 OpenAI model o‘qitish uchun internetga kirishni bir necha hafta ichida bloklaydi.\n🔹 Qaror “jiddiy xavflar” sababli qabul qilindi, xavfsizlikni oshirish maqsadi.\n🔹 OpenAI muhandislaridan biri avvalgi yechim ishlamasligini aytgan edi.\n\n🤝 Yangi xavfsizlik siyosati texnologik rivojlanishga ishonch qo‘shadi.",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "date": "2026-10-24"
+  },
+  {
     "title_ru": "Google может использовать Gmail и Photos для таргетированной рекламы 📣⚡️",
     "title_uz": "Google Gmail va Photos ma'lumotlarini reklama uchun ishlatishi mumkin 📣⚡️",
     "text_ru": "📣 Google обновил политику конфиденциальности, позволяя использовать данные.\n\n🔹 Обновлена политика конфиденциальности Google.\n🔹 Данные Gmail, Drive, Photos могут использоваться в рекламе.\n🔹 Пользователи AI‑функций увидят персонализированные объявления.\n\n⚠️ Проверьте настройки и контролируйте свои данные 🤝\n━━━━━━━━━━\n📣 Google yangi maxfiylik siyosatini yangiladi.\n\n🔹 Google yangi maxfiylik siyosatini yangiladi.\n🔹 Gmail, Drive, Photos ma'lumotlari reklama uchun ishlatilishi mumkin.\n🔹 AI funksiyalarini yoqgan foydalanuvchilarga maxsus reklama ko‘rsatiladi.\n\n⚠️ O‘z ma'lumotlaringizni tekshiring va sozlamalarni ko‘rib chiqing 🤝",
@@ -221,22 +237,6 @@
     "text_ru": "Интернет для ИИ‑агентов лучше, но людям хуже? 🤖🚀\n\n📣 AI‑агентам упрощается доступ к контенту интернета.\n\n🔹 Боты автоматически скрапят веб‑страницы.\n🔹 Улучшенные данные ускоряют AI‑сервисы.\n🔹 Пользователи могут столкнуться с проблемами приватности и скорости.\n\n🤝 Необходимо обеспечить баланс интересов всех участников сети.",
     "text_uz": "Internetni AI agentlari uchun yaxshilash, hamma uchun xavf? 🤖🚀\n\n📣 AI agentlari uchun internetning kontentiga kirish imkoniyatlari kengaymoqda.\n\n🔹 Botlar veb‑sahifalarni avtomatik skrap qilishadi.\n🔹 Yaxshilangan ma'lumotlar AI xizmatlarini tezlashtiradi.\n🔹 Foydalanuvchilar maxfiylik va tezlikda muammolarga duch kelishi mumkin.\n\n🤝 Internetni hamma uchun muvozanatli qilishga e'tibor qaratish zarur.",
     "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "date": "2026-10-21"
-  },
-  {
-    "title_ru": "⚡️ Суд отклонил иск против Сэма Олтмана 📣",
-    "title_uz": "⚡️ Sam Altman da'vosi rad etildi 📣",
-    "text_ru": "⚡️ Суд отклонил иск против Сэма Олтмана 📣\n\n📣 В американском суде иск сестры Сэма Олтмана, Анн, о сексуальном насилии был отклонён. Судья Закари Блюстон отметил, что Анн не прошла независимый медицинский осмотр.\n\n🔹 Иски подала Анн Олтман в 2023 году.\n🔹 Судья указал на отсутствие независимого медицинского обследования.\n🔹 Решение не влияет на руководство OpenAI.\n\n🤝 Это решение подчёркивает важность доказательной базы в юридических спорах.",
-    "text_uz": "⚡️ Sam Altman da'vosi rad etildi 📣\n\n📣 Amerika sudida Sam Altmanning opasi Ann Altmanning jinsiy suiiste’mol da’vosi rad qilindi. Sud hakimi Zachary Bluestone da’voni tasdiqlash uchun tibbiy tekshiruv talab qilganini aytdi.\n\n🔹 Davoni Ann Altman 2023 yilda filed qilgan.\n🔹 Hakim Annning mustaqil tibbiy tekshiruvga kelmaganini ta'kidladi.\n🔹 Da’vo natijasida OpenAI boshqaruviga ta’sir yo‘q.\n\n🤝 Sud qarori AI hamjamiyatida shaffoflikni saqlashga urg‘u beradi.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-    "date": "2026-10-21"
-  },
-  {
-    "title_ru": "Anthropic предлагает закон о безопасности ИИ 🚀🤖",
-    "title_uz": "Anthropic AI xavfsizlik qonuni taklifi 🚀🤖",
-    "text_ru": "Anthropic предлагает закон о безопасности ИИ 🚀🤖\n\n📣 Anthropic представила законопроект по безопасности ИИ.\n\n🔹 Модель может быть заблокирована, если угрожает жизни более 50 человек.\n🔹 Федеральные органы могут останавливать выпуск только с решением суда.\n🔹 Критики считают, что закон ограничит проактивные меры безопасности.\n\n🤝 Следите за развитием регулирования ИИ.",
-    "text_uz": "Anthropic AI xavfsizlik qonuni taklifi 🚀🤖\n\n📣 Anthropic AI xavfsizlik bo'yicha yangi qonun loyihasini taqdim etdi.\n\n🔹 Model 50+ odam o'limiga olib kelishi mumkin bo'lsa, bloklanadi.\n🔹 Federal agentliklar modelni to'xtatish uchun sud qarorini talab qiladi.\n🔹 Tanqidchilar bu yondashuvni xavfsizlikni kechiktiradi, deb bildiradi.\n\n🤝 AI xavfsizligini mustahkamlash uchun qonuniy nazoratni kuzatib boring.",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "date": "2026-10-21"
   }
 ]
