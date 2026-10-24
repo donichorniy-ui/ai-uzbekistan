@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "🚀 Block представил AI‑модель Dessa – новый собеседник 🤖",
+    "title_uz": "🚀 Block yangi AI modeli Dessa – yangi suhbatdosh 🤖",
+    "text_ru": "🚀 Block представил AI‑модель Dessa – новый собеседник 🤖\n\n📣 Block, основанный Джеком Дорси, анонсировал модель Dessa, обученную только диалогам.\n\n🔹 Dessa обучалась с нуля исключительно на человеческих разговорах.\n🔹 Для демонстрации Ragavan Thurairatnam поделился реальными чатами.\n🔹 Диалоги иногда выглядят неловко и странно.\n\n🤝 Следите за развитием AI‑разговоров с Dessa.",
+    "text_uz": "🚀 Block yangi AI modeli Dessa – yangi suhbatdosh 🤖\n\n📣 Block, Jack Dorsey asoschisi, Dessa modelini e'lon qildi, inson suhbatidan o‘rgatildi.\n\n🔹 Dessa faqat inson suhbatlari asosida noldan o‘rganildi.\n🔹 Modelni namoyish qilish uchun Ragavan Thurairatnam haqiqiy suhbatlarni ulashdi.\n🔹 Suhbatlar ba'zan noqulay va g‘ayrioddiy bo‘lishi mumkin.\n\n🤝 Bu yangi model AI suhbatlarining kelajagini belgilaydi.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+    "date": "2026-10-24"
+  },
+  {
+    "title_ru": "Grok поддерживает республиканцев, GPT — демократов 🚀🤖",
+    "title_uz": "Grok Respublikachilarni, GPT Demokratlarni tavsiya qiladi 🚀🤖",
+    "text_ru": "Grok поддерживает республиканцев, GPT — демократов 🚀🤖\n\n📣 Недавнее исследование показало, что модель Grok AI в большинстве случаев советует республиканцев, а GPT от OpenAI — демократов.\n\n🔹 Grok AI рекомендовал республиканцев в более чем 90% из почти 500 гонок.\n🔹 GPT от OpenAI преимущественно поддерживал демократов во всех исследованиях.\n🔹 Оба ИИ расходятся в более чем 90% из почти 500 выборов.\n\n🤝 Эти выводы поднимают вопрос о политической нейтральности ИИ.",
+    "text_uz": "Grok Respublikachilarni, GPT Demokratlarni tavsiya qiladi 🚀🤖\n\n📣 Yaqinda o'tkazilgan tadqiqot Grok AI modeli ko'p hollarda Respublikachilarni, OpenAI GPT esa Demokratlarni tavsiya qilayotganini ko'rsatdi.\n\n🔹 Grok AI 500 ga yaqin saylovda 90% dan ortiq Respublika nomzodlarini tavsiya etdi.\n🔹 GPT modeli deyarli barcha saylovlarda Demokrat nomzodlariga afzallik berdi.\n🔹 Ikkala model 500 saylovdan 90% dan ko'pida bir-biriga qarshi chiqdi.\n\n🤝 Bu natijalar AI siyosiy neytrallik masalasini qayta ko‘rib chiqishga chaqiradi.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "date": "2026-10-24"
+  },
+  {
     "title_ru": "OpenAI обучает передовые модели без интернета 🚀⚡️",
     "title_uz": "OpenAI offline rejimda ilg‘or modellarni o‘qitadi 🚀⚡️",
     "text_ru": "OpenAI обучает передовые модели без интернета 🚀⚡️\n\n📣 OpenAI обучает свои передовые модели без доступа к интернету. Это сделано для снижения рисков взломов и влияния на внешние системы.\n\n🔹 В офлайн‑среде модели используют проиндексированный и кешированный веб‑контент.\n🔹 Тренировка frontier‑моделей проходит без подключения к сети.\n🔹 Мера введена после серии атак хакеров на AI‑системы.\n\n🤝 Следите за новостями, чтобы узнать о безопасных подходах к развитию ИИ.",
@@ -221,22 +237,6 @@
     "text_ru": "Google Gemini AI в авто 🚗🤖\n\n📣 Google Gemini AI теперь персонализирован в авто.\n\n🔹 Gemini интегрирован в Android Auto и системы Google в автомобилях.\n🔹 Доступ к Gmail, Календарю, Карте, Фото, YouTube и Поиску.\n🔹 Можно спросить о статусе рейса во время поездки.\n\n🤝 Следите за обновлениями, ваш путь станет умнее.",
     "text_uz": "Google Gemini AI avtomobillarga kelmoqda 🚗🤖\n\n📣 Google Gemini AI shaxsiy intellektni avtomobillarga olib kelmoqda.\n\n🔹 Gemini Android Auto’da ishlaydi, Google‑built tizimlarda mavjud.\n🔹 Gmail, Calendar, Maps, Photos, YouTube va Search ma’lumotlariga kirish imkoniyati.\n🔹 Yo‘l davomida parvoz holatini so‘rash mumkin.\n\n🤝 Yangiliklarni kuzatib boring, kelajak hayotingizni o‘zgartiring.",
     "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-    "date": "2026-10-21"
-  },
-  {
-    "title_ru": "Генеральный директор Hugging Face критикует документальный фильм Netflix ⚡️",
-    "title_uz": "Hugging Face CEO Netflix hujjatiga e'tibor qoldirmadi 🚀",
-    "text_ru": "Генеральный директор Hugging Face критикует документальный фильм Netflix ⚡️\n\n📣 Предупреждение о документальном фильме Netflix “AI Gone Rogue”.\n\n🔹 Документальный фильм Netflix “AI Gone Rogue” вышел в 2024 году.\n🔹 Со‑основатель Hugging Face Клем Деланге назвал его “полным дутом”.\n🔹 Он предупреждает, что фильм неточен и сенсационен.\n\n🤝 Следите за реальными новостями AI, не верьте сенсациям.",
-    "text_uz": "Hugging Face CEO Netflix hujjatiga e'tibor qoldirmadi 🚀\n\n📣 Netflix “AI Gone Rogue” hujjati haqida ogohlantirish.\n\n🔹 Netflix “AI Gone Rogue” hujjati 2024-yilda chiqdi.\n🔹 Hugging Face hamkorı Clem Delangue uni “doom” deb atadi.\n🔹 U filmning faktik to‘g‘riligi haqida aniqlik kiritadi.\n\n🤝 Haqiqiy AI rivojlanishini kuzatib, xabardor bo‘ling.",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "date": "2026-10-21"
-  },
-  {
-    "title_ru": "Интернет для ИИ‑агентов лучше, но людям хуже? 🤖🚀",
-    "title_uz": "Internetni AI agentlari uchun yaxshilash, hamma uchun xavf? 🤖🚀",
-    "text_ru": "Интернет для ИИ‑агентов лучше, но людям хуже? 🤖🚀\n\n📣 AI‑агентам упрощается доступ к контенту интернета.\n\n🔹 Боты автоматически скрапят веб‑страницы.\n🔹 Улучшенные данные ускоряют AI‑сервисы.\n🔹 Пользователи могут столкнуться с проблемами приватности и скорости.\n\n🤝 Необходимо обеспечить баланс интересов всех участников сети.",
-    "text_uz": "Internetni AI agentlari uchun yaxshilash, hamma uchun xavf? 🤖🚀\n\n📣 AI agentlari uchun internetning kontentiga kirish imkoniyatlari kengaymoqda.\n\n🔹 Botlar veb‑sahifalarni avtomatik skrap qilishadi.\n🔹 Yaxshilangan ma'lumotlar AI xizmatlarini tezlashtiradi.\n🔹 Foydalanuvchilar maxfiylik va tezlikda muammolarga duch kelishi mumkin.\n\n🤝 Internetni hamma uchun muvozanatli qilishga e'tibor qaratish zarur.",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "date": "2026-10-21"
   }
 ]
