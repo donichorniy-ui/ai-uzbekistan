@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "Meta откладывает AI‑скрейпинг 📣",
+    "title_uz": "Meta AI‑ta ma’lumot to‘plashni kechiktiradi 🚀",
+    "text_ru": "Meta откладывает AI‑скрейпинг 📣\n\n📣 Meta откладывает ввод новых бизнес‑условий до 20 ноября после протестов издателей. Это позволит избежать массового скрейпинга новостных сайтов для обучения ИИ.\n\n🔹 Новые условия вступят в силу 20 ноября.\n🔹 Издатели опасаются использования их контента для ИИ.\n🔹 Представитель Meta Дэниел Робертс прокомментировал задержку.\n\n🤝 Следите за обновлениями, чтобы быть в курсе развития ИИ.",
+    "text_uz": "Meta AI‑ta ma’lumot to‘plashni kechiktiradi 🚀\n\n📣 Meta yangi biznes shartlarini 20‑noyabrga kechiktirmoqda, nashriyotchilarning e’tirozlari sababli. Ushbu kechikish AI treningi uchun saytlarni skreyplash xavfini kamaytiradi.\n\n🔹 Meta shartlar 20‑noyabrda kuchga kiradi.\n🔹 Nashriyotchilar AI‑ta ma’lumot to‘plashga qarshi e’tiroz bildirdi.\n🔹 Meta vakili Daniel Roberts bayonoti berildi.\n\n🤝 Yangiliklarni kuzatib boring, AI sohasidagi o‘zgarishlardan xabardor bo‘ling.",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "date": "2026-10-26"
+  },
+  {
+    "title_ru": "Генеральный директор Nvidia тестирует Microduck 🤖",
+    "title_uz": "Nvidia CEO Microduck robotlarini sinadi 🤖",
+    "text_ru": "Nvidia CEO Microduck robotlarini sinadi 🤖\n\n📣 Nvidia rahbari Jensen Huang yangi Microduck robotlarini sinab ko‘rdi.\nBu kichik robotlar R2‑D2 tovushlari bilan harakat qiladi.\n\n🔹 20 000 dona Microduck robotlari sotildi.\n🔹 Robotlar ovoz buyrug‘iga qarab somersault qiladi.\n🔹 Ular kichik oyoqlari bilan yuguradi va “nap” holatiga tushadi.\n\n🤝 Yangi texnologiyalarni kuzatishda biz bilan bo‘ling!\n━━━━━━━━━━\nГенеральный директор Nvidia тестирует Microduck 🤖\n\n📣 Генеральный директор Nvidia Дженсен Хуанг протестировал новые роботы Microduck.\nЭти маленькие роботы издают звуки, похожие на R2‑D2.\n\n🔹 Продано 20 000 роботов Microduck.\n🔹 Роботы выполняют сальто по голосовой команде.\n🔹 Они ходят, издают звуки и могут «засыпать».\n\n🤝 Следите за новыми технологическими трендами вместе с нами!",
+    "text_uz": "Nvidia CEO Microduck robotlarini sinadi 🤖\n\n📣 Nvidia rahbari Jensen Huang yangi Microduck robotlarini sinab ko‘rdi.\nBu kichik robotlar R2‑D2 tovushlari bilan harakat qiladi.\n\n🔹 20 000 dona Microduck robotlari sotildi.\n🔹 Robotlar ovoz buyrug‘iga qarab somersault qiladi.\n🔹 Ular kichik oyoqlari bilan yuguradi va “nap” holatiga tushadi.\n\n🤝 Yangi texnologiyalarni kuzatishda biz bilan bo‘ling!\n━━━━━━━━━━\nГенеральный директор Nvidia тестирует Microduck 🤖\n\n📣 Генеральный директор Nvidia Дженсен Хуанг протестировал новые роботы Microduck.\nЭти маленькие роботы издают звуки, похожие на R2‑D2.\n\n🔹 Продано 20 000 роботов Microduck.\n🔹 Роботы выполняют сальто по голосовой команде.\n🔹 Они ходят, издают звуки и могут «засыпать».\n\n🤝 Следите за новыми технологическими трендами вместе с нами!",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "date": "2026-10-26"
+  },
+  {
     "title_ru": "Grok выпустил первые 7 минут AI‑генерируемого «Odyssey» 🚀",
     "title_uz": "Grok AI “Odyssey”ning birinchi 7 daqiqasini chiqardi 🚀",
     "text_ru": "Grok выпустил первые 7 минут AI‑генерируемого «Odyssey» 🚀\n\n📣 Компания Grok выпустила первые семь минут AI‑созданного фильма «Odyssey». Видео демонстрирует технологию, но не претендует на художественную ценность.\n\n🔹 Премьера 7‑минутного ролика состоялась 26 октября 2024 года.\n🔹 Видео показывает генерацию контента в реальном времени.\n🔹 Зрителям рекомендуется не ожидать художественного вдохновения.\n\n🤝 Следите за новыми достижениями AI‑технологий вместе с нами.",
@@ -221,22 +237,6 @@
     "text_ru": "Скрытые расходы AI: Что остаётся после инференса 🚀🤖\n\n📣 Большинство внимания уделяется GPU и энергии, но затраты на хранение данных игнорируются.\n\n🔹 Ежедневно генерируются миллиарды запросов, изображений и видео.\n🔹 Эти данные сохраняются после работы модели, требуя значительных ресурсов.\n🔹 Хранение может составлять существенную часть бюджета AI‑проектов.\n\n🤝 Оптимизируйте инфраструктуру хранения для устойчивого развития",
     "text_uz": "AI saqlash xarajatlari: Inference ortidagi sir 🚀🤖\n\n📣 AI texnologiyasining energiya va GPU xarajatlari ko‘p e’tiborda, ammo ma’lumot saqlash xarajatlari ko‘rilmaydi.\n\n🔹 Kunda milliardlab so‘rovlar yaratiladi.\n🔹 Saqlash infratuzilmasi qo‘shimcha energiya talab qiladi.\n🔹 Saqlash uchun qo‘shimcha serverlar va energiya kerak.\n\n🤝 AI infratuzilmasini optimallashtiring, kelajakda barqaror rivojlanish uchun",
     "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "date": "2026-10-22"
-  },
-  {
-    "title_ru": "Угроза PHP: две уязвимости 🌐⚡️",
-    "title_uz": "PHP xavfsizlik tahdidi: 2 zaiflik 🌐⚡️",
-    "text_ru": "Угроза PHP: две уязвимости 🌐⚡️\n\n📣 В PHP обнаружены две серьёзные уязвимости, ставящие под угрозу миллионы сайтов.\n\n🔹 Около 70 % веб‑сайтов используют PHP.\n🔹 Уязвимости затрагивают WordPress, Wikipedia и другие крупные платформы.\n🔹 Необходимо сразу установить обновления безопасности.\n\n🤝 Проверьте и обновите свои сайты как можно быстрее.",
-    "text_uz": "PHP xavfsizlik tahdidi: 2 zaiflik 🌐⚡️\n\n📣 PHP dasturlash tilida ikki jiddiy zaiflik aniqlangan, millionlab sayt xavf ostida.\n\n🔹 70% veb-saytlar PHP’dan foydalanadi.\n🔹 Zaifliklar WordPress, Wikipedia kabi platformalarda ta'sir ko‘rsatadi.\n🔹 Xavfsizlik yangilanishlari hoziroq o‘rnatilishi kerak.\n\n🤝 Xavfsizlikni mustahkamlash uchun yangilanishlarni tekshiring.",
-    "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-    "date": "2026-10-22"
-  },
-  {
-    "title_ru": "Uber подключил 30 000 сотрудников к ChatGPT Work 🚀🤖",
-    "title_uz": "Uber barcha 30 000 xodimini ChatGPT Work’ga qo‘shdi 🚀🤖",
-    "text_ru": "Uber подключил 30 000 сотрудников к ChatGPT Work 🚀🤖\n\n📣 Uber внедрил платформу ChatGPT Work по всей компании. ✅ Сотрудники получат доступ к ИИ‑ассистенту.\n\n🔹 30 000 сотрудников получили доступ.\n🔹 Пилотный проект масштабирован на всю корпорацию.\n🔹 ChatGPT Work повышает эффективность работы.\n\n🤝 Используйте ИИ для повышения продуктивности уже сегодня.",
-    "text_uz": "Uber barcha 30 000 xodimini ChatGPT Work’ga qo‘shdi 🚀🤖\n\n📣 Uber kompaniyasi ChatGPT Work platformasini butun korporatsiyaga joriy qildi. ✅ Xodimlar endi AI yordamida ish jarayonlarini avtomatlashtiradi.\n\n🔹 30 000 xodimga to‘liq kirish.\n🔹 Pilot dasturdan to‘liq kompaniya darajasiga kengaytirildi.\n🔹 ChatGPT Work ish samaradorligini oshirishga qaratilgan.\n\n🤝 AI bilan ish jarayonlarini yangilashga tayyor bo‘ling.",
-    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "date": "2026-10-22"
   }
 ]
