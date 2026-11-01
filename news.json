@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "🚀🤖 Starbucks планирует AI‑меню для драйв‑тру",
+    "title_uz": "🚀🤖 Starbucks AI bilan haydovchilar uchun shaxsiy menyu",
+    "text_ru": "🚀🤖 Starbucks планирует AI‑меню для драйв‑тру\n\n📣 Компания Starbucks объявила о планах внедрить AI‑технологию для персонального цифрового меню в драйв‑тре. Об этом было сказано на звонке по результатам квартала в четверг.\n\n🔹 Генеральный директор Брайан Никкол объявил об инициативе в четверг.\n🔹 AI будет распознавать клиентов и предлагать индивидуальное меню.\n🔹 Цель — ускорить оплату и улучшить опыт обслуживания.\n\n🤝 Starbucks стремится сделать процесс заказа более удобным и быстрым.",
+    "text_uz": "🚀🤖 Starbucks AI bilan haydovchilar uchun shaxsiy menyu\n\n📣 Starbucks kompaniyasi haydovchilarni kutib olishda AI texnologiyasini sinovdan o‘tkazishni rejalashtirmoqda. Bu yangilik kompaniyaning so‘nggi daromad chaqiruvi paytida e’lon qilindi.\n\n🔹 CEO Brian Niccol payshanba kuni bu rejani e’lon qildi.\n🔹 AI mijozni tanib, shaxsiy menyu va to‘lovni soddalashtiradi.\n🔹 Maqsad – haydovchi tajribasini yaxshilash va vaqtni tejash.\n\n🤝 Starbucks mijozlarga yanada qulay haydovchi tajribasini taklif qilishni maqsad qilmoqda.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "date": "2026-11-01"
+  },
+  {
+    "title_ru": "🚀 AI упрощает жизнь CEO, а для всех остальных?",
+    "title_uz": "🤖 AI texnologiya rahbarlariga yordam, boshqalarga qanday?",
+    "text_ru": "🚀 AI упрощает жизнь CEO, а для всех остальных?\n\n📣 Искусственный интеллект облегчает работу CEO, но его влияние на остальных обсуждается.\n\n🔹 AI автоматизирует анализ данных для руководителей.\n🔹 CEO рекламируют AI, но мало информации для широкой аудитории.\n🔹 В подкасте \"Equity\" обсуждалась тональность заявлений технологических лидеров.\n\n🤝 Присоединяйтесь к обсуждению, чтобы AI приносил пользу всем.",
+    "text_uz": "🤖 AI texnologiya rahbarlariga yordam, boshqalarga qanday?\n\n📣 AI texnologiyalari rahbarlarning ishini yengillashtiradi, lekin keng jamiyatga ta'siri muhokama qilinmoqda.\n\n🔹 AI avtomatlashtiradi rahbarlar uchun ma'lumot tahlilini.\n🔹 CEO'lar AI'ni reklama qiladi, ammo keng auditoriya uchun kam ma'lumot.\n🔹 \"Equity\" podkastida texnologiya so'zlari tonli bo'lishi tahlil qilindi.\n\n🤝 AI'ning umumiy foydasini oshirish uchun hamjamiyat bilan hamkorlik qiling.",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "2026-11-01"
+  },
+  {
     "title_ru": "Спутник Google с ИИ передал первый ответ 🚀🤖",
     "title_uz": "Google sun'iy intellektli sun'iy yo‘ldosh birinchi javobni uzatdi 🚀🤖",
     "text_ru": "Спутник Google с ИИ передал первый ответ 🚀🤖\n\n📣 Компания Google запустила ИИ‑спутник, активировав его TPU, и передала первый ответ. Модель Gemma 4 создала хайку о пребывании в космосе.\n\n🔹 TPU успешно загрузились на спутнике.\n🔹 Gemma 4 сгенерировала хайку о космосе.\n🔹 Первый в истории ответ ИИ с орбиты Земли.\n\n🤝 Возможности ИИ в космосе продолжают расширяться.",
@@ -221,22 +237,6 @@
     "text_ru": "🤖 Сочетание автономии AI в промышленности и человеческого контроля\n\n📣 Обсуждалась интеграция автономии AI в промышленности с человеческим контролем.\n\n🔹 AI‑системы могут работать автономно на производстве.\n🔹 Человеческие операторы сохраняют окончательное решение.\n🔹 Баланс автономии и контроля повышает безопасность и эффективность.\n\n🤝 Применим сбалансированные стратегии AI для безопасной промышленности.",
     "text_uz": "🤖 Sanoat AI avtonomiyasi va inson nazorati birlashdi\n\n📣 Sanoat AI avtonomiyasini inson nazorati bilan birlashtirish bo‘yicha muhim muhokama o‘tkazildi.\n\n🔹 AI tizimlari ishlab chiqarishda mustaqil ishlay oladi.\n🔹 Inson operatorlar yakuniy qarorlarni qabul qiladi.\n🔹 Avtonomiya va nazorat balansini yaratish xavfsizlikni oshiradi.\n\n🤝 Balansli AI strategiyalarini joriy etib, sanoat xavfsizligini mustahkamlaylik.",
     "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "date": "2026-10-28"
-  },
-  {
-    "title_ru": "Chrome autofill теперь использует Gmail 🤖",
-    "title_uz": "Chrome autofill Gmail ma'lumotlarini qo'shadi 🚀",
-    "text_ru": "Chrome autofill теперь использует Gmail 🤖\n\n📣 Chrome улучшил autofill: теперь он предлагает данные из Gmail через Gemini.\n\n🔹 Gemini AI автоматически предлагает информацию из Gmail.\n🔹 Ранее поддерживались имя, паспорт, адрес и email.\n🔹 Функция доступна глобально с сегодняшнего дня.\n\n🤝 Попробуйте новую функцию и ускорьте заполнение форм!",
-    "text_uz": "Chrome autofill Gmail ma'lumotlarini qo'shadi 🚀\n\n📣 Chrome'ning yangi autofill funksiyasi endi Gmail'dan ma'lumot olib, formalarni to'ldiradi.\n\n🔹 Gemini AI yordamida Gmail ma'lumotlari avtomatik taklif qilinadi.\n🔹 Ism, pasport, manzil kabi ma'lumotlar oldingi versiyada mavjud edi.\n🔹 Xususiyat bugundan boshlab global miqyosda ishga tushadi.\n\n🤝 Yangi imkoniyatlardan foydalaning va vaqt tejang!",
-    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-    "date": "2026-10-28"
-  },
-  {
-    "title_ru": "AI‑агенты меняют веб, Google открывает Gemini и поиск 🚀🤖",
-    "title_uz": "AI agentlar webni o‘zgartiradi, Google Gemini va qidiruvni kengaytiradi 🚀🤖",
-    "text_ru": "AI‑агенты меняют веб, Google открывает Gemini и поиск 🚀🤖\n\n📣 Google запускает новую платформу, позволяющую бизнесу интегрировать сервисы в AI‑опыт.\n\n🔹 Gemini AI‑агенты теперь доступны в большем числе приложений.\n🔹 Разработчики могут подключать свои сервисы к поиску Google.\n🔹 Пользователи получат единый доступ к новым AI‑функциям.\n\n🤝 Откройте новые возможности в AI вместе с нами!",
-    "text_uz": "AI agentlar webni o‘zgartiradi, Google Gemini va qidiruvni kengaytiradi 🚀🤖\n\n📣 Google yangi platforma orqali bizneslarga AI tajribalariga xizmatlarini qo‘shish imkonini beradi.\n\n🔹 Gemini AI agentlari endi ko‘proq ilovalarda ishlatiladi.\n🔹 Dasturchilar Google Search bilan integratsiya qilishlari mumkin.\n🔹 Foydalanuvchilar yangi AI xizmatlarini bir joyda topadi.\n\n🤝 Yangi imkoniyatlar bilan AI ekotizimini o‘rganing!",
-    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
     "date": "2026-10-28"
   }
 ]
