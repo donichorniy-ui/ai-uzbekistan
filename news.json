@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Обеспечение безопасности AI‑агентов с помощью трассировки данных ⚡️",
+    "title_uz": "AI agentlari ma'lumotlar izlari bilan xavfsizlikni ta'minlaydi 🚀",
+    "text_ru": "Обеспечение безопасности AI‑агентов с помощью трассировки данных ⚡️\n\n📣 AI‑агент запрашивает цены клиента, используя несколько источников без проверки человеком. 🤖 Затем второй агент формирует коммерческое предложение.\n\n🔹 Агент обращается к закрытым системам ценообразования, внутренним сообщениям и архивным котировкам.\n🔹 Вывод считается корректным первым агентом, без подтверждения.\n🔹 Второй агент использует данные для предложения, без человеческого контроля.\n\n🤝 Необходимо внедрять человеческую проверку в цепочки AI‑агентов.",
+    "text_uz": "AI agentlari ma'lumotlar izlari bilan xavfsizlikni ta'minlaydi 🚀\n\n📣 AI agenti mijoz narxlarini bir necha manbalardan oladi, inson tekshiruvi yo‘q. 🤖 Natijada ikkinchi agent taklifni tayyorlaydi.\n\n🔹 Agent cheklangan narx tizimlari, ichki xabarlar va arxiv qoidalariga murojaat qiladi.\n🔹 Natija birinchi agent tomonidan to‘g‘ri deb qabul qilinadi, tasdiqlash yo‘q.\n🔹 Ikkinchi agent bu ma'lumot bilan taklifni yaratadi, inson nazorati yo‘q.\n\n🤝 AI tizimlarida inson nazoratini kuchaytirish zarur.",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "date": "2026-11-04"
+  },
+  {
+    "title_ru": "Google не смог увеличить доход от AI-рекламы 🚀",
+    "title_uz": "Google AI reklama daromadini oshira olmadi 🚀",
+    "text_ru": "Google не смог увеличить доход от AI-рекламы 🚀\n\n📣 По запросам в поиске наблюдается самый быстрый рост за пять лет, но доход от рекламы замедлился. В III квартале рост составил 12% год к году, против 17% в предыдущем квартале.\n\n🔹 Запросы в поиске растут быстрее за последние пять лет.\n🔹 Доход от поиска в Q3 вырос на 12% YoY, ранее — 17%.\n🔹 Рост платных кликов замедлился, точные цифры не раскрыты.\n\n🤝 Необходимо пересмотреть монетизацию AI в рекламе.",
+    "text_uz": "Google AI reklama daromadini oshira olmadi 🚀\n\n📣 Google-ning qidiruv so'rovlari besh yildagi eng tez o'sishda, lekin reklama daromadi pasaymoqda. Q3‑da daromad yillik 12% ga o'sdi, oldingi chorakda 17% edi.\n\n🔹 Qidiruv so'rovlari besh yildagi eng yuqori o'sish sur'atida.\n🔹 Qidiruv daromadi Q3‑da 12% yillik o'sdi, oldingi chorakda 17% edi.\n🔹 To'lovli kliklar o'sishi sekinlashdi, aniq raqamlar e'lon qilinmagan.\n\n🤝 AI reklama strategiyasini qayta ko'rib chiqish zarur.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "date": "2026-11-04"
+  },
+  {
+    "title_ru": "TechCrunch Founder Summit 2026 🚀 Бостон",
+    "title_uz": "TechCrunch Founder Summit 2026 🚀 Boston",
+    "text_ru": "TechCrunch Founder Summit 2026 🚀 Бостон\n\n📣 Сегодня в SoWa Power Station, Бостон, стартует TechCrunch Founder Summit 2026.\n\n🔹 Открытие в 9:00 ET 2026 года.\n🔹 Мероприятие в SoWa Power Station, Бостон, США.\n🔹 Регистрация открыта, места ограничены.\n\n🤝 Зарегистрируйтесь сейчас и присоединяйтесь к конференции!",
+    "text_uz": "TechCrunch Founder Summit 2026 🚀 Boston\n\n📣 Bugun SoWa Power Station, Boston’da TechCrunch Founder Summit 2026 boshlanadi.\n\n🔹 2026-yil, 9:00 ET da eshiklar ochiladi.\n🔹 SoWa Power Station, Boston, AQShda bo‘lib o‘tadi.\n🔹 Tadbirga ro‘yxatdan o‘tish hozir ochiq, cheklangan joylar.\n\n🤝 Hozir ro‘yxatdan o‘ting va tadbirda qatnashing!",
+    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+    "date": "2026-11-04"
+  },
+  {
     "title_ru": "🚀 Агентный аналитика: повышение качества инсайтов",
     "title_uz": "🚀 Agentik tahlil: Insight sifatini oshirish",
     "text_ru": "🚀 Агентный аналитика: повышение качества инсайтов\n\n📣 Генеративный ИИ за несколько лет изменил корпоративную аналитику. Agentный ИИ автоматизирует рабочие процессы, но качество инсайтов пока низкое.\n\n🔹 Генеративный ИИ сделал аналитику доступной всем сотрудникам.\n🔹 Agentный ИИ автоматизирует полные рабочие потоки.\n🔹 Текущие инсайты от агентов часто недостаточно качественны.\n\n🤝 Улучшайте качество инсайтов, применяя проверенные методики.",
@@ -214,29 +238,5 @@
     "text_uz": "Ollie AI yordamchisi yopilmoqda 🚀\n\n📣 Ollie, foydalanuvchilarning maxfiyligini himoya qilgan AI yordamchisi, bir hafta ichida faoliyatini to‘xtatadi.\n\n🔹 Ollie maxfiylikka alohida e’tibor qaratgan platforma edi.\n🔹 Asoschisi bozorni to‘ldirayotgan AI yordamchilarini sanab, yopilishini e’lon qildi.\n🔹 Yopilish muddati: keyingi 7 kun ichida.\n\n🤝 Maxfiylikka intilgan foydalanuvchilar yangi yechimlarni izlashlari kerak.",
     "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "date": "2026-10-31"
-  },
-  {
-    "title_ru": "Nvidia готова поддержать кредит для AI‑центра Nscale 🚀",
-    "title_uz": "Nvidia Nscale AI markaziga qarzga hamkorlik taklifi 🚀",
-    "text_ru": "Nvidia готова поддержать кредит для AI‑центра Nscale 🚀\n\n📣 Nvidia предлагает стать со‑кредитором для AI‑центра Nscale в Западной Вирджинии. Это шаг к снижению тревоги инвесторов по поводу расходов на ИИ.\n\n🔹 Nvidia, поставщик AI‑чипов, готова поддержать кредитование проекта.\n🔹 AI‑центр Nscale расположен в Западной Вирджинии, требует значительных энергоресурсов.\n🔹 Инвесторы выражают опасения по поводу расходов на ИИ, а Nvidia снижает эти риски.\n\n🤝 Такое сотрудничество укрепит AI‑инфраструктуру США.",
-    "text_uz": "Nvidia Nscale AI markaziga qarzga hamkorlik taklifi 🚀\n\n📣 Nvidia Nscale kompaniyasining G‘arbiy Virjiniyada joylashgan AI ma'lumot markaziga kreditga hamkorlik taklif qilmoqda. Bu, investorlarning AI xarajatlari bo‘yicha xavotirini kamaytirishga qaratilgan.\n\n🔹 Nvidia AI chip yetkazib beruvchisi, moliyaviy qo‘llab-quvvatlashni taklif qilmoqda.\n🔹 Nscale AI markazi G‘arbiy Virjiniyada joylashgan, katta energiya talab qiladi.\n🔹 Investorlar AI xarajatlari bo‘yicha xavotir bildirgan holda, Nvidia bu xavfni kamaytiradi.\n\n🤝 Bu hamkorlik AI ekotizimini mustahkamlashga yordam beradi.",
-    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-    "date": "2026-10-31"
-  },
-  {
-    "title_ru": "Папа Лео призвал к разоружению ИИ 🤖🚀",
-    "title_uz": "Papa Leo AI-ni bekor qilishni talab qildi 🤖🚀",
-    "text_ru": "Папа Лео призвал к разоружению ИИ 🤖🚀\n\n📣 Папа Лев XIV заявил, что ИИ следует «разоружить». Он призвал страны ООН к запрету смертоносных автономных систем.\n\n🔹 Папа Лев XIV предложил «разоружить» ИИ.\n🔹 Страны ООН обсудят вопрос на предстоящей встрече в Женеве.\n🔹 Предлагаются конкретные меры по запрету летальных автономных вооружений.\n\n🤝 Давайте формировать будущее ИИ под контролем человека.",
-    "text_uz": "Papa Leo AI-ni bekor qilishni talab qildi 🤖🚀\n\n📣 Papa Leo XIV AI tizimlarini 'bekor qilish' kerakligini aytdi. U BMT a'zolarini o‘limga olib keluvchi avtonom qurollarni taqiq qilishga chaqirdi.\n\n🔹 Papa Leo XIV AI tizimlarini 'bekor qilish' taklifini berdi.\n🔹 BMT a'zolari Genfda kelgusi yig‘ilishda bu masalani muhokama qiladi.\n🔹 O‘limga olib keluvchi avtonom qurollar taqiqi uchun konkret choralar taklif qilindi.\n\n🤝 AI kelajagini inson nazorati bilan shakllantiraylik.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-    "date": "2026-10-30"
-  },
-  {
-    "title_ru": "Первый космический дата‑центр Google запущен 🚀",
-    "title_uz": "Google'ning birinchi kosmik ma'lumot markazi ishga tushdi 🚀",
-    "text_ru": "Первый космический дата‑центр Google запущен 🚀\n\n📣 Google запустила первый в космосе TPU, работающий на модели Gemma 4.\n\n🔹 Первый TPU теперь находится на орбите.\n🔹 Модель DeepMind Gemma 4 генерирует стихи в реальном времени.\n🔹 Спутник расширяет возможности ИИ‑сервисов.\n\n🤝 Следите за развитием ИИ в космосе!",
-    "text_uz": "Google'ning birinchi kosmik ma'lumot markazi ishga tushdi 🚀\n\n📣 Google kompaniyasining спутниктaki birinchi TPU ishga tushdi, Gemma 4 modeli ishlaydi.\n\n🔹 Birinchi TPU kosmosda joylashgan.\n🔹 DeepMind Gemma 4 modeli real vaqtida she'rlar yaratadi.\n🔹 Satelit ma'lumot markazi AI xizmatlarini kengaytiradi.\n\n🤝 Sun'iy intellektning kosmik imkoniyatlarini kuzatib boring!",
-    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "date": "2026-10-30"
   }
 ]
