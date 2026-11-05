@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Техас стал новым эпицентром AI‑центров 🚀",
+    "title_uz": "Texas AI ma'lumot markazlari yangi epicenter 🚀",
+    "text_ru": "Техас стал новым эпицентром AI‑центров 🚀\n\n📣 Техас — самый быстрорастущий рынок дата‑центров в США, центр крупных AI‑проектов.\n\n🔹 В 2023 году Техас вырос на 30 % в числе дата‑центров.\n🔹 Демократ Джеймс Таларико победил Кена Пакстона в Сенате.\n🔹 Гина Хинойоса выиграла губернаторские выборы у республиканца.\n\n🤝 Будущее AI‑инвестиций в Техасе зависит от политических изменений.",
+    "text_uz": "Texas AI ma'lumot markazlari yangi epicenter 🚀\n\n📣 Texas AQShda eng tez o'sayotgan ma'lumot markazi bo'lib, AI infratuzilmasining markaziga aylandi.\n\n🔹 Texas 2023‑yilda 30% ma'lumot markazi o'sishi bilan yetakchi bo'ldi.\n🔹 Demokrat James Talarico Senat o'rnini Ken Paxton ustidan egalladi.\n🔹 Gina Hinojosa gubernator lavozimini respublika incumbentidan yutdi.\n\n🤝 Texasdagi AI investitsiyalarining kelajagi siyosiy o'zgarishlarga bog'liq.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "date": "2026-11-05"
+  },
+  {
+    "title_ru": "🚀 Крупные технологические компании продолжают расширять AI‑центры",
+    "title_uz": "🚀 Katta texnologiyalarning AI ma'lumot markazi kengayishi",
+    "text_ru": "🚀 Крупные технологические компании продолжают расширять AI‑центры\n\n📣 Четыре ведущих игрока AI представили квартальные отчёты. Они инвестируют рекордные суммы в AI‑центры.\n\n🔹 Четыре крупнейшие компании раскрыли финансовые результаты в сфере AI.\n🔹 Инвестиции в AI‑центры достигли рекордных уровней.\n🔹 Ожидаемая прибыль от инвестиций пока не реализована.\n\n🤝 Следите за развитием AI‑инфраструктуры вместе с нами!",
+    "text_uz": "🚀 Katta texnologiyalarning AI ma'lumot markazi kengayishi\n\n📣 To‘rt yirik AI raqibi so‘nggi oyda kvartal hisobotlarini taqdim etdi. Ular AI ma'lumot markazlariga rekord miqdorda sarmoya kiritmoqda.\n\n🔹 To‘rt yirik kompaniya AI daromadlari haqida ma'lumot berdi.\n🔹 AI ma'lumot markazlari uchun rekord darajada mablag‘ sarflanmoqda.\n🔹 Investitsiyalar hali kutilgan daromadga yetmagan.\n\n🤝 AI infratuzilmasining kelajagini birgalikda kuzatib boring!",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "date": "2026-11-05"
+  },
+  {
+    "title_ru": "YC стартап вкладывает $1M в материалы 🚀🤖",
+    "title_uz": "YC startapi $1M investitsiya qiladi 🚀🤖",
+    "text_ru": "YC стартап вкладывает $1M в материалы 🚀🤖\n\n📣 Discovered Materials, стартап из YC, использует ИИ для поиска материалов микрочипов.\n\n🔹 Предлагается $200 000 за каждое решение.\n🔹 Пять открытых задач в материаловедении.\n🔹 Общий фонд составляет $1 млн.\n\n🤝 Присоединяйтесь к решению будущих технологий.",
+    "text_uz": "YC startapi $1M investitsiya qiladi 🚀🤖\n\n📣 Discovered Materials, YC dasturidagi startap, sun'iy intellekt orqali chip materiallarini izlaydi.\n\n🔹 $200,000 har bir yechim uchun taklif qilinadi.\n🔹 Besh ochiq materialshunoslik muammosiga e'tibor qaratiladi.\n🔹 Umumiy mablag' $1 millionni tashkil etadi.\n\n🤝 Yangi materiallar yaratish uchun imkoniyatni qo'ldan boy bermang.",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "date": "2026-11-05"
+  },
+  {
     "title_ru": "Обеспечение безопасности AI‑агентов с помощью трассировки данных ⚡️",
     "title_uz": "AI agentlari ma'lumotlar izlari bilan xavfsizlikni ta'minlaydi 🚀",
     "text_ru": "Обеспечение безопасности AI‑агентов с помощью трассировки данных ⚡️\n\n📣 AI‑агент запрашивает цены клиента, используя несколько источников без проверки человеком. 🤖 Затем второй агент формирует коммерческое предложение.\n\n🔹 Агент обращается к закрытым системам ценообразования, внутренним сообщениям и архивным котировкам.\n🔹 Вывод считается корректным первым агентом, без подтверждения.\n🔹 Второй агент использует данные для предложения, без человеческого контроля.\n\n🤝 Необходимо внедрять человеческую проверку в цепочки AI‑агентов.",
@@ -213,30 +237,6 @@
     "text_ru": "Meta Muse Charm: AI‑тамагочи 🎉🤖\n\n📣 Компания Meta представила Muse Charm — AI‑помощник в виде тамагочи к праздникам.\n\n🔹 Muse Charm — компактное носимое устройство с искусственным интеллектом.\n🔹 Имеет милый анимированный «лицо», напоминающее Tamagotchi.\n🔹 Планируется продавать его как праздничный аксессуар.\n\n🤝 Откройте нового AI‑друга с Muse Charm!",
     "text_uz": "Meta Muse Charm: AI Tamagotchi 🎉🤖\n\n📣 Meta kompaniyasi Muse Charm AI yordamchisini tatil mavsumida taqdim etdi.\n\n🔹 Muse Charm kichik, ko‘chma AI qurilmasi, Tamagotchi ko‘rinishida.\n🔹 Qurilma yuzida yumshoq, animatsion yuz ifodasi bor.\n🔹 Meta uni rasmiy ravishda tatil sovg‘asi sifatida sotadi.\n\n🤝 AI hamrohlaringizni Muse Charm bilan kashf eting!",
     "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "date": "2026-10-31"
-  },
-  {
-    "title_ru": "OpenAI снижает цель финансирования 🚀",
-    "title_uz": "OpenAI yangi mablag‘ turini kamaytirdi 🚀",
-    "text_ru": "OpenAI снижает цель финансирования 🚀\n\n📣 OpenAI снизила целевую сумму в новом раунде финансирования.\n\n🔹 OpenAI уменьшила целевой объём инвестиций в текущем раунде.\n🔹 Ожидается, что раунд будет меньше, чем планировалось ранее.\n🔹 Точные цифры и список инвесторов пока не раскрыты.\n\n🤝 Следите за новостями о будущих раундах.",
-    "text_uz": "OpenAI yangi mablag‘ turini kamaytirdi 🚀\n\n📣 OpenAI yangi investitsiya turida maqsadli mablag‘ miqdorini kamaytirdi.\n\n🔹 OpenAI yangi mablag‘ turida maqsadli summani pasaytirdi.\n🔹 Bu tur kutilgan darajadan kichik bo‘lishi taxmin qilinmoqda.\n🔹 Aniq miqdor yoki investorlar ro‘yxati e’lon qilinmagan.\n\n🤝 Kelgusi yangiliklar uchun kuzatib boring.",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "date": "2026-10-31"
-  },
-  {
-    "title_ru": "Apple Intelligence в Китае: iOS 27.3 🚀🤖",
-    "title_uz": "Apple Intelligence Xitoyga keladi: iOS 27.3 🚀🤖",
-    "text_ru": "Apple Intelligence в Китае: iOS 27.3 🚀🤖\n\n📣 Apple Intelligence появится в Китае с iOS 27.3. Бета‑версия выйдет 4 ноября, полная — в декабре.\n\n🔹 Apple Intelligence будет доступна в Китае в iOS 27.3.\n🔹 Бета‑версия запланирована на 4 ноября, полное обновление — декабрь.\n🔹 Подробности о функциях сообщаются MacRumors.\n\n🤝 Следите за обновлениями и пробуйте новые возможности Apple.",
-    "text_uz": "Apple Intelligence Xitoyga keladi: iOS 27.3 🚀🤖\n\n📣 Apple Intelligence Xitoyda iOS 27.3 bilan ishga tushadi. Beta versiyasi 4‑noyabrda, to‘liq versiya dekabrda chiqariladi.\n\n🔹 Apple Intelligence Xitoy bozorida iOS 27.3 bilan taqdim etiladi.\n🔹 Beta versiyasi 4‑noyabrda, rasmiy chiqarish dekabr oyida.\n🔹 Xususiyatlar MacRumors ma'lumotiga ko‘ra mavjud.\n\n🤝 Yangiliklarni kuzatib boring va Apple texnologiyalarini sinab ko‘ring.",
-    "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "date": "2026-10-31"
-  },
-  {
-    "title_ru": "Ollie — AI‑ассистент закрывается 🚀",
-    "title_uz": "Ollie AI yordamchisi yopilmoqda 🚀",
-    "text_ru": "Ollie — AI‑ассистент закрывается 🚀\n\n📣 Ollie, AI‑ассистент, защищающий конфиденциальность пользователей, прекратит работу через неделю.\n\n🔹 Ollie был платформой, ориентированной на конфиденциальность.\n🔹 Основатель объявил о закрытии из‑за перенасыщения рынка AI‑ассистентами.\n🔹 Срок завершения: в течение следующих 7 дней.\n\n🤝 Пользователям, ценящим конфиденциальность, следует искать новые решения.",
-    "text_uz": "Ollie AI yordamchisi yopilmoqda 🚀\n\n📣 Ollie, foydalanuvchilarning maxfiyligini himoya qilgan AI yordamchisi, bir hafta ichida faoliyatini to‘xtatadi.\n\n🔹 Ollie maxfiylikka alohida e’tibor qaratgan platforma edi.\n🔹 Asoschisi bozorni to‘ldirayotgan AI yordamchilarini sanab, yopilishini e’lon qildi.\n🔹 Yopilish muddati: keyingi 7 kun ichida.\n\n🤝 Maxfiylikka intilgan foydalanuvchilar yangi yechimlarni izlashlari kerak.",
-    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "date": "2026-10-31"
   }
 ]
