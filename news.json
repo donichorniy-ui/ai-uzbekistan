@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "🚀 Считайте не токены, а результаты",
+    "title_uz": "🚀 Tokenlarni hisoblamang, natijani o‘lchang",
+    "text_ru": "🚀 Считайте не токены, а результаты\n\n📣 Когда разработчик задаёт AI‑агенту задачу по коду, агент проходит несколько этапов.\n\n🔹 Агент планирует, генерирует код, запускает тесты и исправляет ошибки.\n🔹 Одна задача использует в 10‑50 раз больше токенов, чем обычный запрос.\n🔹 Чем полезнее агент, тем больше вызовов происходит.\n\n🤝 Обратите внимание на эффективность, а не только на количество токенов.\n━━━━━━━━━━\n🚀 Tokenlarni hisoblamang, natijani o‘lchang\n\n📣 Dasturchilar AI agentlariga kod topshirig‘ini berganda, agent bir necha bosqichni bajaradi.\n\n🔹 Agent kodni rejalashtiradi, yaratadi, test qiladi, xatolarni tuzatadi.\n🔹 Bir topshiriq oddiy suhbatga qaraganda 10‑50 baravar ko‘proq token ishlatadi.\n🔹 Agent foydali bo‘lganda, chaqiriqlar soni ortadi.\n\n🤝 AI agentlarining samaradorligini oshirish uchun token o‘lchoviga e’tibor bering.",
+    "text_uz": "🚀 Tokenlarni hisoblamang, natijani o‘lchang\n\n📣 Dasturchilar AI agentlariga kod topshirig‘ini berganda, agent bir necha bosqichni bajaradi.\n\n🔹 Agent kodni rejalashtiradi, yaratadi, test qiladi, xatolarni tuzatadi.\n🔹 Bir topshiriq oddiy suhbatga qaraganda 10‑50 baravar ko‘proq token ishlatadi.\n🔹 Agent foydali bo‘lganda, chaqiriqlar soni ortadi.\n\n🤝 AI agentlarining samaradorligini oshirish uchun token o‘lchoviga e’tibor bering.\n━━━━━━━━━━\n🚀 Считайте не токены, а результаты\n\n📣 Когда разработчик задаёт AI‑агенту задачу по коду, агент проходит несколько этапов.\n\n🔹 Агент планирует, генерирует код, запускает тесты и исправляет ошибки.\n🔹 Одна задача использует в 10‑50 раз больше токенов, чем обычный запрос.\n🔹 Чем полезнее агент, тем больше вызовов происходит.\n\n🤝 Обратите внимание на эффективность, а не только на количество токенов.",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "date": "2026-11-06"
+  },
+  {
+    "title_ru": "Обновления AI‑центров данных 🚀⚡️",
+    "title_uz": "AI ma'lumot markazlari yangiliklari 🚀⚡️",
+    "text_ru": "Обновления AI‑центров данных 🚀⚡️\n\n📣 Крупные технологические компании строят новые дата‑центры для ИИ. Расширение вызывает споры о нагрузке на электросети и воздействии на окружающую среду.\n\n🔹 Новые дата‑центры становятся фундаментом для проектов ИИ.\n🔹 Их рост повышает нагрузку на энергосистемы и счета за электроэнергию.\n🔹 Возникают глобальные дебаты о влиянии на местные сообщества и экологию.\n\n🤝 Присоединяйтесь к обсуждению устойчивого развития AI‑инфраструктуры.",
+    "text_uz": "AI ma'lumot markazlari yangiliklari 🚀⚡️\n\n📣 Texnologik gigantlar AI uchun yangi ma'lumot markazlarini qurmoqda. Ular energiya iste'moli va atrof‑muhitga ta'siri haqida bahs-munozaralarga sabab bo'lmoqda.\n\n🔹 Yangi ma'lumot markazlari AI loyihalarining asosini tashkil etadi.\n🔹 Kengayish energiya tarmoqlariga bosim qo'yadi, hisob‑fakturalarni oshiradi.\n🔹 Mahalliy jamoalar va atrof‑muhitga salbiy ta'sir haqida global bahslar kuchaymoqda.\n\n🤝 Barqaror AI infratuzilmasi uchun hamjamiyat bilan hamkorlik qiling.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "date": "2026-11-06"
+  },
+  {
+    "title_ru": "⚡️ Сотни инструментов Artex AI открыты в интернете",
+    "title_uz": "⚡️ Yuzlab Artex AI vositalari internetda ochiq",
+    "text_ru": "⚡️ Сотни инструментов Artex AI открыты в интернете\n\n📣 Исследователи безопасности обнаружили, что сотни серверов с инструментом Artex AI открыты в интернете. Это позволяет любому пользователю свободно получить доступ к этому хакерскому инструменту.\n\n🔹 Сотни серверов публично размещают инструмент Artex.\n🔹 Инструмент может использоваться для атак на AI‑системы.\n🔹 Эксперты советуют быстро закрыть уязвимости.\n\n🤝 Проверьте свои серверы и закройте открытый доступ к инструменту.",
+    "text_uz": "⚡️ Yuzlab Artex AI vositalari internetda ochiq\n\n📣 Xavfsizlik tadqiqotchilari yuzlab serverda Artex penetratsiya vositasi internetda ochiq ekanligini aniqladi. Bu har qanday foydalanuvchiga vositaga erkin kirish imkonini beradi.\n\n🔹 Yuzlab serverlar Artex vositasini ochiq holda ishlatmoqda.\n🔹 Vosita AI tizimlariga hujum qilish uchun foydalanilishi mumkin.\n🔹 Xavfsizlik mutaxassislari tezkor choralar ko‘rishni tavsiya qiladilar.\n\n🤝 Xavfsizlikni mustahkamlash uchun serverlarni tekshiring va yopiq qiling.",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "date": "2026-11-06"
+  },
+  {
     "title_ru": "🤖🚀 Робот‑уборщик в Сан‑Франциско: взгляд в будущее",
     "title_uz": "🤖🚀 San‑Fransiskodagi robot tozalash xizmatiga nazar!",
     "text_ru": "🤖🚀 Робот‑уборщик в Сан‑Франциско: взгляд в будущее\n\n📣 В Сан‑Франциско запущена услуга чистки с новым humanoid‑роботом. Это демонстрация будущих технологий в быту.\n\n🔹 В Сан‑Франциско запущена услуга чистки с humanoid‑роботом.\n🔹 Робот самостоятельно моет полы и поверхности.\n🔹 Первые пользователи отмечают новизну, стоимость пока не раскрыта.\n\n🤝 Попробуйте футуристическую уборку и поддержите инновации.",
@@ -214,29 +238,5 @@
     "text_uz": "OpenAI rebrends data markazlarini ‘AI compute kampuslari’ga 🚀🤖\n\n📣 OpenAI AI hisoblash kampuslarini yaratish niyatida.\n\n🔹 Data markazlari nomi “AI compute kampuslari”ga o‘zgartirilishi mumkin.\n🔹 Bu brending kompaniyaning ijtimoiy imidjini yaxshilashga qaratilgan.\n🔹 Hozircha aniq sanalar yoki joylar e'lon qilinmagan.\n\n🤝 Kelajakdagi texnologik infratuzilma haqida kuzatishda qoling.\n━━━━━━━━━━\nOpenAI переименует дата‑центры в «AI compute кампусы» 🚀🤖\n\n📣 OpenAI планирует переименовать дата‑центры в «AI compute кампусы».\n\n🔹 Дата‑центры могут стать «AI compute кампусами».\n🔹 Цель — улучшить общественное восприятие инфраструктуры.\n🔹 Пока нет точных дат или локаций.\n\n🤝 Следите за обновлениями в сфере технологий.",
     "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
     "date": "2026-11-02"
-  },
-  {
-    "title_ru": "🚀🤖 Starbucks планирует AI‑меню для драйв‑тру",
-    "title_uz": "🚀🤖 Starbucks AI bilan haydovchilar uchun shaxsiy menyu",
-    "text_ru": "🚀🤖 Starbucks планирует AI‑меню для драйв‑тру\n\n📣 Компания Starbucks объявила о планах внедрить AI‑технологию для персонального цифрового меню в драйв‑тре. Об этом было сказано на звонке по результатам квартала в четверг.\n\n🔹 Генеральный директор Брайан Никкол объявил об инициативе в четверг.\n🔹 AI будет распознавать клиентов и предлагать индивидуальное меню.\n🔹 Цель — ускорить оплату и улучшить опыт обслуживания.\n\n🤝 Starbucks стремится сделать процесс заказа более удобным и быстрым.",
-    "text_uz": "🚀🤖 Starbucks AI bilan haydovchilar uchun shaxsiy menyu\n\n📣 Starbucks kompaniyasi haydovchilarni kutib olishda AI texnologiyasini sinovdan o‘tkazishni rejalashtirmoqda. Bu yangilik kompaniyaning so‘nggi daromad chaqiruvi paytida e’lon qilindi.\n\n🔹 CEO Brian Niccol payshanba kuni bu rejani e’lon qildi.\n🔹 AI mijozni tanib, shaxsiy menyu va to‘lovni soddalashtiradi.\n🔹 Maqsad – haydovchi tajribasini yaxshilash va vaqtni tejash.\n\n🤝 Starbucks mijozlarga yanada qulay haydovchi tajribasini taklif qilishni maqsad qilmoqda.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-    "date": "2026-11-01"
-  },
-  {
-    "title_ru": "🚀 AI упрощает жизнь CEO, а для всех остальных?",
-    "title_uz": "🤖 AI texnologiya rahbarlariga yordam, boshqalarga qanday?",
-    "text_ru": "🚀 AI упрощает жизнь CEO, а для всех остальных?\n\n📣 Искусственный интеллект облегчает работу CEO, но его влияние на остальных обсуждается.\n\n🔹 AI автоматизирует анализ данных для руководителей.\n🔹 CEO рекламируют AI, но мало информации для широкой аудитории.\n🔹 В подкасте \"Equity\" обсуждалась тональность заявлений технологических лидеров.\n\n🤝 Присоединяйтесь к обсуждению, чтобы AI приносил пользу всем.",
-    "text_uz": "🤖 AI texnologiya rahbarlariga yordam, boshqalarga qanday?\n\n📣 AI texnologiyalari rahbarlarning ishini yengillashtiradi, lekin keng jamiyatga ta'siri muhokama qilinmoqda.\n\n🔹 AI avtomatlashtiradi rahbarlar uchun ma'lumot tahlilini.\n🔹 CEO'lar AI'ni reklama qiladi, ammo keng auditoriya uchun kam ma'lumot.\n🔹 \"Equity\" podkastida texnologiya so'zlari tonli bo'lishi tahlil qilindi.\n\n🤝 AI'ning umumiy foydasini oshirish uchun hamjamiyat bilan hamkorlik qiling.",
-    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "date": "2026-11-01"
-  },
-  {
-    "title_ru": "Спутник Google с ИИ передал первый ответ 🚀🤖",
-    "title_uz": "Google sun'iy intellektli sun'iy yo‘ldosh birinchi javobni uzatdi 🚀🤖",
-    "text_ru": "Спутник Google с ИИ передал первый ответ 🚀🤖\n\n📣 Компания Google запустила ИИ‑спутник, активировав его TPU, и передала первый ответ. Модель Gemma 4 создала хайку о пребывании в космосе.\n\n🔹 TPU успешно загрузились на спутнике.\n🔹 Gemma 4 сгенерировала хайку о космосе.\n🔹 Первый в истории ответ ИИ с орбиты Земли.\n\n🤝 Возможности ИИ в космосе продолжают расширяться.",
-    "text_uz": "Google sun'iy intellektli sun'iy yo‘ldosh birinchi javobni uzatdi 🚀🤖\n\n📣 Google kompaniyasi sun'iy intellektli yo‘ldoshi TPU‑larni ishga tushirdi va birinchi javobni uzatdi. Gemma 4 modeli kosmosda bo‘lish haqida haiku yaratdi.\n\n🔹 TPU‑lar muvaffaqiyatli bootlandi.\n🔹 Gemma 4 modeli haiku yozdi: \"Blue marble below…\".\n🔹 Bu birinchi marta sun'iy yo‘ldoshda AI javobini uzatish.\n\n🤝 AI texnologiyasining kosmosdagi imkoniyatlari kengaymoqda.",
-    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-    "date": "2026-11-01"
   }
 ]
