@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "🚀 Китай нанял AI‑executive для шпионажа за Дженсеном Хуангом",
+    "title_uz": "🚀 Xitoy Nvidia rahbari Jensen Huangni kuzatishga AI mutaxassisini jalb etdi",
+    "text_ru": "🚀 Китай нанял AI‑executive для шпионажа за Дженсеном Хуангом\n\n📣 Министерство государственной безопасности Китая привлекло исполнительного директора Megaspeed — Алису Хуанг, чтобы шпионить за Дженсеном Хуангом.\n\n🔹 Алиса Хуанг — топ-менеджер Megaspeed.\n🔹 Цель — собрать сведения о американских AI‑чипах.\n🔹 Китай стремится заставить Nvidia поставлять передовые чипы в Китай.\n\n🤝 Ситуация подчеркивает важность кибербезопасности в AI индустрии.",
+    "text_uz": "🚀 Xitoy Nvidia rahbari Jensen Huangni kuzatishga AI mutaxassisini jalb etdi\n\n📣 Xitoyning Davlat Xavfsizlik Xizmati Megaspeed kompaniyasining Alice Huangini jalb qilib, Jensen Huangga qarshi razvedka olib boradi.\n\n🔹 Alice Huang Megaspeed kompaniyasining ijrochi a'zosi.\n🔹 Maqsad – AQSh AI chiplari va ilg‘or texnologiyalarini o‘rganish.\n🔹 Xitoy kompaniyani chiplarni Xitoyga yetkazib berishga undashni xohlaydi.\n\n🤝 Bu holat AI sohasidagi global xavfsizlik muammolarini yoritadi.",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "date": "2026-11-07"
+  },
+  {
+    "title_ru": "OpenAI привлекло $11 млрд 🚀",
+    "title_uz": "OpenAI $11 mlrd qo‘shimcha mablag‘ yig‘di 🚀",
+    "text_ru": "OpenAI привлекло $11 млрд 🚀\n\n📣 OpenAI привлекло $11 млрд в рамках нового раунда инвестиций.\n\n🔹 Привлечено $11 млрд дополнительного финансирования.\n🔹 Раунд ещё не закрыт, завершение ожидается в ближайшие недели.\n🔹 Оценка компании достигла $1.25 трлн.\n\n🤝 Инвестиции ускорят развитие ИИ технологий.",
+    "text_uz": "OpenAI $11 mlrd qo‘shimcha mablag‘ yig‘di 🚀\n\n📣 OpenAI $11 mlrd qo‘shimcha mablag‘ yig‘di.\n\n🔹 OpenAI $11 mlrd qo‘shimcha mablag‘ yig‘di.\n🔹 Moliyalashtirish aylanmasi hali yopilmagan, yakunlanishi kutilmoqda.\n🔹 Kompaniya bahosi $1.25 trillion ga yetdi.\n\n🤝 Yangi investitsiyalar AI rivojiga turtki beradi.",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "date": "2026-11-07"
+  },
+  {
     "title_ru": "Агентный веб уже здесь 🚀🤖",
     "title_uz": "Agentlik vebi keldi 🚀🤖",
     "text_ru": "Агентный веб уже здесь 🚀🤖\n\n📣 В 2001 году Тим Бернерс‑Ли и коллеги представили концепцию Semantic Web. Статья была опубликована в журнале Scientific American, описывая интернет для автономных агентов.\n\n🔹 Статья вышла в Scientific American в 2001 году.\n🔹 Semantic Web предназначен для автоматической обработки данных агентами.\n🔹 Десятилетие спустя после изобретения WWW.\n\n🤝 Агентный веб откроет новые возможности для искусственного интеллекта.",
@@ -221,22 +237,6 @@
     "text_ru": "🚀 Октябрь 2026 AI новости\n\n📣 В октябре 2026 года объявлены последние новости в сфере искусственного интеллекта в Узбекистане.\n\n🔹 В октябре 2026 года официально анонсированы AI‑новости.\n🔹 В интерактивной карусели показаны изображения постов об ИИ, опубликованных в течение месяца.\n🔹 Новости охватывают актуальные тенденции технологий искусственного интеллекта.\n\n🤝 Присоединяйтесь к сообществу AI и двигайтесь в будущее!",
     "text_uz": "🚀 Oktyabr 2026 AI yangiliklari\n\n📣 Oktyabr oyida Oʻzbekistonda sunʼiy intellekt sohasidagi soʻnggi yangiliklar eʼlon qilindi.\n\n🔹 Oktyabr 2026‑yilda AI yangiliklari rasmiy ravishda eʼlon qilindi.\n🔹 Interaktiv karuselda oy davomida eʼlon qilingan AI postlari tasvirlari namoyish etildi.\n🔹 Yangiliklar sunʼiy intellekt texnologiyalarining soʻnggi tendensiyalarini qamrab oldi.\n\n🤝 AI hamjamiyati bilan birga kelajakka qadam qoʻying!",
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "Anthropic ограничивает клоны игр Claude 🚀🤖",
-    "title_uz": "Anthropic Claude Code video o‘yin klonlariga qarshi chora ko‘rdi 🚀🤖",
-    "text_ru": "Anthropic ограничивает клоны игр Claude 🚀🤖\n\n📣 Anthropic обновила системный запрос Claude Code, ограничив создание клонов игр.\n\n🔹 Claude Code теперь не позволяет воссоздавать существующие игры.\n🔹 Ретро‑игры переполнены AI‑декомпиляциями и портами.\n🔹 Ограничения сохраняют возможность создания новых игр.\n\n🤝 Поддерживайте инновации AI, соблюдая авторские права.",
-    "text_uz": "Anthropic Claude Code video o‘yin klonlariga qarshi chora ko‘rdi 🚀🤖\n\n📣 Anthropic Claude Code tizimini yangiladi, o‘yin klonlarini yaratishni cheklaydi.\n\n🔹 Claude Code endi mavjud video o‘yinlarni qayta yaratishga ruxsat bermaydi.\n🔹 Retro o‘yinlar AI dekompilyatsiyalari va portlari bilan to‘la bo‘lib bormoqda.\n🔹 Yangi cheklovlar yaratuvchilarga yangi o‘yinlar yaratishda imkoniyat beradi.\n\n🤝 AI bilan yaratuvchanlikni qo‘llab-quvvatlang, lekin qonuniylikni saqlang.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "Trajectory привлек $45M, делает обучение ИИ доступным 🚀🤖",
-    "title_uz": "Trajectory $45M mablag‘ yig‘di, AI treningi hammani qamrab oladi 🚀🤖",
-    "text_ru": "Trajectory привлек $45M, делает обучение ИИ доступным 🚀🤖\n\n📣 Trajectory, однолетний стартап, привлек $45 млн инвестиций, оценка $300 млн.\n\n🔹 Привлечено $45 млн инвестиций.\n🔹 Оценка компании достигла $300 млн.\n🔹 Обучение ИИ доступно без технических навыков.\n\n🤝 Следите за новостями, чтобы увидеть развитие AI для всех.",
-    "text_uz": "Trajectory $45M mablag‘ yig‘di, AI treningi hammani qamrab oladi 🚀🤖\n\n📣 Trajectory bir yillik startap $45 million investitsiya oldi, bahosi $300 millionga yetdi.\n\n🔹 $45M investitsiya olindi.\n🔹 Startap bir yildan keyin $300M bahoga erishdi.\n🔹 AI model treningi texnik bo‘lmagan foydalanuvchilar uchun soddalashtiriladi.\n\n🤝 AI texnologiyalarini keng jamoaga yetkazish uchun imkoniyat yarating.",
-    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "date": "2026-11-03"
   }
 ]
