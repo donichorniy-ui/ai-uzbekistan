@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️",
+    "title_uz": "NYT Cooking AI yordamchi kechki ovqatni saqladi, tortni xavf ostiga qo'ydi 🚀🤖",
+    "text_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️\n\n📣 AI‑ассистент NYT Cooking помог выбрать ужин, спас вечер.\n\n🔹 Приложение предложило куриный рецепт, готовится за 30 минут.\n🔹 Калорийность блюда — около 350 ккал.\n🔹 Ошибочный ингредиент в рецепте торта испортил корж.\n\n🤝 Попробуйте AI‑помощник, но проверяйте рецепты.",
+    "text_uz": "NYT Cooking AI yordamchi kechki ovqatni saqladi, tortni xavf ostiga qo'ydi 🚀🤖\n\n📣 NYT Cooking AI yordamchi haftalik kechki ovqatni tanlashda meni qutqardi.\n\n🔹 AI tavsiya qildi tovuq retsepti, 30 daqiqada tayyor.\n🔹 Tuzilgan retseptda kaloriya miqdori 350 kcal.\n🔹 Pishiriq uchun tavsiya qilingan ingredientlar xatolik bilan qo‘shildi, tortning qobig‘i yomonlashdi.\n\n🤝 AI yordamini sinab ko‘ring, lekin retseptni tekshiring.",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "date": "2026-11-07"
+  },
+  {
+    "title_ru": "Meta Spaces: новая платформа для сотрудничества 🚀🤖",
+    "title_uz": "Meta Spaces: yangi hamkorlik platformasi 🚀🤖",
+    "text_ru": "Meta Spaces: новая платформа для сотрудничества 🚀🤖\n\n📣 Meta запустила новую функцию “Spaces” для агент‑помощников Muse.\n\n🔹 Spaces позволяет взаимодействовать с Muse‑агентами в реальном времени.\n🔹 Новый интерфейс объединяет чат и задачи в одном окне.\n🔹 Meta планирует добавить дополнительные интеграции к платформе.\n\nИспользуйте новые возможности для более продуктивного сотрудничества 🤝",
+    "text_uz": "Meta Spaces: yangi hamkorlik platformasi 🚀🤖\n\n📣 Meta, Muse agentlari uchun yangi “Spaces” funksiyasini ishga tushirdi.\n\n🔹 Spaces – Muse agentlari bilan real‑vaqt hamkorligi.\n🔹 Yangi interfeys orqali suhbat va vazifalar birlashtiriladi.\n🔹 Meta platformasida qo‘shimcha integratsiyalar rejalashtirilgan.\n\nYangi imkoniyatlardan foydalanib, AI yordamchilaringiz bilan samarali ishlang 🤝",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "date": "2026-11-07"
+  },
+  {
     "title_ru": "🚀 Китай нанял AI‑executive для шпионажа за Дженсеном Хуангом",
     "title_uz": "🚀 Xitoy Nvidia rahbari Jensen Huangni kuzatishga AI mutaxassisini jalb etdi",
     "text_ru": "🚀 Китай нанял AI‑executive для шпионажа за Дженсеном Хуангом\n\n📣 Министерство государственной безопасности Китая привлекло исполнительного директора Megaspeed — Алису Хуанг, чтобы шпионить за Дженсеном Хуангом.\n\n🔹 Алиса Хуанг — топ-менеджер Megaspeed.\n🔹 Цель — собрать сведения о американских AI‑чипах.\n🔹 Китай стремится заставить Nvidia поставлять передовые чипы в Китай.\n\n🤝 Ситуация подчеркивает важность кибербезопасности в AI индустрии.",
@@ -221,22 +237,6 @@
     "text_ru": "OpenAI ⚡️ Сохраняет 1 000 МВт в дата‑центре\n\n📣 OpenAI запускает программу «Grid Protectors» в дата‑центре Эффингем, Джорджия.\n\n🔹 Программа может высвободить до 1 000 мегаватт в экстренных ситуациях.\n🔹 Этого хватает для кондиционирования около 700 000 домов.\n🔹 Пилотный запуск планируется в графстве Эффингем, штат Джорджия.\n\n🤝 Следите за новостями, как OpenAI повышает энергетическую устойчивость.",
     "text_uz": "OpenAI ⚡️ Data Markazida 1,000 MW Energiya Saqlash\n\n📣 OpenAI Effingham okrugidagi yangi data markazida “Grid Protectors” dasturini sinovdan o'tkazadi.\n\n🔹 1,000 megavattgacha quvvatni favqulodda holatlarda bo'shatadi.\n🔹 Bu energiya taxminan 700,000 uyga konditsioner quvvatini beradi.\n🔹 Dastur Georgia shtatidagi Effingham Countyda birinchi bo'lib amalga oshiriladi.\n\n🤝 Energiya xavfsizligini mustahkamlash uchun OpenAI bilan hamkorlik qiling.",
     "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "Бета‑тест Apple Watch с AI‑функциями 🚀",
-    "title_uz": "Apple Watch AI funksiyalari beta sinovi 🚀",
-    "text_ru": "Apple Watch AI функции beta‑тест 🚀\n\n📣 Apple Watch теперь в бета‑тесте новых функций Audio Intelligence.\n\n🔹 Функции rewind и recap позволяют переслушивать разговоры.\n🔹 Бета‑тест начался 1 июня 2024 года.\n🔹 Доступно на Apple Watch Series 8 и Ultra.\n\n🤝 Следите за обновлениями!",
-    "text_uz": "Apple Watch AI funksiyalari beta sinovi 🚀\n\n📣 Apple Watch’da yangi Audio Intelligence funksiyalari beta bosqichida.\n\n🔹 Rewind va recap funksiyalari suhbatlarni qayta eshitish imkonini beradi.\n🔹 Beta test 2024‑yil 1‑iyundan boshlangan.\n🔹 Foydalanuvchilar Apple Watch Series 8 va Ultra’da sinab ko‘rishlari mumkin.\n\n🤝 Yangiliklardan xabardor bo‘ling!\n━━━━━━━━━━\nApple Watch AI функции beta‑тест 🚀\n\n📣 Apple Watch теперь в бета‑тесте новых функций Audio Intelligence.\n\n🔹 Функции rewind и recap позволяют переслушивать разговоры.\n🔹 Бета‑тест начался 1 июня 2024 года.\n🔹 Доступно на Apple Watch Series 8 и Ultra.\n\n🤝 Следите за обновлениями!",
-    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "🚀 Октябрь 2026 AI новости",
-    "title_uz": "🚀 Oktyabr 2026 AI yangiliklari",
-    "text_ru": "🚀 Октябрь 2026 AI новости\n\n📣 В октябре 2026 года объявлены последние новости в сфере искусственного интеллекта в Узбекистане.\n\n🔹 В октябре 2026 года официально анонсированы AI‑новости.\n🔹 В интерактивной карусели показаны изображения постов об ИИ, опубликованных в течение месяца.\n🔹 Новости охватывают актуальные тенденции технологий искусственного интеллекта.\n\n🤝 Присоединяйтесь к сообществу AI и двигайтесь в будущее!",
-    "text_uz": "🚀 Oktyabr 2026 AI yangiliklari\n\n📣 Oktyabr oyida Oʻzbekistonda sunʼiy intellekt sohasidagi soʻnggi yangiliklar eʼlon qilindi.\n\n🔹 Oktyabr 2026‑yilda AI yangiliklari rasmiy ravishda eʼlon qilindi.\n🔹 Interaktiv karuselda oy davomida eʼlon qilingan AI postlari tasvirlari namoyish etildi.\n🔹 Yangiliklar sunʼiy intellekt texnologiyalarining soʻnggi tendensiyalarini qamrab oldi.\n\n🤝 AI hamjamiyati bilan birga kelajakka qadam qoʻying!",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "date": "2026-11-03"
   }
 ]
