@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "Nvidia продает чипы в пустой офис в Китае ⚡️",
+    "title_uz": "Nvidia H200 chiplari bo‘sh ofisga sotildi ⚡️",
+    "text_ru": "Nvidia продает чипы в пустой офис в Китае ⚡️\n\n📣 Министерство торговли США и Nvidia продают чипы H200 фирмам в Китае без надлежащей проверки.\n\n🔹 New Matrix включена в список одобренных, но её офис пустой.\n🔹 Чипы H200 предназначены для передовых ИИ‑моделей.\n🔹 По данным NYT, проверка китайских компаний недостаточна.\n\n🤝 Необходимо ужесточить контроль за экспортом.",
+    "text_uz": "Nvidia H200 chiplari bo‘sh ofisga sotildi ⚡️\n\n📣 Amerika Savdo Departamenti va Nvidia Xitoyda ofisi bo‘sh bo‘lgan firmalarga H200 AI chiplarini sotmoqda.\n\n🔹 New Matrix Xitoyda tasdiqlangan, biroq ofisi bo‘sh.\n🔹 H200 chiplari yuqori samarali sun'iy intellekt uchun mo‘ljallangan.\n🔹 NYT ma'lumotiga ko‘ra, nazorat va tekshiruv yetarli emas.\n\n🤝 Xavfsizlik choralarini kuchaytirish zarur.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "date": "2026-11-08"
+  },
+  {
+    "title_ru": "Промежуточные выборы усложняют положение Илона Маска и дата‑центров 📣",
+    "title_uz": "Midterm natijalari Elon Musk va data markazlariga ta'sir qilmoqda 🚀",
+    "text_ru": "Промежуточные выборы усложняют положение Илона Маска и дата‑центров 📣\n\n📣 Промежуточные выборы усиливают неопределённость в технологическом секторе. ✅ Инвесторы осторожнее относятся к проектам Маска и дата‑центрам.\n\n🔹 Выборы привели к снижению активности фондового рынка технологий.\n🔹 Компании Илона Маска находятся под усиленным регуляторным контролем.\n🔹 Ожидается замедление инвестиций в дата‑центры.\n\n🤝 Следите за обновлениями, чтобы быть в курсе будущих тенденций.",
+    "text_uz": "Midterm natijalari Elon Musk va data markazlariga ta'sir qilmoqda 🚀\n\n📣 Midterm saylovlari texnologiya sohasida noaniqlikni kuchaytirdi. ✅ Investorlar Muskning loyihalariga va data markazlariga ehtiyotkorlik bilan qarashmoqda.\n\n🔹 Midterm natijalari texnik fond bozorida pasayishga olib keldi.\n🔹 Elon Muskning kompaniyalari regulyator nazorati ostida qolmoqda.\n🔹 Data markazlari investitsiyalari sekinlashishi kutilmoqda.\n\n🤝 Yangiliklarni kuzatib boring va kelajakdagi trendlar haqida xabardor bo'ling.",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "date": "2026-11-08"
+  },
+  {
     "title_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️",
     "title_uz": "NYT Cooking AI yordamchi kechki ovqatni saqladi, tortni xavf ostiga qo'ydi 🚀🤖",
     "text_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️\n\n📣 AI‑ассистент NYT Cooking помог выбрать ужин, спас вечер.\n\n🔹 Приложение предложило куриный рецепт, готовится за 30 минут.\n🔹 Калорийность блюда — около 350 ккал.\n🔹 Ошибочный ингредиент в рецепте торта испортил корж.\n\n🤝 Попробуйте AI‑помощник, но проверяйте рецепты.",
@@ -221,22 +237,6 @@
     "text_ru": "Anthropic запускает FlashProve для проверки подлинности ИИ 🚀🤖\n\n📣 Компания Anthropic разрабатывает систему FlashProve для подтверждения идентичности ИИ‑моделей. Система позволит каждому проверять, от какого именно модели получен ответ.\n\n🔹 FlashProve определяет оригинальную модель, создавшую ответ ИИ.\n🔹 Планируется открытый доступ для всех провайдеров ИИ.\n🔹 Первые испытания запланированы на конец 2024 года.\n\n🤝 Следите за развитием FlashProve, чтобы повысить доверие к ИИ.",
     "text_uz": "Anthropic FlashProve tizimi AI identifikatsiyasini tasdiqlaydi 🚀🤖\n\n📣 Anthropic kompaniyasi AI modelining kimligini tasdiqlovchi FlashProve tizimini ishlab chiqmoqda. Bu tizim har qanday foydalanuvchiga javob manbasini tekshirish imkonini beradi.\n\n🔹 FlashProve AI javobining asl modelini aniqlashga yordam beradi.\n🔹 Tizim barcha AI provayderlari uchun ochiq bo‘lishi rejalashtirilgan.\n🔹 Dastlabki sinovlar 2024-yil oxirida boshlanishi kutilmoqda.\n\n🤝 AI texnologiyalarining ishonchliligi uchun FlashProve'ni kuzatib boring.",
     "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "🔍 Как «обратная теория игр» контролирует ИИ",
-    "title_uz": "🔍 “Reverse Game Theory” AI‑ni nazoratga olish",
-    "text_ru": "🚀 Как «обратная теория игр» контролирует ИИ\n\n✅ Новый подход заставляет мощные модели ИИ соблюдать правила.\n\n🔹 Концепцию разрабатывают исследователи по безопасности ИИ.\n🔹 Цель – согласовать действия ИИ с человеческими желаниями.\n🔹 Метод направлен на предотвращение нарушений законов и опасных действий.\n\n🤝 Техника укрепит безопасность ИИ.\n━━━━━━━━━━\n🚀 “Reverse Game Theory” AI‑ni nazoratga olish\n\n✅ Yangi usul kuchli AI modellari uchun qoidalarni bajargan holda ishlashini ta’minlaydi.\n\n🔹 “Reverse game theory” konsepti xavfsizlik tadqiqotchilari tomonidan ishlab chiqildi.\n🔹 Maqsad – AI agentlarini inson istaklariga moslashtirish.\n🔹 Yondashuv qonunbuzarlik va xavfli xatti-harakatlarni oldini olishga qaratilgan.\n\n🤝 Bu texnika AI xavfsizligini mustahkamlashga yordam beradi.",
-    "text_uz": "🚀 “Reverse Game Theory” AI‑ni nazoratga olish\n\n✅ Yangi usul kuchli AI modellari uchun qoidalarni bajargan holda ishlashini ta’minlaydi.\n\n🔹 “Reverse game theory” konsepti xavfsizlik tadqiqotchilari tomonidan ishlab chiqildi.\n🔹 Maqsad – AI agentlarini inson istaklariga moslashtirish.\n🔹 Yondashuv qonunbuzarlik va xavfli xatti-harakatlarni oldini olishga qaratilgan.\n\n🤝 Bu texnika AI xavfsizligini mustahkamlashga yordam beradi.\n━━━━━━━━━━\n🚀 Как «обратная теория игр» контролирует ИИ\n\n✅ Новый подход заставляет мощные модели ИИ соблюдать правила.\n\n🔹 Концепцию разрабатывают исследователи по безопасности ИИ.\n🔹 Цель – согласовать действия ИИ с человеческими желаниями.\n🔹 Метод направлен на предотвращение нарушений законов и опасных действий.\n\n🤝 Техника укрепит безопасность ИИ.",
-    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "date": "2026-11-03"
-  },
-  {
-    "title_ru": "OpenAI ⚡️ Сохраняет 1 000 МВт в дата‑центре",
-    "title_uz": "OpenAI ⚡️ Data Markazida 1,000 MW Energiya Saqlash",
-    "text_ru": "OpenAI ⚡️ Сохраняет 1 000 МВт в дата‑центре\n\n📣 OpenAI запускает программу «Grid Protectors» в дата‑центре Эффингем, Джорджия.\n\n🔹 Программа может высвободить до 1 000 мегаватт в экстренных ситуациях.\n🔹 Этого хватает для кондиционирования около 700 000 домов.\n🔹 Пилотный запуск планируется в графстве Эффингем, штат Джорджия.\n\n🤝 Следите за новостями, как OpenAI повышает энергетическую устойчивость.",
-    "text_uz": "OpenAI ⚡️ Data Markazida 1,000 MW Energiya Saqlash\n\n📣 OpenAI Effingham okrugidagi yangi data markazida “Grid Protectors” dasturini sinovdan o'tkazadi.\n\n🔹 1,000 megavattgacha quvvatni favqulodda holatlarda bo'shatadi.\n🔹 Bu energiya taxminan 700,000 uyga konditsioner quvvatini beradi.\n🔹 Dastur Georgia shtatidagi Effingham Countyda birinchi bo'lib amalga oshiriladi.\n\n🤝 Energiya xavfsizligini mustahkamlash uchun OpenAI bilan hamkorlik qiling.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
     "date": "2026-11-03"
   }
 ]
