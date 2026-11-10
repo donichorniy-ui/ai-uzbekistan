@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Google Cloud запускает Gemini для здравоохранения 🚀🤖",
+    "title_uz": "Google Cloud Gemini sog‘liqni saqlashda 🚀🤖",
+    "text_ru": "Google Cloud запускает Gemini для здравоохранения 🚀🤖\n\n📣 Google Cloud представил платформу Gemini для здравоохранения. Она объединяет клинические данные и автоматизирует рабочие процессы.\n\n🔹 Gemini собирает клинические данные в единой системе.\n🔹 Автоматизация снижает административную нагрузку персонала.\n🔹 Решение работает на надёжной инфраструктуре Google Cloud.\n\n🤝 Поддержите инновации в сфере здравоохранения!",
+    "text_uz": "Google Cloud Gemini sog‘liqni saqlashda 🚀🤖\n\n📣 Google Cloud Gemini platformasini sog‘liqni saqlash sohasiga taqdim etdi. Bu yechim klinik ma'lumotlarni birlashtirish va ish jarayonlarini avtomatlashtirishga qaratilgan.\n\n🔹 Gemini klinik ma'lumotlarni bir platformada birlashtiradi.\n🔹 Avtomatlashtirilgan ish jarayonlari admin bosimini kamaytiradi.\n🔹 Google Cloud infratuzilmasi orqali xavfsiz va kengaytiriladigan yechim.\n\n🤝 Sog‘liqni saqlashda innovatsiyani qo‘llab-quvvatlang!",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "date": "2026-11-10"
+  },
+  {
+    "title_ru": "Adobe Max: AI упрощает редактирование 🚀⚡️",
+    "title_uz": "Adobe Max: AI bilan tahrir qilish osonlashdi 🚀⚡️",
+    "text_ru": "Adobe Max: AI упрощает редактирование 🚀⚡️\n\n📣 На мероприятии Adobe Max анонсированы новые функции Creative Cloud и Firefly AI.\n\n🔹 Автоматическое удаление объектов в Photoshop, Lightroom и Premiere.\n🔹 Firefly AI интегрирован во все приложения Creative Cloud.\n🔹 Новые AI‑инструменты ускоряют процесс редактирования.\n\n🤝 Используйте новые возможности для креативных проектов!",
+    "text_uz": "Adobe Max: AI bilan tahrir qilish osonlashdi 🚀⚡️\n\n📣 Adobe Max tadbirida Creative Cloud va Firefly AI yangi funksiyalarini e'lon qildi.\n\n🔹 Photoshop, Lightroom va Premiere’da avtomatik obyekt va nuqsonlarni olib tashlash.\n🔹 Firefly AI barcha Creative Cloud ilovalariga integratsiya qilindi.\n🔹 Yangi AI vositalari tahrir vaqtini sezilarli darajada qisqartiradi.\n\n🤝 Yangi imkoniyatlar bilan yaratuvchanlikni oshiring!",
+    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+    "date": "2026-11-10"
+  },
+  {
+    "title_ru": "⚡️ Кибератаки могут ограничить открытый AI",
+    "title_uz": "🚀 Kiberhujumlar ochiq AI'ni cheklashi xavfi",
+    "text_ru": "⚡️ Кибератаки могут ограничить открытый AI\n\n📣 Исполнительный директор Hugging Face Ирен Солайман предупреждает о росте кибератак на открытые AI‑платформы.\n\n🔹 Кибератаки на открытые AI‑платформы усиливаются.\n🔹 Это может потребовать ужесточения мер безопасности.\n🔹 Доступность для разработчиков находится под угрозой.\n\n🤝 Давайте совместно укреплять безопасность, сохраняя открытость AI.",
+    "text_uz": "🚀 Kiberhujumlar ochiq AI'ni cheklashi xavfi\n\n📣 Hugging Face ijrochi Irene Solaiman, kiberhujumlar platformalarning xavfsizligini kuchaytirishi mumkinligini ogohlantirdi.\n\n🔹 Ochiq AI platformalariga kiberhujumlar ortib bormoqda.\n🔹 Bu xavfsizlik choralarini kuchaytirishga olib kelishi mumkin.\n🔹 Dasturchilar uchun erkinlik va kirish imkoniyati xavf ostida.\n\n🤝 Xavfsizlikni mustahkamlash, AI'ning ochiqligini saqlashga birgalikda harakat qilaylik.",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "date": "2026-11-10"
+  },
+  {
     "title_ru": "⚡️ Противодействие дата‑центрам: дело в электроэнергии",
     "title_uz": "⚡️ Ma'lumot markazlari va elektr tanqidi",
     "text_ru": "⚡️ Противодействие дата‑центрам: дело в электроэнергии\n\n📣 В день выборов в США в Ashburn, штат Вирджиния, известном как Data Center Alley, возникли проблемы с электроэнергией. Этот район является крупнейшим в мире кластером дата‑центров.\n\n🔹 В Ashburn потребление электроэнергии измеряется сотнями мегаватт.\n🔹 Дата‑центры усилили интернет‑трафик в день выборов.\n🔹 Проблемы с электроснабжением вызвали общественную критику.\n\n🤝 Необходимо повышать энергоэффективность дата‑центров.",
@@ -214,29 +238,5 @@
     "text_uz": "Underdog 32 MB nutq modeli demo’da 🚀\n\n📣 Underdog yangi demo’da 32 MB hajmdagi nutq va musiqa modelini namoyish etdi.\n\n🔹 Model hajmi faqat 32 MB, lekin yuqori sifatli ovoz yaratadi.\n🔹 Nutq va musiqa generatsiyasi bir vaqtning o'zida amalga oshiriladi.\n🔹 Demo onlayn platformada bepul sinab ko‘rish mumkin.\n\n🤝 Kichik hajmda ham kuchli AI imkoniyatlarini kashf eting!",
     "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
     "date": "2026-11-06"
-  },
-  {
-    "title_ru": "Gemini Omni 1.2 Flash: быстрый и экономичный ⚡️",
-    "title_uz": "Gemini Omni 1.2 Flash: tez va arzon 🚀",
-    "text_ru": "📣 Google представил новую модель Gemini Omni 1.2 Flash.\nОна обрабатывает более длительные видеоклипы быстрее и дешевле.\n\n🔹 Быстрее: повышенная скорость обработки по сравнению с предыдущими моделями.\n🔹 Экономичнее: снижает вычислительные затраты.\n🔹 Поддерживает более длинные видеоклипы, расширена максимальная длительность.\n\nГотовьтесь к новым возможностям в ИИ 🔥",
-    "text_uz": "📣 Google yangi Gemini Omni 1.2 Flash modelini ishga tushirdi.\nUzoqroq video kliplarni tezroq va kam xarajat bilan qayta ishlash imkonini beradi.\n\n🔹 Tezkor ishlash: an'anaviy modellarga qaraganda tezroq.\n🔹 Arzon: hisoblash xarajatlarini kamaytiradi.\n🔹 Uzoq video kliplarni qo‘llab‑quvvatlaydi, maksimal uzunlik oshirildi.\n\nAI sohasida yangi imkoniyatlar uchun tayyor bo‘ling 🤝",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "date": "2026-11-05"
-  },
-  {
-    "title_ru": "Perplexity запускает AI‑агентов “Teammates” для работы 🚀🤖",
-    "title_uz": "Perplexity yangi AI “Teammates” agentlarini ishga tushirdi 🚀🤖",
-    "text_ru": "Perplexity запускает AI‑агентов “Teammates” для работы 🚀🤖\n\n📣 Perplexity представила постоянно работающих агентов “Teammates”, способных выполнять несколько ролей.\n✅ Они интегрируют проекты, навыки и память из существующих инструментов Perplexity.\n\n🔹 “Teammates” работают непрерывно и берут на себя разные задачи.\n🔹 Интеграция с Perplexity Computer позволяет запускать агентов на устройстве.\n🔹 Новый функционал конкурирует с OpenAI и Anthropic.\n\n🤝 Используйте “Teammates” для повышения продуктивности.",
-    "text_uz": "Perplexity yangi AI “Teammates” agentlarini ishga tushirdi 🚀🤖\n\n📣 Perplexity kompaniyasi doimiy “Teammates” agentlarini ishga qo‘ydi, ularni bir necha rollarga ajratadi.\n✅ Ular mavjud loyihalar, ko‘nikmalar va xotirani integratsiya qiladi.\n\n🔹 Doimiy “Teammates” agentlari bir nechta rollarni bajaradi.\n🔹 Agentlar Perplexity Computer bilan qurilmada ishlaydi.\n🔹 Yangi xususiyatlar OpenAI va Anthropic’ga raqobat yaratadi.\n\n🤝 Yangi “Teammates” bilan ish samaradorligini oshiring.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-    "date": "2026-11-05"
-  },
-  {
-    "title_ru": "Airbnb запускает AI‑агента для путешествий в 2027 году 🤖🚀",
-    "title_uz": "Airbnb 2027-yilga AI sayohat agentini ishga tushiradi 🤖🚀",
-    "text_ru": "Airbnb запускает AI‑агента для путешествий в 2027 году 🤖🚀\n\n📣 Airbnb запустит AI‑агента для путешествий в первой половине 2027 года.\n\n🔹 Ожидаемый запуск — первая половина 2027 года.\n🔹 AI‑агент поможет планировать поездки и сравнивать варианты.\n🔹 Будет управлять бронированиями и поддерживать гостей во время пребывания.\n\n🤝 Сделайте свои путешествия проще с новым AI‑агентом!",
-    "text_uz": "Airbnb 2027-yilga AI sayohat agentini ishga tushiradi 🤖🚀\n\n📣 Airbnb 2027-yil birinchi yarmida AI sayohat agentini ishga tushiradi.\n\n🔹 2027-yil birinchi yarmida rasmiy ishga tushadi.\n🔹 AI agenti sayohatni rejalashtirish, variantlarni solishtirish imkonini beradi.\n🔹 Bronlarni boshqarish va turar joyda yordam ko‘rsatadi.\n\n🤝 Kelajakdagi sayohatni AI bilan yanada qulay qiling!",
-    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "date": "2026-11-05"
   }
 ]
