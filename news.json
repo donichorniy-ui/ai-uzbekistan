@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Tabletop: платформа для совместной работы 🚀",
+    "title_uz": "Tabletop: jamoaviy hamkorlik platformasi 🚀",
+    "text_ru": "Tabletop: платформа для совместной работы 🚀\n\n📣 Google Labs запустил эксперимент Tabletop. Создавайте интерактивные маршруты, опросы и турнирные сетки вместе.\n\n🔹 Tabletop – новый эксперимент Google Labs.\n🔹 Возможность создавать интерактивные планы, опросы, брекеты.\n🔹 Сейчас доступен список ожидания.\n\n🤝 Присоединяйтесь к листу ожидания!",
+    "text_uz": "Tabletop: jamoaviy hamkorlik platformasi 🚀\n\n📣 Google Labs yangi Tabletop tajribasini ishga tushirdi. Jamoalar uchun interaktiv rejalashtirish, so‘rovlar va turnirlar yaratish imkoniyati.\n\n🔹 Tabletop – Google Labs eksperiment.\n🔹 Interaktiv marshrutlar, so‘rovlar, bracketlar yaratish.\n🔹 Hozirda kutish ro‘yxatiga qo‘shiling.\n\n🤝 Kutilayotgan yangiliklar uchun ro‘yxatdan o‘ting!",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "date": "2026-11-12"
+  },
+  {
+    "title_ru": "United запрещает AI‑ассистентам бронировать рейсы 🚫🤖",
+    "title_uz": "United AI yordamchisi bilan uchish broniga ruxsat bermaydi 🚫🤖",
+    "text_ru": "United запрещает AI‑ассистентам бронировать рейсы 🚫🤖\n\n📣 United не разрешит личным AI‑ассистентам бронировать билеты.\n\n🔹 United ссылается на конфиденциальность и регулятивные требования, запрещая AI‑бронирование.\n🔹 Пока наблюдается небольшое количество попыток использовать AI для бронирования.\n🔹 Doordash также ограничивает использование AI‑ассистентов в заказах.\n\n🤝 Призываем к безопасному и законному использованию AI в путешествиях.",
+    "text_uz": "United AI yordamchisi bilan uchish broniga ruxsat bermaydi 🚫🤖\n\n📣 United, shaxsiy AI yordamchilarining samolyot chiptalarini bron qilishiga qarshi.\n\n🔹 United maxfiylik va regulyator talablar sababli AI broniga ruxsat bermaydi.\n🔹 Hozircha AI yordamchilarini bron qilishga urinishlar kam kuzatildi.\n🔹 Doordash ham shunga o‘xshash siyosatni qo‘llaydi, AI xizmatlari cheklangan.\n\n🤝 AI texnologiyalarini xavfsiz va qonuniy foydalanishga chaqiramiz.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "date": "2026-11-12"
+  },
+  {
+    "title_ru": "Возможные преемники Nvidia 🚀",
+    "title_uz": "Nvidia rahbariyati uchun ehtimoliy merosxo‘rlar 🚀",
+    "text_ru": "Возможные преемники Nvidia 🚀\n\n📣 Обсуждается, кто может заменить Дженсена Хуана во главе Nvidia. Компания пока не объявила официального плана наследования.\n\n🔹 Nvidia официально не представила план преемственности.\n🔹 Дженсен Хуан находится под давлением в управлении.\n🔹 Эксперты составили список потенциальных кандидатов.\n\n🤝 Следите за изменениями в руководстве Nvidia.",
+    "text_uz": "Nvidia rahbariyati uchun ehtimoliy merosxo‘rlar 🚀\n\n📣 Nvidia kompaniyasining hozirgi CEO'si Jensen Huang o'rniga kim kelishi mumkinligi haqida muhokama boshlandi. Kompaniya rasmiy merosxo‘r rejasiga ega emas.\n\n🔹 Nvidia hozirda aniq merosxo‘r rejasini e'lon qilmagan.\n🔹 Jensen Huang boshqaruvdagi qiyinchiliklar bilan duch kelmoqda.\n🔹 Ekspertlar bir nechta nomzodlar ro‘yxatini tuzdilar.\n\n🤝 Kelgusida Nvidia rahbariyatidagi o'zgarishlarni kuzatib boring.",
+    "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+    "date": "2026-11-12"
+  },
+  {
     "title_ru": "Gemini Decisions API 🚀 – Быстрые калиброванные мультимодальные решения",
     "title_uz": "Gemini Decisions API 🚀 – Tez va aniq multimodal qarorlar",
     "text_ru": "Gemini Decisions API 🚀 – Быстрые калиброванные мультимодальные решения\n\n📣 Запущен Gemini Decisions API, работающий на модели Gemini Decision. Он обеспечивает быстрые и калиброванные мультимодальные решения.\n\n🔹 API обрабатывает мультимодальные данные в реальном времени.\n🔹 Модель Gemini Decision обновлена в 2024 году.\n🔹 Простая интеграция через REST и готовые SDK.\n\n🤝 Попробуйте API уже сегодня и улучшите свои проекты!",
@@ -214,29 +238,5 @@
     "text_uz": "🚀 Megaspeed ijrochi Nvidia boshliqini kuzatishda\n\n📣 AQSh razvedkasi xabari bo‘yicha Xitoy Xavfsizlik vazirligi Megaspeed kompaniyasining ayol ijrochisini Nvidia boshqaruvchisiga qarshi spy qilishga jalb qilgan.\n\n🔹 Xitoy Xavfsizlik vazirligi ayol texnologiya ijrochisini jalb qilgan.\n🔹 Maqsad Nvidia CEO'sini kuzatish edi.\n🔹 Xabar 2024 yil boshida tarqatilgan memo asosida.\n\n🤝 Xavfsizlikka e'tibor qaratish va axborot oqimini nazorat qilish muhim.\n━━━━━━━━━━\n🚀 Megaspeed exec шпионил Nvidia CEO\n\n📣 По данным американской разведки, Министерство государственной безопасности Китая привлекло женщину‑executive Megaspeed для слежки за CEO Nvidia.\n\n🔹 Китайское МГБ наняло женщину‑технолога.\n🔹 Цель – наблюдать за CEO Nvidia.\n🔹 Информация из мемо, опубликованного в начале 2024 года.\n\n🤝 Необходимо усиливать кибербезопасность и контроль информации.",
     "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
     "date": "2026-11-08"
-  },
-  {
-    "title_ru": "Nvidia продает чипы в пустой офис в Китае ⚡️",
-    "title_uz": "Nvidia H200 chiplari bo‘sh ofisga sotildi ⚡️",
-    "text_ru": "Nvidia продает чипы в пустой офис в Китае ⚡️\n\n📣 Министерство торговли США и Nvidia продают чипы H200 фирмам в Китае без надлежащей проверки.\n\n🔹 New Matrix включена в список одобренных, но её офис пустой.\n🔹 Чипы H200 предназначены для передовых ИИ‑моделей.\n🔹 По данным NYT, проверка китайских компаний недостаточна.\n\n🤝 Необходимо ужесточить контроль за экспортом.",
-    "text_uz": "Nvidia H200 chiplari bo‘sh ofisga sotildi ⚡️\n\n📣 Amerika Savdo Departamenti va Nvidia Xitoyda ofisi bo‘sh bo‘lgan firmalarga H200 AI chiplarini sotmoqda.\n\n🔹 New Matrix Xitoyda tasdiqlangan, biroq ofisi bo‘sh.\n🔹 H200 chiplari yuqori samarali sun'iy intellekt uchun mo‘ljallangan.\n🔹 NYT ma'lumotiga ko‘ra, nazorat va tekshiruv yetarli emas.\n\n🤝 Xavfsizlik choralarini kuchaytirish zarur.",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "date": "2026-11-08"
-  },
-  {
-    "title_ru": "Промежуточные выборы усложняют положение Илона Маска и дата‑центров 📣",
-    "title_uz": "Midterm natijalari Elon Musk va data markazlariga ta'sir qilmoqda 🚀",
-    "text_ru": "Промежуточные выборы усложняют положение Илона Маска и дата‑центров 📣\n\n📣 Промежуточные выборы усиливают неопределённость в технологическом секторе. ✅ Инвесторы осторожнее относятся к проектам Маска и дата‑центрам.\n\n🔹 Выборы привели к снижению активности фондового рынка технологий.\n🔹 Компании Илона Маска находятся под усиленным регуляторным контролем.\n🔹 Ожидается замедление инвестиций в дата‑центры.\n\n🤝 Следите за обновлениями, чтобы быть в курсе будущих тенденций.",
-    "text_uz": "Midterm natijalari Elon Musk va data markazlariga ta'sir qilmoqda 🚀\n\n📣 Midterm saylovlari texnologiya sohasida noaniqlikni kuchaytirdi. ✅ Investorlar Muskning loyihalariga va data markazlariga ehtiyotkorlik bilan qarashmoqda.\n\n🔹 Midterm natijalari texnik fond bozorida pasayishga olib keldi.\n🔹 Elon Muskning kompaniyalari regulyator nazorati ostida qolmoqda.\n🔹 Data markazlari investitsiyalari sekinlashishi kutilmoqda.\n\n🤝 Yangiliklarni kuzatib boring va kelajakdagi trendlar haqida xabardor bo'ling.",
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-    "date": "2026-11-08"
-  },
-  {
-    "title_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️",
-    "title_uz": "NYT Cooking AI yordamchi kechki ovqatni saqladi, tortni xavf ostiga qo'ydi 🚀🤖",
-    "text_ru": "AI‑ассистент NYT Cooking спас ужин, но чуть не испортил торт 🤖⚡️\n\n📣 AI‑ассистент NYT Cooking помог выбрать ужин, спас вечер.\n\n🔹 Приложение предложило куриный рецепт, готовится за 30 минут.\n🔹 Калорийность блюда — около 350 ккал.\n🔹 Ошибочный ингредиент в рецепте торта испортил корж.\n\n🤝 Попробуйте AI‑помощник, но проверяйте рецепты.",
-    "text_uz": "NYT Cooking AI yordamchi kechki ovqatni saqladi, tortni xavf ostiga qo'ydi 🚀🤖\n\n📣 NYT Cooking AI yordamchi haftalik kechki ovqatni tanlashda meni qutqardi.\n\n🔹 AI tavsiya qildi tovuq retsepti, 30 daqiqada tayyor.\n🔹 Tuzilgan retseptda kaloriya miqdori 350 kcal.\n🔹 Pishiriq uchun tavsiya qilingan ingredientlar xatolik bilan qo‘shildi, tortning qobig‘i yomonlashdi.\n\n🤝 AI yordamini sinab ko‘ring, lekin retseptni tekshiring.",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "date": "2026-11-07"
   }
 ]
