@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "ChatGPT Wallet для агентов OpenAI Dots 🚀🤖",
+    "title_uz": "ChatGPT Wallet OpenAI Dots agentlari uchun 🧾🚀",
+    "text_ru": "ChatGPT Wallet для агентов OpenAI Dots 🚀🤖\n\n📣 OpenAI запускает ChatGPT Wallet для пользователей ChatGPT Pro в США.\n\n🔹 Кошелёк доступен только подписчикам ChatGPT Pro от 18 лет.\n🔹 Принимаются карты American Express, Chase, Mastercard и Visa с US‑billing.\n🔹 Сервис стартовал в США для подписчиков ChatGPT Pro.\n\n🤝 Используйте новый кошелёк, чтобы автоматизировать покупки AI‑агентов.",
+    "text_uz": "ChatGPT Wallet OpenAI Dots agentlari uchun 🧾🚀\n\n📣 OpenAI ChatGPT Pro foydalanuvchilariga AQShda yangi ChatGPT Wallet xizmatini taqdim etdi.\n\n🔹 Wallet faqat ChatGPT Pro obunachilari uchun, 18+ yoshda.\n🔹 AQShda, US billing address va AmEx, Chase, Mastercard, Visa kartalari qabul qilinadi.\n🔹 Xizmat hozirda AQShda ChatGPT Pro abonentlariga boshlangan.\n\n🤝 Yangi imkoniyatlardan foydalanib, AI agentlaringizni sotib olishni avtomatlashtiring.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "date": "2026-11-13"
+  },
+  {
+    "title_ru": "Отход Дженсена Хуана ставит под угрозу финансирование AI стартапов 🚀⚡️",
+    "title_uz": "Jensen Huang ketishi AI startap moliyasiga zarba 🚀⚡️",
+    "text_ru": "Отход Дженсена Хуана ставит под угрозу финансирование AI стартапов 🚀⚡️\n\n📣 Дженсен Хуанг покинул пост главы Nvidia, вызывая неопределённость в финансировании AI‑стартапов.\n\n🔹 Nvidia под руководством Хуанга инвестировала миллиарды долларов в AI‑стартапы.\n🔹 После его ухода ожидается снижение размеров инвестиций.\n🔹 Стартапы готовятся к падению оценок и сокращению финансовой поддержки.\n\n🤝 Следите за изменениями инвестиций и адаптируйте стратегии роста стартапов.",
+    "text_uz": "Jensen Huang ketishi AI startap moliyasiga zarba 🚀⚡️\n\n📣 Jensen Huang Nvidia boshlig‘idan ketdi, AI startaplari moliyalashtirishda noaniqlik yuzaga keldi.\n\n🔹 Nvidia Huang boshqaruida AI startaplariga milliardlab dollar sarmoya kiritdi.\n🔹 Uning ketishi bilan investitsiya cheklarining hajmi kamayishi kutilmoqda.\n🔹 Startaplar baholarini pasaytirish va moliyaviy qo‘llab-quvvatlashni qisqartirishga tayyorlanmoqda.\n\n🤝 Investitsiya sharoitlari o‘zgarishini kuzatib, startaplar yangi strategiyalarni ishlab chiqishi kerak.",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date": "2026-11-13"
+  },
+  {
     "title_ru": "Nvidia подтвердило возможность отслеживания чипов 🚀",
     "title_uz": "Nvidia chiplarni kuzatish imkoniyati tasdiqlandi 🚀",
     "text_ru": "Nvidia подтвердило возможность отслеживания чипов 🚀\n\n📣 Представители Nvidia сообщили сенатору Биллу Фостеру из Иллинойса о технической возможности отслеживания чипов для борьбы с контрабандой.\n\n🔹 Nvidia разработала технологию отслеживания микросхем.\n🔹 Фостер отметил, что меры из Chip Security Act реализуемы.\n🔹 Отраслевое объединение назвало такие меры потенциально невозможными.\n\n🤝 Давайте совместно укреплять безопасность полупроводников.",
@@ -221,22 +237,6 @@
     "text_ru": "Adobe Max: AI упрощает редактирование 🚀⚡️\n\n📣 На мероприятии Adobe Max анонсированы новые функции Creative Cloud и Firefly AI.\n\n🔹 Автоматическое удаление объектов в Photoshop, Lightroom и Premiere.\n🔹 Firefly AI интегрирован во все приложения Creative Cloud.\n🔹 Новые AI‑инструменты ускоряют процесс редактирования.\n\n🤝 Используйте новые возможности для креативных проектов!",
     "text_uz": "Adobe Max: AI bilan tahrir qilish osonlashdi 🚀⚡️\n\n📣 Adobe Max tadbirida Creative Cloud va Firefly AI yangi funksiyalarini e'lon qildi.\n\n🔹 Photoshop, Lightroom va Premiere’da avtomatik obyekt va nuqsonlarni olib tashlash.\n🔹 Firefly AI barcha Creative Cloud ilovalariga integratsiya qilindi.\n🔹 Yangi AI vositalari tahrir vaqtini sezilarli darajada qisqartiradi.\n\n🤝 Yangi imkoniyatlar bilan yaratuvchanlikni oshiring!",
     "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-    "date": "2026-11-10"
-  },
-  {
-    "title_ru": "⚡️ Кибератаки могут ограничить открытый AI",
-    "title_uz": "🚀 Kiberhujumlar ochiq AI'ni cheklashi xavfi",
-    "text_ru": "⚡️ Кибератаки могут ограничить открытый AI\n\n📣 Исполнительный директор Hugging Face Ирен Солайман предупреждает о росте кибератак на открытые AI‑платформы.\n\n🔹 Кибератаки на открытые AI‑платформы усиливаются.\n🔹 Это может потребовать ужесточения мер безопасности.\n🔹 Доступность для разработчиков находится под угрозой.\n\n🤝 Давайте совместно укреплять безопасность, сохраняя открытость AI.",
-    "text_uz": "🚀 Kiberhujumlar ochiq AI'ni cheklashi xavfi\n\n📣 Hugging Face ijrochi Irene Solaiman, kiberhujumlar platformalarning xavfsizligini kuchaytirishi mumkinligini ogohlantirdi.\n\n🔹 Ochiq AI platformalariga kiberhujumlar ortib bormoqda.\n🔹 Bu xavfsizlik choralarini kuchaytirishga olib kelishi mumkin.\n🔹 Dasturchilar uchun erkinlik va kirish imkoniyati xavf ostida.\n\n🤝 Xavfsizlikni mustahkamlash, AI'ning ochiqligini saqlashga birgalikda harakat qilaylik.",
-    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "date": "2026-11-10"
-  },
-  {
-    "title_ru": "⚡️ Противодействие дата‑центрам: дело в электроэнергии",
-    "title_uz": "⚡️ Ma'lumot markazlari va elektr tanqidi",
-    "text_ru": "⚡️ Противодействие дата‑центрам: дело в электроэнергии\n\n📣 В день выборов в США в Ashburn, штат Вирджиния, известном как Data Center Alley, возникли проблемы с электроэнергией. Этот район является крупнейшим в мире кластером дата‑центров.\n\n🔹 В Ashburn потребление электроэнергии измеряется сотнями мегаватт.\n🔹 Дата‑центры усилили интернет‑трафик в день выборов.\n🔹 Проблемы с электроснабжением вызвали общественную критику.\n\n🤝 Необходимо повышать энергоэффективность дата‑центров.",
-    "text_uz": "⚡️ Ma'lumot markazlari va elektr tanqidi\n\n📣 AQSh saylovlari kunida, Вирджиния штатидаги Ashburn, Data Center Alley’da elektr muammolari yuzaga keldi. Bu hudud dunyodagi eng katta ma'lumot markazlari klasteriga ega.\n\n🔹 Ashburnda yuzlab megavatli elektr iste'moli mavjud.\n🔹 Data markazlari saylov kunida internet trafigini oshirdi.\n🔹 Elektr ta'minoti muammolari jamoatchilik tanqidiga sabab bo'ldi.\n\n🤝 Energiya samaradorligini oshirishga e'tibor qaratish lozim.",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "date": "2026-11-10"
   }
 ]
