@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "Генеральный директор Nvidia Дженсен Хуанг ушел 🚀",
+    "title_uz": "Nvidia bosh direktori Jensen Huang iste'foga chiqdi 🚀",
+    "text_ru": "Генеральный директор Nvidia Дженсен Хуанг ушел 🚀\n\n📣 Генеральный директор Nvidia Дженсен Хуанг официально покинул пост. Это событие может изменить динамику рынка ИИ.\n\n🔹 Дженсен Хуанг возглавлял Nvidia с 2023 года.\n🔹 В 2024 году доходы Nvidia от AI‑чипов выросли на 15 %.\n🔹 Уход Хуанга может повлиять на сотрудничество США и Китая в технологиях.\n\n🤝 Следите за новостями и делитесь своим мнением.",
+    "text_uz": "Nvidia bosh direktori Jensen Huang iste'foga chiqdi 🚀\n\n📣 Nvidia kompaniyasining bosh direktori Jensen Huang rasmiy ravishda iste'foga chiqdi. Bu qaror AI sanoatida muhim o'zgarishlarni keltirishi kutilmoqda.\n\n🔹 Jensen Huang 2023-yildan beri Nvidia bosh direktori bo'lib kelgan.\n🔹 Nvidia AI chip bozorida 2024-yilgi daromadi 15% ga o'sdi.\n🔹 Huangning iste'fosi AQSh va Xitoy texnologik hamkorligiga ta'sir ko'rsatishi mumkin.\n\n🤝 Kelgusi rivojlanishlarni kuzatib boring va fikrlaringizni bildiring.",
+    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "date": "2026-11-14"
+  },
+  {
+    "title_ru": "LangChain достиг оценки $3B 🚀",
+    "title_uz": "LangChain $3B bahoga yetdi 🚀",
+    "text_ru": "LangChain достиг оценки $3B 🚀\n\n📣 LangChain заявила о 7 000 клиентов своего инструмента управления агентами LangSmith.\n\n🔹 Оценка компании составила $3 миллиарда.\n🔹 У продукта 7 000 активных клиентов.\n🔹 LangSmith работает независимо от модели и платформы.\n\n🤝 Следите за развитием AI‑агентов и новыми возможностями.",
+    "text_uz": "LangChain $3B bahoga yetdi 🚀\n\n📣 LangChain agent boshqaruv platformasi LangSmith 7,000 mijozga ega bo‘ldi.\n\n🔹 Valuatsiya $3 milliardga yetdi.\n🔹 7,000 mijoz platformadan foydalanyapti.\n🔹 LangSmith model va platformaga mustaqil agentlarni boshqaradi.\n\n🤝 Kelajakdagi AI agentlari uchun imkoniyatlar kengaymoqda.",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "date": "2026-11-14"
+  },
+  {
     "title_ru": "ChatGPT Wallet для агентов OpenAI Dots 🚀🤖",
     "title_uz": "ChatGPT Wallet OpenAI Dots agentlari uchun 🧾🚀",
     "text_ru": "ChatGPT Wallet для агентов OpenAI Dots 🚀🤖\n\n📣 OpenAI запускает ChatGPT Wallet для пользователей ChatGPT Pro в США.\n\n🔹 Кошелёк доступен только подписчикам ChatGPT Pro от 18 лет.\n🔹 Принимаются карты American Express, Chase, Mastercard и Visa с US‑billing.\n🔹 Сервис стартовал в США для подписчиков ChatGPT Pro.\n\n🤝 Используйте новый кошелёк, чтобы автоматизировать покупки AI‑агентов.",
@@ -221,22 +237,6 @@
     "text_ru": "OpenAI приобрела Odessia 🚀\n\n📣 OpenAI приобрела стартап Odessia, специализирующийся на путешествиях. Пока компания не раскрыла планы в сфере туризма.\n\n🔹 OpenAI официально завершила покупку Odessia.\n🔹 Odessia основана Фрэнсисом Дэвидсоном, бывшим основателем Sonder.\n🔹 Планы OpenAI в области путешествий пока не объявлены.\n\n🤝 Следите за новостями, чтобы узнать о будущих интеграциях AI в туризм.",
     "text_uz": "OpenAI Odessiyni sotib oldi 🚀\n\n📣 OpenAI Odessia sayohat startapini sotib oldi. Hozircha kelajakdagi sayohat strategiyasi haqida ma'lumot berilmagan.\n\n🔹 OpenAI Odessia startapini rasmiy ravishda qo‘shdi.\n🔹 Odessia asoschisi – Francis Davidson, avval Sonder asoschisi.\n🔹 OpenAI sayohat sohasidagi rejalari hali ochiq emas.\n\n🤝 Bu sotib olish AI va sayohat sohasidagi hamkorlikni kuchaytiradi.",
     "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "date": "2026-11-10"
-  },
-  {
-    "title_ru": "Google Cloud запускает Gemini для здравоохранения 🚀🤖",
-    "title_uz": "Google Cloud Gemini sog‘liqni saqlashda 🚀🤖",
-    "text_ru": "Google Cloud запускает Gemini для здравоохранения 🚀🤖\n\n📣 Google Cloud представил платформу Gemini для здравоохранения. Она объединяет клинические данные и автоматизирует рабочие процессы.\n\n🔹 Gemini собирает клинические данные в единой системе.\n🔹 Автоматизация снижает административную нагрузку персонала.\n🔹 Решение работает на надёжной инфраструктуре Google Cloud.\n\n🤝 Поддержите инновации в сфере здравоохранения!",
-    "text_uz": "Google Cloud Gemini sog‘liqni saqlashda 🚀🤖\n\n📣 Google Cloud Gemini platformasini sog‘liqni saqlash sohasiga taqdim etdi. Bu yechim klinik ma'lumotlarni birlashtirish va ish jarayonlarini avtomatlashtirishga qaratilgan.\n\n🔹 Gemini klinik ma'lumotlarni bir platformada birlashtiradi.\n🔹 Avtomatlashtirilgan ish jarayonlari admin bosimini kamaytiradi.\n🔹 Google Cloud infratuzilmasi orqali xavfsiz va kengaytiriladigan yechim.\n\n🤝 Sog‘liqni saqlashda innovatsiyani qo‘llab-quvvatlang!",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "date": "2026-11-10"
-  },
-  {
-    "title_ru": "Adobe Max: AI упрощает редактирование 🚀⚡️",
-    "title_uz": "Adobe Max: AI bilan tahrir qilish osonlashdi 🚀⚡️",
-    "text_ru": "Adobe Max: AI упрощает редактирование 🚀⚡️\n\n📣 На мероприятии Adobe Max анонсированы новые функции Creative Cloud и Firefly AI.\n\n🔹 Автоматическое удаление объектов в Photoshop, Lightroom и Premiere.\n🔹 Firefly AI интегрирован во все приложения Creative Cloud.\n🔹 Новые AI‑инструменты ускоряют процесс редактирования.\n\n🤝 Используйте новые возможности для креативных проектов!",
-    "text_uz": "Adobe Max: AI bilan tahrir qilish osonlashdi 🚀⚡️\n\n📣 Adobe Max tadbirida Creative Cloud va Firefly AI yangi funksiyalarini e'lon qildi.\n\n🔹 Photoshop, Lightroom va Premiere’da avtomatik obyekt va nuqsonlarni olib tashlash.\n🔹 Firefly AI barcha Creative Cloud ilovalariga integratsiya qilindi.\n🔹 Yangi AI vositalari tahrir vaqtini sezilarli darajada qisqartiradi.\n\n🤝 Yangi imkoniyatlar bilan yaratuvchanlikni oshiring!",
-    "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
     "date": "2026-11-10"
   }
 ]
