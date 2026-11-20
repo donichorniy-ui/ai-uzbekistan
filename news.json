@@ -1,5 +1,29 @@
 [
   {
+    "title_ru": "Новый инструмент получения в Gemini API 🚀",
+    "title_uz": "Gemini API’da Asboblarni Qaytarish Yangi Funksiya 🚀",
+    "text_ru": "Новый инструмент получения в Gemini API 🚀\n\n📣 Google добавила функцию получения инструментов в Gemini API.\n\n🔹 Разработчики могут вызывать внешние инструменты через LLM.\n🔹 Функция доступна в публичной бета‑версии.\n🔹 Интеграция ускоряется до нескольких секунд.\n\n🤝 Попробуйте новую возможность и улучшите свои проекты.",
+    "text_uz": "Gemini API’da Asboblarni Qaytarish Yangi Funksiya 🚀\n\n📣 Google Gemini API’ga asboblarni qaytarish funksiyasini qo‘shdi.\n\n🔹 Dasturchilar LLM orqali tashqi asboblarni chaqira oladi.\n🔹 Funksiya hozirda umumiy beta versiyada.\n🔹 Integratsiya jarayoni bir necha soniyaga qisqaradi.\n\n🤝 Yangi imkoniyatlarni sinab ko‘ring va loyihalaringizni kuchaytiring.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "date": "2026-11-20"
+  },
+  {
+    "title_ru": "Неделя масштабных технологических сбоев ⚡️",
+    "title_uz": "Keng qamrovli texnologik uzilishlar haftasi ⚡️",
+    "text_ru": "Неделя масштабных технологических сбоев ⚡️\n\n📣 На этой неделе произошли крупные сбои Outlook, банков, iCloud и воздушного транспорта.\n\n🔹 Outlook был недоступен несколько дней.\n🔹 По всей стране второй раз за 25 лет остановка полётов.\n🔹 Банки и iCloud временно перестали работать.\n\n🤝 Примите меры для повышения технологической устойчивости.",
+    "text_uz": "Keng qamrovli texnologik uzilishlar haftasi ⚡️\n\n📣 Bu hafta Outlook, banklar, iCloud va havo transportida keng ko‘lamli uzilishlar ro‘y berdi.\n\n🔹 Outlook xizmatida bir necha kunlik uzilish.\n🔹 25 yildagi ikkinchi marta mamlakat bo‘ylab samolyotlar to‘xtatildi.\n🔹 Banklar va iCloud vaqtincha ishlashni to‘xtatdi.\n\n🤝 Xavfsizlik choralarini ko‘rib, texnologik barqarorlikni mustahkamlaylik.",
+    "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+    "date": "2026-11-20"
+  },
+  {
+    "title_ru": "AI‑устройства для умного домашнего офиса 🚀🤖",
+    "title_uz": "AI‑gadgetlar bilan uy ofisingizni aqlli qiling 🚀🤖",
+    "text_ru": "AI‑устройства для умного домашнего офиса 🚀🤖\n\n📣 AI‑технологии делают ваш домашний офис более продуктивным. Представляем 6 лучших гаджетов с искусственным интеллектом.\n\n🔹 AI‑блокнот: автоматически преобразует голос в текст.\n🔹 AI‑вебкамера: распознаёт лицо и меняет фон в реальном времени.\n🔹 AI‑умная лампа: регулирует освещение под ваш ритм работы.\n\n🤝 Попробуйте эти гаджеты, чтобы повысить эффективность работы!",
+    "text_uz": "AI‑gadgetlar bilan uy ofisingizni aqlli qiling 🚀🤖\n\n📣 AI texnologiyalari yordamida ish joyingizni yanada samarali qiling. Bu yerda eng foydali 6 gadjet tavsifi.\n\n🔹 AI notetaker: ovozli yozuvlarni matnga avtomatik aylantiradi.\n🔹 AI webcam: yuzni tanib, fonni avtomatik sozlaydi.\n🔹 AI smart lamp: yorug'likni ish ritmingizga moslashtiradi.\n\n🤝 Ish unumdorligini oshirish uchun bu gadjetlarni sinab ko'ring!",
+    "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+    "date": "2026-11-20"
+  },
+  {
     "title_ru": "Уолтер Айзексон в Google о творчестве в эпоху ИИ 🚀",
     "title_uz": "Walter Isaacson Google’da AI davrida ijodiy suhbat 🚀",
     "text_ru": "Уолтер Айзексон в Google о творчестве в эпоху ИИ 🚀\n\n📣 Уолтер Айзексон обсудил с Google роль творчества и человеческого суждения в эпоху ИИ. Смотрите эпизод.\n\n🔹 Уолтер Айзексон появился в серии Google AI.\n🔹 Обсуждение связывает исторических новаторов с современным творчеством.\n🔹 Эпизод доступен онлайн для просмотра.\n\n🤝 Присоединяйтесь к разговору о будущем творчества в AI!",
@@ -214,29 +238,5 @@
     "text_uz": "Apple AI sog‘liq vositalarini tadqiq qiladi 🚀🤖\n\n📣 Apple yangi tadqiqotni e’lon qildi, sog‘liq uchun suhbatli AI vositalarini o‘rganadi.\n\n🔹 Apple “Apple Health AI Usage Study” loyihasini boshladi.\n🔹 Hamkor: klinik AI platformasi OpenEvidence.\n🔹 Maqsad: foydalanuvchilar javoblarini va foydaliligini o‘lchash.\n\n🤝 Natijalar AI‑sog‘liq xizmatlarini yaxshilashga yordam beradi.",
     "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
     "date": "2026-11-16"
-  },
-  {
-    "title_ru": "Apple запускает новое AI‑приложение для здоровья 🚀🤖",
-    "title_uz": "Apple yangi AI sog‘liq ilovasi 🚀🤖",
-    "text_ru": "Apple запускает новое AI‑приложение для здоровья 🚀🤖\n\n📣 Apple запустила новое приложение для изучения AI в здравоохранении.\n\n🔹 Приложение исследует, как пользователи применяют AI для здоровья.\n🔹 Отвечает на повседневные медицинские вопросы.\n🔹 Исследование проводится в глобальном масштабе.\n\n🤝 Присоединяйтесь к изучению и улучшайте своё здоровье.",
-    "text_uz": "Apple yangi AI sog‘liq ilovasi 🚀🤖\n\n📣 Apple AI sog‘liqni saqlash bo‘yicha yangi ilovani ishga tushirdi.\n\n🔹 Ilova foydalanuvchilarning sog‘liqdagi AI foydalanishini o‘rganadi.\n🔹 Kundalik tibbiy savollarga javob berish imkonini beradi.\n🔹 Tadqiqot global miqyosda amalga oshiriladi.\n\n🤝 Siz ham qatnashing va sog‘liqni yaxshilang.",
-    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-    "date": "2026-11-16"
-  },
-  {
-    "title_ru": "Дженсен Хуанг может вернуться к роли CEO 🚀",
-    "title_uz": "Jensen Huang CEO bo‘lishni o‘ylayapti? 🚀",
-    "text_ru": "Jensen Huang может вернуться к роли CEO 🚀\n\n📣 Вокруг соучредителя Nvidia Дженсена Хуанга разгораются слухи о возвращении.\n\n🔹 Выпуск Stepback обновился с утра.\n🔹 О официальном возвращении на пост CEO нет подтверждения.\n🔹 Хуанг обсуждает будущую стратегию компании.\n\n🤝 Следите за новостями и задавайте вопросы.",
-    "text_uz": "Jensen Huang CEO bo‘lishni o‘ylayapti? 🚀\n\n📣 Nvidia asoschisi Jensen Huang qaytish haqida mish-mishlar tarqalmoqda.\n\n🔹 Stepback byunali yangilik xabari ertalabdan keyin yangilandi.\n🔹 CEO lavozimiga qaytish ehtimoli haqida rasmiy tasdiq yo‘q.\n🔹 Jensen Huang kompaniyaning kelajak strategiyasini muhokama qilmoqda.\n\n🤝 Yangiliklarni kuzatib boring, savollar bering.",
-    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-    "date": "2026-11-15"
-  },
-  {
-    "title_ru": "Проблемы Дженсена Хуана угрожают индустрии ИИ? 🚀",
-    "title_uz": "Jensen Huang'ning muammosi AI sanoatini xavf ostiga qo'yadimi? 🚀",
-    "text_ru": "Проблемы Дженсена Хуана угрожают индустрии ИИ? 🚀\n\n📣 Проблемы основателя Nvidia Дженсена Хуана могут повлиять на рынок ИИ.\n\n🔹 Nvidia является лидером рынка AI‑чипов.\n🔹 Дженсен Хуанг определяет стратегию компании.\n🔹 Инвесторы внимательно следят за показателями Nvidia.\n\n🤝 Следите за новостями Nvidia, чтобы понять будущее ИИ.",
-    "text_uz": "Jensen Huang'ning muammosi AI sanoatini xavf ostiga qo'yadimi? 🚀\n\n📣 Nvidia asoschisi Jensen Huangga bog‘liq muammolar AI bozorini siljitmoqda.\n\n🔹 Nvidia AI chip bozorining asosiy yetakchisi.\n🔹 Jensen Huang kompaniyaning strategik qarorlarini belgilaydi.\n🔹 Sanoat investorlari Nvidia faoliyatiga katta e’tibor beradi.\n\n🤝 AI ekotizimini barqarorlashtirish uchun kompaniya yangiliklarini kuzatib boring.",
-    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "date": "2026-11-15"
   }
 ]
