@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "Крупные технологические сбои продолжаются ⚡️",
+    "title_uz": "Katta texnologik uzilishlar davom etadi ⚡️",
+    "text_ru": "Крупные технологические сбои продолжаются ⚡️\n\n📣 На прошлой неделе произошли масштабные сбои в системах FAA, Outlook и JPMorgan Chase.\n\n🔹 FAA приостановил полёты по всей стране.\n🔹 Outlook был недоступен несколько дней подряд.\n🔹 Сбой в JPMorgan Chase привёл к полной остановке банковских операций.\n\n🔥 Ожидаются новые сбои, будьте готовы к возможным перебоям.",
+    "text_uz": "Katta texnologik uzilishlar davom etadi ⚡️\n\n📣 So‘nggi hafta davomida FAA, Outlook va JPMorgan Chase tizimlarida keng ko‘lamli uzilishlar ro‘yxatga olindi.\n\n🔹 FAA butun mamlakat bo‘ylab samolyot harakatini to‘xtatdi.\n🔹 Outlook xizmatida bir necha kun davom etgan uzilish yuz berdi.\n🔹 JPMorgan Chase bank tizimida to‘liq to‘xtash sodir bo‘ldi.\n\n🤝 Kelgusida yanada ko‘proq uzilishlar bo‘lishi mumkin, ehtiyot bo‘ling.",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "date": "2026-11-22"
+  },
+  {
+    "title_ru": "🤖 Главный учёный OpenAI: как ограничить скорость развития ИИ",
+    "title_uz": "🤖 OpenAI bosh ilm-fani: AI rivojlanish tezligini cheklash",
+    "text_ru": "🤖 Главный учёный OpenAI: как ограничить скорость развития ИИ\n\n📣 Главный учёный OpenAI обсудил пути ограничения скорости развития ИИ. Он подчеркнул необходимость согласования точных критериев измерения.\n\n🔹 Для ограничения скорости требуется единый набор измерительных критериев.\n🔹 Пока не предложено конкретных цифр или стандартов.\n🔹 Международное сотрудничество критично для решения задачи.\n\n🤝 Давайте совместно работать над устойчивым развитием ИИ.",
+    "text_uz": "🤖 OpenAI bosh ilm-fani: AI rivojlanish tezligini cheklash\n\n📣 OpenAI bosh ilm-fani AI rivojlanishining tezligini cheklash yo‘llarini muhokama qildi. U, bu maqsadga erishish uchun aniq o‘lchov kerakligini ta’kidladi.\n\n🔹 AI tezligini o‘lchash uchun umumiy mezonlar talab qilinadi.\n🔹 Hozircha aniq raqam yoki standart taklif qilinmagan.\n🔹 Global hamkorlik bu masalani hal qilishda muhim.\n\n🤝 AI rivojlanishini barqaror yo‘nalishda boshqarish uchun birgalikda harakat qilaylik.",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "date": "2026-11-22"
+  },
+  {
     "title_ru": "🚀 Революция vibe‑кодинга охватывает все гаджеты",
     "title_uz": "🚀 Vibe‑kodlash inqilobi barcha qurilmalarga kelmoqda",
     "text_ru": "🚀 Революция vibe‑кодинга охватывает все гаджеты\n\n📣 The Stepback — еженедельный дайджест о тенденции vibe‑кодинга. Он приходит в почту каждое воскресенье в 8 AM ET.\n\n🔹 Технология vibe‑кодинга внедряется в любые умные устройства.\n🔹 Рассылка \"The Stepback\" выходит каждое воскресенье в 8 AM ET.\n🔹 Автор — Дэвид Пирс, эксперт в AI и vibe‑хаке.\n\n🤝 Подпишитесь, чтобы первыми узнавать о новых AI‑трендах.",
@@ -221,22 +237,6 @@
     "text_ru": "Osmo AI нюх как у человека 🚀🤖\n\n📣 Компания Osmo объявила, что её AI‑ноздря сопоставима с человеческим обонянием. В лаборатории рядом с аэропортом Ньюарк, около 30 опытных нюхачей собирают данные о запахах.\n\n🔹 Лаборатория расположена рядом с аэропортом Ньюарк, Нью-Джерси.\n🔹 В проекте участвует примерно 30 профессиональных нюхачей.\n🔹 Записи «nutty», «peachy», «marine» сопоставляются с химическим анализом.\n\n🤝 Следите за развитием Osmo AI — новый шаг к цифровому обонянию.",
     "text_uz": "Osmo AI hidi inson hidiga teng 🚀🤖\n\n📣 Osmo kompaniyasi Njujersi shtatidagi laboratoriyada AI hidini inson hidiga teng deb e'lon qildi. 30 nafar professional hidlovchilar har bir hidni qayd etib, ma'lumotlar bazasini yaratmoqda.\n\n🔹 Laboratoriya Njujersi shtati, Newark aeroporti yaqinida joylashgan.\n🔹 Jamoada taxminan 30 tajribali hidlovchi ishtirok etadi.\n🔹 \"Nutty\", \"peachy\", \"marine\" kabi eslatmalar kimyoviy tahlil bilan birlashtiriladi.\n\n🤝 Osmo AI hidi kelajakdagi texnologik inqilobning yangi bosqichi bo‘lishi mumkin.",
     "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-    "date": "2026-11-18"
-  },
-  {
-    "title_ru": "Новая AI-игра Уилла Райта MyMems 🚀",
-    "title_uz": "Will Wrightning yangi AI o'yini MyMems 🚀",
-    "text_ru": "Новая AI-игра Уилла Райта MyMems 🚀\n\n📣 Уилл Райт, создатель SimCity и The Sims, разрабатывает игру MyMems с ИИ. Игра позволяет преобразовать ваши воспоминания в интерактивные миры.\n\n🔹 Уилл Райт известен благодаря SimCity и The Sims.\n🔹 MyMems использует ИИ для визуализации личных воспоминаний.\n🔹 Игра предлагает уникальный способ создания пользовательских миров.\n\n🔥 Присоединяйтесь к новому уровню игрового опыта!",
-    "text_uz": "Will Wrightning yangi AI o'yini MyMems 🚀\n\n📣 Will Wright, SimCity va The Sims yaratuvchisi, AI asosida MyMems nomli o'yinni ishlab chiqmoqda. Bu o'yin foydalanuvchilarning xotiralarini xaritalashga mo'ljallangan.\n\n🔹 Will Wright SimCity va The Sims kabi mashhur franchayzlarni yaratgan.\n🔹 MyMems AI texnologiyasi orqali xotiralarni interaktiv dunyoga aylantiradi.\n🔹 O'yin o'zgaruvchan, foydalanuvchi yaratuvchanligini kengaytiradi.\n\n🤝 Kelajakdagi o'yin tajribasini birga kashf eting!",
-    "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-    "date": "2026-11-18"
-  },
-  {
-    "title_ru": "Nvidia уточнила условия финансирования neocloud ⚡️",
-    "title_uz": "Nvidia neocloud moliyalashtirish shartlarini aniqladi 🚀",
-    "text_ru": "📣 Nvidia уточнила условия финансирования новых neocloud проектов.\nКомпания будет поддерживать кредит только при наличии независимого финансирования и готовой инфраструктуры.\n🔹 Nvidia покрывает кредит дата‑центра лишь при самостоятельном финансировании.\n🔹 Финансирование предоставляется после строительства объекта и установки оборудования Nvidia.\n🔹 Временный CEO Colette Kress подтвердил эти условия.\n🤝 Новые условия способствуют устойчивому развитию neocloud экосистемы.",
-    "text_uz": "📣 Nvidia yangi neocloud loyihalarini moliyalashtirish shartlarini e'lon qildi.\nNvidia shartlari bo'yicha, mustaqil moliyalashtirish va infratuzilma qurilishi talab qilinadi.\n🔹 Nvidia ma'lumot markazi kreditini faqat mustaqil moliyalashtirishda qo'llab-quvvatlaydi.\n🔹 Neocloud infratuzilmasi qurilgan va Nvidia uskunalari o'rnatilgan bo'lganda moliya beriladi.\n🔹 Vaqtinchalik bosh direktor Colette Kress bu shartlarni tasdiqladi.\n🤝 Yangi shartlar neocloud ekotizimini barqaror rivojlantirishga yordam beradi.",
-    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
     "date": "2026-11-18"
   }
 ]
