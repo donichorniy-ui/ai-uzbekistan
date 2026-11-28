@@ -1,5 +1,21 @@
 [
   {
+    "title_ru": "DIY‑виджеты Android: следим за автобусом в реальном времени ⚡️",
+    "title_uz": "Android’da DIY vidjetlar bilan avtobus vaqtini kuzatish 🚀",
+    "text_ru": "DIY‑виджеты Android: следим за автобусом в реальном времени ⚡️\n\n📣 Пользователи Android теперь могут создать виджет, показывающий время прибытия автобуса в реальном времени.\n\n🔹 Android поддерживает создание пользовательских DIY‑виджетов.\n🔹 Виджет отображает ближайшую остановку и актуальные времена прибытия.\n🔹 Настраивается за несколько шагов, без открытия отдельного приложения.\n\n🔥 Попробуйте создать свой виджет и будьте всегда в срок!",
+    "text_uz": "Android’da DIY vidjetlar bilan avtobus vaqtini kuzatish 🚀\n\n📣 Android foydalanuvchilari endi o‘zlari uchun avtobus kelish vaqtini ko‘rsatadigan vidjet yaratishlari mumkin.\n\n🔹 Android platformasi foydalanuvchilarga DIY vidjetlar yaratish imkonini beradi.\n🔹 Vidjet real‑vaqt ma’lumotlari bilan yaqin atrofdagi avtobus stansiyasini ko‘rsatadi.\n🔹 Bir necha bosqichda sozlanadi, ilova ochish kerak emas.\n\n🤝 O‘z avtobus jadvalingizni nazorat qiling, vaqtni tejang!",
+    "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "date": "2026-11-28"
+  },
+  {
+    "title_ru": "OpenAI объединяет Chat и Work, пользователи могут быстрее достичь лимита 📣",
+    "title_uz": "OpenAI birlashtiradi Chat va Work, foydalanuvchilar limitga tezroq yetishi mumkin 🚀",
+    "text_ru": "OpenAI объединяет Chat и Work, пользователи могут быстрее достичь лимита 📣\n\n📣 OpenAI объединяет функции Chat и Work в ChatGPT и вводит единый счётчик использования. Это может привести к более быстрому достижению лимита для активных пользователей.\n\n🔹 Новый единый счётчик учитывает все сессии ChatGPT.\n🔹 Интеграция Chat и Work упрощает пользовательский опыт.\n🔹 Активные пользователи могут быстрее достичь лимита.\n\n🤝 Следите за своим потреблением и планируйте использование.",
+    "text_uz": "OpenAI birlashtiradi Chat va Work, foydalanuvchilar limitga tezroq yetishi mumkin 🚀\n\n📣 OpenAI ChatGPT’da Chat va Work funksiyalarini birlashtiradi va bitta foydalanish metrini joriy qiladi. Bu, ko‘p foydalanadigan foydalanuvchilar uchun limitga tezroq yetish xavfini oshiradi.\n\n🔹 Yangi yagona metrika barcha ChatGPT sessiyalarini hisoblaydi.\n🔹 Chat va Work integratsiyasi foydalanuvchi tajribasini birlashtiradi.\n🔹 Qattiq foydalanuvchilar limitga oldindan yetishi mumkin.\n\n🤝 Yangi metrikani kuzatib, foydalanishingizni samarali boshqaring.",
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "date": "2026-11-28"
+  },
+  {
     "title_ru": "Nvidia приостановила поставки чипов 🚀",
     "title_uz": "Nvidia chip yetkazib berishni to‘xtatdi 🚀",
     "text_ru": "Nvidia приостановила поставки чипов 🚀\n\n📣 Nvidia временно приостановила поставки серверных чипов в Юго‑Восточную Азию.\n\n🔹 Приостановка касается Малайзии, Сингапура, Таиланда и Индонезии.\n🔹 США стремятся ограничить поставки AI‑чипов в Китай.\n🔹 Nvidia потребовала от производителей немедленно выполнить решение.\n\n🤝 Следите за обновлениями, новые ограничения влияют на рынок ИИ.",
@@ -221,22 +237,6 @@
     "text_ru": "ООН не достигла согласия по правилам «убийц‑роботов» 🤖⚡️\n\n📣 В Женеваском дипломатическом саммите ООН не удалось согласовать правила использования автономного оружия.\n\n🔹 Переговоры продолжались неделю, но конкретных решений не принято.\n🔹 Делегаты согласились «начать обсуждать варианты» дальнейших действий.\n🔹 Международное сообщество продолжит работу над регулированием.\n\n🤝 Для безопасного развития ИИ необходимо совместное международное сотрудничество.",
     "text_uz": "BMT kelisholmadi: “kilo robotlar” qoidalari muhokamasi 🤖⚡️\n\n📣 BMT Genevadan o'tkazilgan diplomatik uchrashuvda avtonom qurol (killer robot) qoidalari bo'yicha kelisholmadi.\n\n🔹 Genevada bir hafta davom etgan muzokaralar yakunida aniq qaror chiqmadi.\n🔹 Vakillar “variantlarni muhokama qilish”ni boshlashga kelishdi.\n🔹 Kelgusida xalqaro hamjamiyat bu masalani davom ettiradi.\n\n🤝 Kelajakda xavfsiz AI texnologiyalarini shakllantirish uchun birgalikda ishlash zarur.",
     "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-    "date": "2026-11-21"
-  },
-  {
-    "title_ru": "Signal вводит ограничение скриншотов 📱⚡️",
-    "title_uz": "Signal skrinshot cheklovini joriy etdi 📱⚡️",
-    "text_ru": "Signal skrinshot cheklovini joriy etdi 📱⚡️\n\n📣 Signal Android va iOS ilovalarida foydalanuvchilarning skrinshot olish imkoniyatini chekladi.\n\n🔹 Android va iOS versiyalarida skrinshot blokirovka qilinadi.\n🔹 Cheklov foydalanuvchi maxfiyligini oshirishga qaratilgan.\n🔹 Signal bu qarorni AI kuzatuviga qarshi “muhim tahdid” deb atadi.\n\n🤝 Xavfsizlikni birgalikda mustahkamlaylik\n\n━━━━━━━━━━\nSignal вводит ограничение скриншотов 📱⚡️\n\n📣 Signal ограничивает возможность делать скриншоты в приложениях для Android и iOS.\n\n🔹 Блокировка скриншотов активна в Android и iOS.\n🔹 Мера направлена на повышение конфиденциальности пользователей.\n🔹 Signal назвал AI‑надзор «существующей угрозой».\n\n🤝 Давайте вместе укреплять безопасность",
-    "text_uz": "Signal skrinshot cheklovini joriy etdi 📱⚡️\n\n📣 Signal Android va iOS ilovalarida foydalanuvchilarning skrinshot olish imkoniyatini chekladi.\n\n🔹 Android va iOS versiyalarida skrinshot blokirovka qilinadi.\n🔹 Cheklov foydalanuvchi maxfiyligini oshirishga qaratilgan.\n🔹 Signal bu qarorni AI kuzatuviga qarshi “muhim tahdid” deb atadi.\n\n🤝 Xavfsizlikni birgalikda mustahkamlaylik\n\n━━━━━━━━━━\nSignal вводит ограничение скриншотов 📱⚡️\n\n📣 Signal ограничивает возможность делать скриншоты в приложениях для Android и iOS.\n\n🔹 Блокировка скриншотов активна в Android и iOS.\n🔹 Мера направлена на повышение конфиденциальности пользователей.\n🔹 Signal назвал AI‑надзор «существующей угрозой».\n\n🤝 Давайте вместе укреплять безопасность",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "date": "2026-11-21"
-  },
-  {
-    "title_ru": "🚀 Обновление графика AI в отчете METR",
-    "title_uz": "🚀 METR hisobotida AI grafik yangilandi",
-    "text_ru": "🚀 Обновление графика AI в отчете METR\n\n📣 В новом отчете METR отмечен экспоненциальный рост возможностей ИИ. Однако модели хуже справляются с задачами суждения, чем с программированием.\n\n🔹 METR обновила график временного горизонта.\n🔹 Некоторые возможности ИИ продолжают экспоненциальный рост.\n🔹 Задачи суждения отстают от кодинга.\n\n🤝 Следите за новостями о развитии ИИ.\n━━━━━━━━━━\n🚀 METR hisobotida AI grafik yangilandi\n\n📣 METR yangi hisobotda AI imkoniyatlari eksponensial o'sishini ko'rsatdi. Biroq, modelning hukm chiqarish vazifalaridagi samaradorligi kodlashga nisbatan past.\n\n🔹 METR yangi vaqt gorizont diagrammasini yangiladi.\n🔹 Ba'zi AI imkoniyatlari eksponensial tezlikda rivojlanmoqda.\n🔹 Hukm chiqarish vazifalarida natijalar kodlashga qaraganda zaif.\n\n🤝 AI rivojlanishini kuzatishda yangiliklardan xabardor bo'ling.",
-    "text_uz": "🚀 METR hisobotida AI grafik yangilandi\n\n📣 METR yangi hisobotda AI imkoniyatlari eksponensial o'sishini ko'rsatdi. Biroq, modelning hukm chiqarish vazifalaridagi samaradorligi kodlashga nisbatan past.\n\n🔹 METR yangi vaqt gorizont diagrammasini yangiladi.\n🔹 Ba'zi AI imkoniyatlari eksponensial tezlikda rivojlanmoqda.\n🔹 Hukm chiqarish vazifalarida natijalar kodlashga qaraganda zaif.\n\n🤝 AI rivojlanishini kuzatishda yangiliklardan xabardor bo'ling.\n━━━━━━━━━━\n🚀 Обновление графика AI в отчете METR\n\n📣 В новом отчете METR отмечен экспоненциальный рост возможностей ИИ. Однако модели хуже справляются с задачами суждения, чем с программированием.\n\n🔹 METR обновила график временного горизонта.\n🔹 Некоторые возможности ИИ продолжают экспоненциальный рост.\n🔹 Задачи суждения отстают от кодинга.\n\n🤝 Следите за новостями о развитии ИИ.",
-    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
     "date": "2026-11-21"
   }
 ]
